@@ -215,27 +215,6 @@ assets:
   multi: 
   source:
   - name: menu\us\itemshop.2ld
-- name: msg\fr\jm.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  multi: 
-  source:
-  - name: msg\fr\jm.bar
-- name: msg\gr\jm.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  multi: 
-  source:
-  - name: msg\gr\jm.bar
-- name: msg\it\jm.bar
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  multi: 
-  source:
-  - name: msg\it\jm.bar
   #start new
 - name: msg/us/al.bar
   platform: pc
@@ -677,15 +656,61 @@ assets:
     source:
     - name: msg/he.yml
       language: fr
-#Do jm.bar soon tm
-- name: msg\us\jm.bar
-  method: copy
+- name: msg/us/jm.bar
   platform: pc
   package: kh2_fifth
-  multi: 
+  method: binarc
   source:
-  - name: msg\us\jm.bar
-#more conversions
+  - name: jm
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jm.yml
+      language: en
+- name: msg/sp/jm.bar
+  platform: pc
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: jm
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jm.yml
+      language: sp
+- name: msg/it/jm.bar
+  platform: pc
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: jm
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jm.yml
+      language: it
+- name: msg/gr/jm.bar
+  platform: pc
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: jm
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jm.yml
+      language: gr
+- name: msg/fr/jm.bar
+  platform: pc
+  package: kh2_fifth
+  method: binarc
+  source:
+  - name: jm
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/jm.yml
+      language: fr
 - name: msg/us/lk.bar
   platform: pc
   package: kh2_fifth
@@ -11942,13 +11967,6 @@ assets:
   multi: 
   source:
   - name: menu\us\title.2ld
-- name: msg\sp\jm.bar
-  method: copy
-  platform: pc
-  package: kh2_first
-  multi: 
-  source:
-  - name: msg\sp\jm.bar
 #start new
 - name: msg/us/es.bar
   platform: pc
