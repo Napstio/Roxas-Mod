@@ -12060,54 +12060,61 @@ assets:
     source:
     - name: msg/sys.yml
       language: fr
-#fix later
-- name: msg\fr\title.bar
-  method: copy
+- name: msg/us/title.bar
   platform: pc
   package: kh2_first
-  multi: 
+  method: binarc
   source:
-  - name: msg\fr\title.bar
-- name: msg\gr\title.bar
-  method: copy
+  - name: titl
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/title.yml
+      language: en
+- name: msg/sp/title.bar
   platform: pc
   package: kh2_first
-  multi: 
+  method: binarc
   source:
-  - name: msg\gr\title.bar
-- name: msg\it\title.bar
-  method: copy
+  - name: titl
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/title.yml
+      language: sp
+- name: msg/it/title.bar
   platform: pc
   package: kh2_first
-  multi: 
+  method: binarc
   source:
-  - name: msg\it\title.bar
-- name: msg\sp\title.bar
-  method: copy
+  - name: titl
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/title.yml
+      language: it
+- name: msg/gr/title.bar
   platform: pc
   package: kh2_first
-  multi: 
+  method: binarc
   source:
-  - name: msg\sp\title.bar
-- name: msg\us\title.bar
-  method: copy
+  - name: titl
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/title.yml
+      language: gr
+- name: msg/fr/title.bar
   platform: pc
   package: kh2_first
-  multi: 
+  method: binarc
   source:
-  - name: msg\us\title.bar
-#- name: msg/us/title.bar
-#  platform: pc
-#  package: kh2_first
-#  method: binarc
-#  source:
-#  - name: title
-#    type: list
-#    method: kh2msg
-#    source:
-#    - name: msg/title.yml
-#      language: en
-#end fix
+  - name: titl
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/title.yml
+      language: fr
 - name: msg/us/tt.bar
   platform: pc
   package: kh2_first
