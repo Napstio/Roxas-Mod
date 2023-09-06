@@ -1,0 +1,709 @@
+- id: 3018
+  fr: >-
+    Big Ben est parti voir le maître
+
+    dans sa chambre.{:clear }{:theme 0A}Va les rejoindre{:reset}, Roxas.
+
+    Le maître ne va pas bien.
+  gr: >-
+    Von Unruh ist zum Gemach
+
+    des Herrn vorausgegangen.{:clear }Bitte, Roxas, geh du auch
+
+    und {:theme 0A}sprich mit dem Herrn{:reset}.{:clear }Er ist ganz alleine ...
+  it: >-
+    Tockins è andato avanti fino
+
+    alla camera del padrone.{:clear }Roxas, per favore, va' con lui 
+
+    dal {:theme 0A}padrone{:reset}. È tutto solo...
+  sp: >-
+    Din Don ha ido a los
+
+    aposentos del amo.{:clear }Por favor, Roxas, ve con él.{:theme 0A}
+
+    El amo{:reset} está solo.
+  en: >-
+    Cogsworth went ahead to
+
+    the master´s chamber.{:clear }Please, Roxas, go with him to{:theme 0A}
+
+    see the master{:reset}. He´s all alone.
+- id: 3097
+  fr: >-
+    Roxas ! Dingo !
+  gr: >-
+    Roxas! Goofy!
+  it: >-
+    Roxas! Pippo!
+  sp: >-
+    ¡Roxas! ¡Goofy!
+  en: >-
+    Roxas! Goofy!
+- id: 3155
+  fr: >-
+    Moi, c'est Roxas.
+  gr: >-
+    Ich bin Roxas.
+  it: >-
+    Io sono Roxas.
+  sp: >-
+    Soy Roxas.
+  en: >-
+    I´m Roxas.
+- id: 3277
+  fr: >-
+    Si vous avez des informations
+
+    sur Axel, le Roi,{:delay A8 00}{:clear }{:delay 0C 00}{:clear }les Sans-cæur ou l'Organisation,
+
+    faites-le nous savoir, d'accord ?
+  gr: >-
+    Hört ihr irgendwas von Axel, dem König,
+
+    den Herzlosen, der Organisation --{:delay 0C 01}{:clear }... was es auch ist -- gebt uns Bescheid!
+  it: >-
+    Se sentite qualcosa su Axel o il Re...{:delay AA 00}{:clear } {:delay 05 00}{:clear }... gli Heartless, l'Organizzazione
+
+    o qualsiasi cosa, fatecelo sapere!
+  sp: >-
+    Si oís algo sobre Axel o el rey,{:delay A2 00}{:clear }los sincorazón, la Organización...
+
+    lo que sea, ¡avisadnos!
+  en: >-
+    If you hear anything about Axel or the King,{:delay AA 00}{:clear } {:delay 05 00}{:clear }the Heartless, the Organization--
+
+    anything at all--let us know!
+- id: 3328
+  fr: >-
+    Belle... Roxas. Je veux que
+
+    vous quittiez ce château.
+  gr: >-
+    Belle ... Roxas ... Ich will,
+
+    dass ihr das Schloss verlasst.
+  it: >-
+    Belle, Roxas, voglio che
+
+    ve ne andiate dal castello.
+  sp: >-
+    Bella... Roxas...
+
+    Quiero que os vayáis del castillo.
+  en: >-
+    Belle... Roxas...
+
+    I want you to leave the castle.
+- id: 15719
+  fr: >-
+    Du nerf, les amis.
+
+    Ne baissons pas les bras.{:clear }Je suis sûr que Roxas et ses
+
+    copains vont arranger tout ça !
+  gr: >-
+    Kein Grund, die Hoffnung zu verlieren.{:clear }Ihr seid schließlich hier!
+
+    Ihr werdet sicher etwas unternehmen!
+  it: >-
+    Forza, ragazzi.
+
+    Non c'è ragione di deprimersi.{:clear }Roxas e i suoi amici sono qui
+
+    e sistemeranno le cose!
+  sp: >-
+    Vamos, chicos.
+
+    No hay que perder las esperanzas.{:clear }¡Roxas y sus amigos están aquí!
+
+    ¡Seguro que ellos lo arreglarán!
+  en: >-
+    Come on, guys.
+
+    There´s no need to lose hope.{:clear }Roxas and his friends are here!
+
+    I´m sure they´ll do something!
+- id: 15720
+  fr: >-
+    C'est vrai que tu visites
+
+    beaucoup d'endroits ?{:clear }J'aimerais bien que tu me
+
+    racontes tes aventures.
+  gr: >-
+    Ihr reist doch zu allen möglichen
+
+    Orten, nicht wahr, Roxas?{:clear }Du musst mir irgendwann mal von
+
+    all euren Abenteuern erzählen, ja?
+  it: >-
+    Stai viaggiando ovunque,
+
+    vero, Roxas?{:clear }Promettimi che un giorno mi
+
+    racconterai tutte le tue avventure.
+  sp: >-
+    Estás viajando por todas
+
+    partes, ¿verdad, Roxas?{:clear }Ya me contarás tus aventuras
+
+    algún día. Me encantaría.
+  en: >-
+    You´re traveling to all sorts of places,
+
+    aren´t you, Roxas?{:clear }I wanna hear about all your
+
+    adventures sometime, okay?
+- id: 15742
+  fr: >-
+    Tout le monde va bien ! Quelle joie !
+
+    Il ne reste plus que la Bête...{:clear }J'aimerais me joindre à vous, mais je vous
+
+    retarderais. Je compte sur vous !
+  gr: >-
+    Ich bin so erleichtert, dass es allen gut geht.
+
+    Jetzt ist da nur noch das Biest ...{:clear }Ich würde ja gerne mit euch kommen, aber
+
+    ich würde euch doch nur im Weg stehen.{:clear }Ich zähle auf euch, Roxas!
+  it: >-
+    Che bello, stanno tutti bene!
+
+    Manca solo la Bestia...{:clear }Vorrei venire con te, ma sarei solo
+
+    d'impaccio. Conto su di te, Roxas!
+  sp: >-
+    Me tranquiliza saber que todos están bien.
+
+    Ahora solo falta que Bestia...{:clear }Me gustaría ir con vosotros, pero solo
+
+    sería un estorbo. ¡Confío en ti, Roxas!
+  en: >-
+    I´m so relieved everyone is all right.
+
+    Now there´s just the Beast...{:clear }I´d really like to go with you, but I´d just
+
+    get in the way. I´m counting on you, Roxas!
+- id: 15762
+  fr: >-
+    J'ai entendu Belle crier !
+
+    Sa voix venait de {:theme 0A}la salle de bal{:reset} !{:clear }Elle a besoin d'aide !
+
+    Oh là, là ! Qu'allons-nous faire ?!
+  gr: >-
+    Ich habe Belle schreien gehört!
+
+    Es kam aus dem {:theme 0A}Ballsaal{:reset}!{:clear }Sie muss in Schwierigkeiten sein!
+
+    Was sollen wir nur tun, Roxas?!
+  it: >-
+    Ho sentito Belle urlare nella
+
+    {:theme 0A}sala da ballo{:reset}!{:clear }Credo sia in pericolo!
+
+    Che cosa facciamo, Roxas?
+  sp: >-
+    ¡He oído un grito de Bella
+
+    que viene del {:theme 0A}salón de baile{:reset}!{:clear }¡Debe de estar en peligro!
+
+    ¿¡Qué hacemos, Roxas!?
+  en: >-
+    I heard Belle´s scream coming
+
+    from the {:theme 0A}ballroom{:reset}!{:clear }She must be in trouble!
+
+    What should we do, Roxas!?
+- id: 17627
+  fr: >-
+    {:unk0f 03 1E 00 6D 01}{:color #00F0F080}Ajout de la commande Intervertir.{:reset}
+
+    Cette commande permet de changer
+
+    l'un des membres de l'équipe.{:clear }Sers-t'en lors des combats durant lesquels
+
+    le menu principal n'est pas accessible.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 1E 00 84 01}{:color #00F0F080}Ajout de la commande Coopération.{:reset}
+
+    Appuie sur {:icon dynamic-dpad-left} pour afficher la liste des
+
+    techniques et les sélectionner.{:clear }{:unk0f 00 00 00 00 00}Les Coopérations sont des compétences exécutées
+
+    de concert avec les autres membres de l'équipe en
+
+    utilisant les MP de Roxas.
+  gr: >-
+    {:unk0f 03 1E 00 6D 01}{:color #00F0F080}Das Kommando "Wechsel" wurde hinzugefügt.{:reset} Dieses Kommando
+
+    erlaubt den schnellen Wechsel von Gefährten.{:clear }Benutze dieses Kommando, um Gefährten
+
+    während eines Kampfes auszuwechseln.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 1E 00 84 01}{:color #00F0F080}Das Kommando "Limit" wurde hinzugefügt.{:reset} Drücke {:icon dynamic-dpad-left}, um das
+
+    Kommando-Menü umzuschalten, und wähle dann "Limit" aus.{:clear }{:unk0f 00 00 00 00 00}Limit-Moves sind Abilitys, die Soras MP verbrauchen
+
+    und zusammen mit Gefährten ausgeführt werden.
+  it: >-
+    {:unk0f 03 1E 00 6D 01}{:color #00F0F080}È stato aggiunto il comando Gruppo.{:reset}
+
+    Ti permette di sostituire i membri del gruppo.{:clear }Usalo per cambiare la composizione
+
+    della squadra durante le battaglie.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 1E 00 84 01}{:color #00F0F080}È stato aggiunto il comando Limite.{:reset}
+
+    Visualizza il Limite con {:icon dynamic-dpad-left}, poi selezionalo.{:clear }{:unk0f 00 00 00 00 00}I Limiti consumano solo gli MP di Roxas,
+
+    ma sono abilità che si eseguono in gruppo.
+  sp: >-
+    {:unk0f 03 64 00 6D 01}{:color #00F0F080}Se ha agregado el comando Grupo.{:reset}
+
+    Permite cambiar con rapidez a los miembros del grupo.{:clear }Úsalo para intercambiar miembros del grupo en las
+
+    batallas, incluso si no es posible abrir los menús.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 64 00 84 01}{:color #00F0F080}Se ha agregado el comando Límite.{:reset}
+
+    Pulsa {:icon dynamic-dpad-left} para ver el Límite y luego selecciónalo.{:clear }{:unk0f 00 00 00 00 00}Los Límites son habilidades que consumen los PM
+
+    de Roxas y se ejecutan junto a miembros del grupo.
+  en: >-
+    {:unk0f 03 0F 00 6D 01}{:color #00F0F080}The Party Command has been added.{:reset}
+
+    This Command allows a quick exchange of Party Members.{:clear }Use this Command to switch Party Members
+
+    during battles where menus can't be opened.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+
+    Press {:icon dynamic-dpad-left} to show the Limit, then select it.{:clear }{:unk0f 00 00 00 00 00}Limits are Abilities that consume Roxas's MP
+
+    and are executed with Party Members.
+- id: 17628
+  fr: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}Ajout de la commande Coopération.{:reset}
+
+    Appuie sur {:icon dynamic-dpad-left} pour afficher la liste des
+
+    techniques et les sélectionner.{:clear }{:unk0f 00 00 00 00 00}Les Coopérations sont des compétences exécutées
+
+    de concert avec les autres membres de l'équipe en
+
+    utilisant les MP de Roxas.
+  gr: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}Das Kommando "Limit" wurde hinzugefügt.{:reset} Drücke {:icon dynamic-dpad-left}, um das
+
+    Kommando-Menü umzuschalten, und wähle dann "Limit" aus.{:clear }{:unk0f 00 00 00 00 00}Limit-Moves sind Abilitys, die Soras MP verbrauchen
+
+    und zusammen mit Gefährten ausgeführt werden.
+  it: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}È stato aggiunto il comando Limite.{:reset}
+
+    Visualizza il Limite con {:icon dynamic-dpad-left}, poi selezionalo.{:clear }{:unk0f 00 00 00 00 00}I Limiti consumano solo gli MP di Roxas,
+
+    ma sono abilità che si eseguono in gruppo.
+  sp: >-
+    {:unk0f 03 64 00 84 01}{:color #00F0F080}Se ha agregado el comando Límite.{:reset}
+
+    Pulsa {:icon dynamic-dpad-left} para ver el Límite y luego selecciónalo.{:clear }{:unk0f 00 00 00 00 00}Los Límites son habilidades que consumen los PM
+
+    de Roxas y se ejecutan junto a miembros del grupo.
+  en: >-
+    {:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+
+    Press {:icon dynamic-dpad-left} to show the Limit, then select it.{:clear }{:unk0f 00 00 00 00 00}Limits are Abilities that consume Roxas's MP
+
+    and are executed with Party Members.
+- id: 19208
+  fr: >-
+    L'homme qui s'est enfui dans la cour
+
+    avait l'air féroce. Fais attention à toi.{:clear }Je suis sûr que si tu prends toi aussi
+
+    un air féroce tu lui feras peur !
+  gr: >-
+    Der Mann, der raus in den Vorhof gelaufen
+
+    ist, sah ziemlich gefährlich aus, Roxas.{:clear }Meinst du, du kannst das schaffen?
+
+    Na ja, vielleicht musst du ja auch ...{:clear }... einfach nur ganz gemein und gefährlich
+
+    dreinschauen, um ihm Angst zu machen.
+  it: >-
+    L'uomo che è corso in giardino
+
+    sembrava un vero duro, Roxas.
+
+    Pensi di farcela?{:clear }Beh, se ti comporti anche tu da
+
+    duro, magari riesci ad intimorirlo!
+  sp: >-
+    El hombre que ha huido por el jardín parecía
+
+    muy fuerte, Roxas. ¿Podrás con él?{:clear }Si te haces el duro,
+
+    quizá no se meta contigo.
+  en: >-
+    That man who ran out to the garden looked
+
+    pretty tough, Roxas. Will you be okay?{:clear }Well, I guess if you acted tough, you
+
+    might be able to scare him.
+- id: 21494
+  fr: >-
+    {:delayandfade 06 B4} 
+
+    D'après Belle, la Bête est étrange
+
+    ces derniers temps. Elle aurait même
+
+    enfermé les habitants du château
+
+    dans les souterrains.    
+
+    Alors qu'ils allaient libérer ces derniers,
+
+    Roxas et ses amis ont rencontré une
+
+    armoire. Autrefois humaine, un sortilège
+
+    lui aurait donné son apparence actuelle.
+  gr: >-
+    {:delayandfade 07 78} 
+
+    Laut Belle verhält das Biest sich sonderbar
+
+    und hat sogar die Schlossbewohner
+
+    eingesperrt!
+
+    Roxas, Donald und Goofy wollen sie retten,
+
+    doch eine Kommode versperrt ihnen den
+
+    Weg. In Wirklichkeit ist diese Kommode
+
+    ein verzaubertes Mädchen ...
+  it: >-
+    {:delayandfade 07 78} 
+
+    Belle dice che la Bestia è strana
+
+    ultimamente. Ha persino chiuso tutti
+
+    gli abitanti del castello nella cripta.
+
+    Roxas e i suoi amici vanno nella sala ovest,
+
+    dove trovano un guardaroba davanti
+
+    al passaggio per scendere. Scoprono che
+
+    un tempo era un'umana, ma che è stata
+
+    trasformata da un incantesimo.
+  sp: >-
+    {:delayandfade 07 F0} 
+
+    Bella confiesa que Bestia se porta de forma
+
+    extraña últimamente y que ha encerrado
+
+    a sus sirvientes en la mazmorra del castillo.
+
+    El grupo se apresura a liberarlos, pero se 
+
+    topa con una sorpresa en su camino... 
+
+    ¡un armario parlante que resulta ser una
+
+    señora bajo el efecto de un vil embrujo!
+  en: >-
+    {:delayandfade 07 B4} 
+
+    According to Belle, Beast hasn't been
+
+    himself lately. He's even locked up all the
+
+    residents of the castle in the undercroft.
+ 
+    Roxas and his friends head to the west hall
+
+    to discover a wardrobe blocking the door
+
+    leading downstairs. After a brief
+
+    conversation, they learn she used to be
+
+    human, but was magically transformed
+
+    by an evil spell.
+- id: 21495
+  fr: >-
+    {:delayandfade 07 B4}
+
+    La Bête serait en fait un prince qui vivait
+
+    dans ce château. Il aurait été frappé
+
+    par la même malédiction.
+
+    Les domestiques retenus prisonniers en
+
+    savaient plus à ce sujet.
+
+    Roxas s'est précipité dans les souterrains
+
+    pour les retrouver.
+  gr: >-
+    {:delayandfade 07 78} 
+
+    Sie erzählt, dass das Biest in Wirklichkeit
+
+    der Prinz des Schlosses ist und
+
+    ebenfalls einmal ein Mensch war.
+
+    Die Bediensteten, die im Kerker eingesperrt
+
+    sind, wissen sicher mehr!
+
+    Roxas eilt sofort zum Kellergewölbe.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Dice che un tempo la Bestia era un umano
+
+    e il principe del castello. I suoi servitori
+
+    hanno altre informazioni al riguardo.
+
+    Roxas scende immediatamente per le scale.
+  sp: >-
+    {:delayandfade 07 B4} 
+
+    La señora cuenta que también Bestia fue en
+
+    su día un humano, el príncipe del castillo.
+
+    Obtener más respuestas pasa por liberar
+
+    a los pobres sirvientes aún recluidos en
+
+    la mazmorra, por lo que Roxas y sus amigos
+
+    siguen adentrándose en el castillo.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    She goes on to explain that Beast was also
+
+    once human, and prince of the castle. If
+
+    Roxas wants to know more, his servants
+
+    have more details they can share.
+ 
+    Curious to find out the truth, Roxas heads
+
+    downstairs.
+- id: 21497
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Roxas et ses amis ont combattu leurs ennemis
+
+    et protégé Belle. Ils ont sauvé ce qui était
+
+    précieux aux yeux de la Bête.
+
+    C'est du moins ce qu'ils pensaient, jusqu'à
+
+    ce que la Bête parte sans Belle. Y aurait-il
+
+    quelque chose de plus important pour lui ?
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Roxas und seine Gefährten retten Belle.
+
+    Sie sind erleichtert, dass sie Xaldins
+
+    Plan vereiteln konnten, doch das Biest
+
+    läuft davon.
+
+    Gibt es etwa etwas, das ihm wichtiger ist
+
+    als Belle?
+  it: >-
+    {:delayandfade 07 78} 
+
+    Roxas e compagnia sconfiggono i nemici
+
+    e salvano Belle. Proteggono "qualcosa
+
+    di molto importante per loro".
+
+    O così pensavano, fino a quando la Bestia
+
+    se ne va lasciando Belle sola. Cosa
+
+    c'è di più importante di Belle per lui? 
+  sp: >-
+    {:delayandfade 07 B4} 
+
+    Roxas y los demás logran derrotar
+
+    a sus enemigos y proteger a Bella,
+
+    aquello tan preciado de lo que habló
+
+    el miembro de la Organización {XIII}...
+
+    O eso creen ellos.
+
+    Sin embargo, Bestia no reacciona
+
+    con alegría, sino que se marcha
+
+    con gran inquietud... ¿Acaso hay
+
+    algo aún más preciado para él?    
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Roxas and the gang save Belle, managing to
+
+    protect "something they hold very dear."
+ 
+    Or so they thought, until they see Beast
+
+    run off, leaving Belle behind. What could
+
+    be more important to him than Belle?
+- id: 21498
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    La rose est le seul moyen de lever la
+
+    malédiction jetée sur la Bête et ses
+
+    domestiques. C'est leur dernier espoir.
+
+    Pas question de baisser les bras !
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Die Rose ist der Schlüssel zum Aufheben
+
+    des Fluches und die einzige Hoffnung für
+
+    das Biest und die Schlossbewohner.
+
+    Diese Hoffnung darf nicht verwelken!     
+  it: >-
+    {:delayandfade 07 78} 
+
+    La rosa è la loro unica speranza di
+
+    spezzare l'incantesimo lanciato sulla
+
+    Bestia e i suoi amici.
+
+    Non possono arrendersi!
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    La rosa mágica es la clave para
+
+    romper el maléfico conjuro que
+
+    tiene embrujados a Bestia y a
+
+    todos los habitantes del castillo,
+
+    de ahí su preocupación.
+
+    Siendo así...
+
+    ¡todavía hay esperanzas!
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Beast treasured the rose with his life
+
+    because it was his only hope of undoing
+
+    the spell cast upon himself and the others
+
+    in the castle.
+ 
+    It's up to Roxas to convince Beast to
+
+    retrieve the precious flower for everyone's
+
+    sake.
+- id: 21631
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Pour les sauver, Roxas devait d'abord
+
+    raisonner la Bête...
+
+    Il a laissé les domestiques le guider
+
+    jusqu'à la chambre du maître des lieux.
+  gr: >-
+    {:delayandfade 07 78} 
+
+    Sie verzauberte auch das Schloss und
+
+    alle seine Bewohner. Damit sie sich
+
+    zurückverwandeln können, muss zunächst
+
+    das Biest zur Besinnung kommen!
+
+    Roxas, Donald und Goofy folgen den
+
+    Bediensteten zu seinem Gemach.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Per salvare tutti, Roxas deve
+
+    prima far tornare la Bestia in sé.
+
+    Guidato dai servitori del castello,
+
+    il ragazzo va dalla Bestia.
+  sp: >-
+    {:delayandfade 07 C8} 
+
+    Si los héroes quieren romper
+
+    el hechizo y devolver a todos los
+
+    habitantes del castillo a su forma
+
+    original, antes tendrán que hacer
+
+    entrar en razón a Bestia.
+
+    Siguiendo las indicaciones de
+
+    los sirvientes, Roxas y los suyos
+
+    se encaminan al cuarto de Bestia.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    In order to help everyone return to the
+
+    way they were, Beast must first come to
+
+    his senses.
+ 
+    Guided by the castle's servants, Roxas and
+
+    his friends head to Beast's chambers.
+
+    There's no time to lose!

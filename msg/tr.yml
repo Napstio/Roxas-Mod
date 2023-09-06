@@ -1,0 +1,318 @@
+- id: 855
+  fr: >-
+    Roxas !
+  gr: >-
+    Roxas!
+  it: >-
+    Roxas!
+  sp: >-
+    ¡Roxas!
+  en: >-
+    Roxas!
+- id: 872
+  fr: >-
+    Je suis Roxas.
+  gr: >-
+    Ich bin Roxas.
+  it: >-
+    Io sono Roxas.
+  sp: >-
+    Yo soy Roxas.
+  en: >-
+    I´m Roxas.
+- id: 954
+  fr: >-
+    {:unk13 18 01 82 00}{:unk08 01 01 06}Naminé.
+  gr: >-
+    {:unk13 18 01 82 00}{:unk08 01 01 06}Naminé.
+  it: >-
+    {:unk13 18 01 82 00}{:unk08 01 01 06}Naminé.
+  sp: >-
+    {:unk13 18 01 82 00}{:unk08 01 01 06}Naminé.
+  en: >-
+    {:unk13 18 01 82 00}{:unk08 01 01 06}Naminé.
+- id: 955
+  fr: >-
+    {:unk13 0E 01 32 00}{:unk08 01 00 05}Naminé, ok.
+  gr: >-
+    {:unk13 0E 01 28 00}{:unk08 01 00 05}Naminé, alles klar.
+  it: >-
+    {:unk13 0E 01 32 00}{:unk08 01 00 05}Naminé, perfetto.
+  sp: >-
+    {:unk13 0E 01 32 00}{:unk08 01 00 05}Y Naminé. Vale.
+  en: >-
+    {:unk13 0E 01 32 00}{:unk08 01 00 05}Naminé, got it.
+- id: 1063
+  fr: >-
+    Roxas, Donald, Dingo...{:delay 9C 00}{:clear }{:delay 4E 00}Et tous les Utilisateurs, là-haut...{:delay 78 00}{:clear }{:delay 66 00}Merci.
+  gr: >-
+    Roxas, Donald, Goofy ...{:delay CF 00}{:clear }{:delay 1D 00}{:clear }... und allen Usern da draußen ...{:delay 8D 00}{:clear }{:delay 3D 00}Vielen Dank.
+  it: >-
+    Roxas, Paperino, Pippo...{:delay A6 00}{:clear }{:delay 1F 00}... e a tutti i creativi laggiù...{:delay 78 00}{:clear }{:delay 6E 00}{:clear }Grazie.
+  sp: >-
+    Roxas, Donald, Goofy...{:delay A6 00}{:clear }{:delay 1F 00}y todos los demás usuarios...{:delay 78 00}{:clear }{:delay 6E 00}Gracias.
+  en: >-
+    {:unk13 0E 01 32 00}{:unk08 01 00 05}Naminé, got it.
+- id: 17877
+  fr: >-
+    Cette sorte de porte qui bloque
+
+    la sortie est fermée, c'est ça ?{:clear }Pourquoi tu n'essaies pas de
+
+    te servir de ta Keyblade ?
+  gr: >-
+    Dieses Tür-Dings, das den Ausgang
+
+    blockiert, ist verschlossen, oder?{:clear }Sollte dein Schlüsselschwert nicht in
+
+    der Lage sein, das zu öffnen, Roxas?
+  it: >-
+    Quella specie di porta che blocca
+
+    l'uscita è chiusa a chiave, vero?{:clear }Pensi che il tuo Keyblade
+
+    potrebbe aprirla, Roxas?
+  sp: >-
+    ¿Dices que esa especie de puerta que
+
+    bloquea la salida está cerrada?{:clear }¿Y no podríamos abrirla
+
+    con la llave espada, Roxas?
+  en: >-
+    You mean the door-thingy blocking
+
+    the exit is locked, right?{:clear }In that case, shouldn´t your Keyblade
+
+    be able to open it, Roxas?
+- id: 21558
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Roxas a fui sa cellule grâce au pouvoir de
+
+    la Keyblade. Il est ensuite parti avec Tron
+
+    pour activer le cæur énergétique.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Mit dem Schlüsselschwert kann Roxas aus
+
+    der Zelle entkommen. Er und Tron eilen
+
+    zur Rasterspalte, um den Energiekern zu
+
+    aktivieren.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Roxas fugge dalla cella grazie al potere del
+
+    Keyblade. Insieme a Tron, si dirige verso il
+
+    canyon per attivare la sorgente energetica.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    Roxas logra escapar de su celda
+
+    junto con Tron y todos se
+
+    encaminan hacia el núcleo de
+
+    energía para reiniciarlo.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Using the Keyblade's power, Roxas and his
+
+    friends manage to escape from the cell.
+
+    There's no time to waste! Together with
+
+    Tron, they run to the canyon in order to
+
+    activate the energy core.
+- id: 21559
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Le cæur énergétique a été réactivé !
+
+    Tron a encore un service à demander
+
+    à Roxas, mais avant toute chose,
+
+    ils doivent regagner leur cyber cellule,
+
+    sans quoi Roxas et ses amis ne pourront
+
+    pas quitter ce monde.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Geschafft! Der Energiekern ist aktiviert!
+
+    Tron hat eine Bitte, doch damit Roxas in die
+
+    reale Welt zurückkehren kann, müssen sie
+
+    erst zurück zur Abrufzelle.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Sono riusciti ad attivare la sorgente
+
+    energetica!
+
+    Tron ha bisogno di un favore, ma prima
+
+    tornano alla cella sotterranea perché
+
+    Roxas deve fare ritorno nel mondo reale.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    El núcleo de energía ya vuelve
+
+    a estar en marcha.
+
+    Parece que Tron tiene algo
+
+    que pedirle a Roxas, pero antes
+
+    deben volver a la celda para
+
+    que el grupo pueda regresar
+
+    al mundo real.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Energy core activation complete.
+ 
+    They did it!
+ 
+    Tron has a favor to ask, but first, they
+
+    head back to the pit cell, as Tron's
+
+    request will require Roxas and his friends
+
+    to return to the real world.
+- id: 21560
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Roxas est arrivé au DTD et a transmis le mot
+
+    de passe à Tron. Il s'agissait des prénoms
+
+    des sept princesses : Belle, Blanche Neige,
+
+    Aurore, Alice, Jasmine, Cendrillon et Kairi.     
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Am DTD-Bereich gibt Roxas Tron das Kennwort.
+
+    Es setzt sich aus den Namen von Naminé und
+
+    den sechs übrigen Prinzessinnen zusammen.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Al DTD, Roxas dà la password a Tron.
+
+    È composta dai nomi delle sette principesse,
+
+    a partire da quello di Naminé.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    Al llegar al DTD, Roxas da a Tron
+
+    la contraseña, que resulta ser
+
+    los nombres de las Siete Princesas,
+
+    empezando por el de Naminé.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Once they access the DTD, Roxas relays
+
+    the password to Tron.
+ 
+    It is composed of the names of the Seven
+
+    Princesses: Belle, Snow White, Aurora,
+
+    Alice, Jasmine, Cinderella, and Naminé. 
+- id: 21561
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Roxas a enfin retrouvé Tron, mais visiblement,
+
+    le MCP compte bien faire la guerre aux
+
+    Utilisateurs. Seul un programme de
+
+    désinstallation l'arrêtera.
+
+    Roxas et ses amis se sont précipités vers
+
+    la tour qui abritait leur dernier espoir.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Endlich findet Roxas Tron, der ihm berichtet, dass
+
+    der MCP einen Krieg mit den Usern führen will.
+
+    Es gibt nur eine Lösung: den MCP zu löschen!
+
+    Sofort eilen die Freunde zum I/O-Tower.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Roxas e Tron si ritrovano. L'MCP è pronto
+
+    a dichiarare guerra ai Creativi.
+
+    L'unica soluzione è cancellare l'MCP.
+
+    Carichi di speranza, si dirigono verso la
+
+    torre di controllo di entrata/uscita.
+  sp: >-
+    {:delayandfade 08 78} 
+
+    Roxas y Tron se reencuentran al fin,
+
+    pero la situación es crítica:
+
+    el PCM está listo para comenzar
+
+    su guerra contra los usuarios.
+
+    La única esperanza es llegar hasta
+
+    la Torre I/O y cargar en el sistema
+
+    el programa de Erradicación del PCM.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Roxas and Tron reunite just in time to learn
+
+    the MCP is preparing to engage in war with
+
+    the Users.
+ 
+    The only solution is to de-rezz the MCP.
+
+    They rush to the I/O tower. They have to
+
+    make it!

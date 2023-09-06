@@ -1,0 +1,663 @@
+- id: 41
+  fr: >-
+    Axel est peut-être avec eux.
+  gr: >-
+    Hey, vielleicht ist ja Axel bei ihnen!
+  it: >-
+    Ehi, forse Axel è con loro!
+  sp: >-
+    ¡Puede que Axel
+
+    esté con ellos!
+  en: >-
+    Hey, maybe Axel´s with them!
+- id: 54
+  fr: >-
+    Roxas, on y va !
+  gr: >-
+    Roxas, gehen wir!
+  it: >-
+    Roxas, andiamo!
+  sp: >-
+    ¡Roxas, vámonos!
+  en: >-
+    Roxas, let´s go!
+- id: 76
+  fr: >-
+    Roxas ! Donald ! Dingo !
+  gr: >-
+    Roxas! Donald! Goofy!
+  it: >-
+    Roxas! Paperino! Pippo!
+  sp: >-
+    ¡Roxas! ¡Donald! ¡Goofy!
+  en: >-
+    Roxas! Donald! Goofy!
+- id: 103
+  fr: >-
+    Ah, salut !
+  gr: >-
+    Hallo, Roxas!
+  it: >-
+    Ciao, Roxas!
+  sp: >-
+    ¡Hola, Roxas!
+  en: >-
+    Hi, Roxas!
+- id: 133
+  fr: >-
+    {:unk13 70 00 3B 00}{:unk08 01 01 04}Hem... Roxas ?
+  gr: >-
+    {:unk13 5D 00 36 00}{:unk08 01 01 04}Äh, Roxas?
+  it: >-
+    {:unk13 5D 00 36 00}{:unk08 01 01 04}Ehi, Roxas?
+  sp: >-
+    {:unk13 67 00 33 00}{:unk08 01 01 04}Eh, Roxas...
+  en: >-
+    {:unk13 5D 00 36 00}{:unk08 01 01 04}Uh, Roxas?
+- id: 225
+  fr: >-
+    {:unk13 95 01 C4 00}{:unk08 01 00 00}Qu'allez-vous faire
+
+    maintenant, Roxas ?
+  gr: >-
+    {:unk13 95 01 C4 00}{:unk08 01 00 00}Was steht bei euch
+
+    jetzt an, Roxas?
+  it: >-
+    {:unk13 95 01 C4 00}{:unk08 01 00 00}E adesso, Roxas?
+  sp: >-
+    {:unk13 95 01 C4 00}{:unk08 01 00 00}¿Qué haréis
+
+    ahora, Roxas?
+  en: >-
+    {:unk13 95 01 C4 00}{:unk08 01 00 00}What happens
+
+    next, Roxas?
+- id: 226
+  fr: >-
+    {:unk13 22 01 CC 00}{:unk08 01 01 01}Eh bien, on a été ravis
+
+    de vous revoir.{:clear }Mais on doit repartir
+
+    à la recherche de
+
+    Axel et du Roi.
+  gr: >-
+    {:unk13 22 01 CC 00}{:unk08 01 01 01}Es war toll, euch
+
+    alle wiederzusehen ...{:clear }... aber wir müssen immer noch
+
+    Axel und den König finden.{:clear }Wir werden wohl weiterziehen
+
+    und nach ihnen suchen.
+  it: >-
+    {:unk13 22 01 CC 00}{:unk08 01 01 01}Beh, è stato un piacere
+
+    rivedervi tutti...{:clear }... ma dobbiamo andare
+
+    a cercare Axel e il Re.{:clear }Direi che è ora di ripartire.
+  sp: >-
+    {:unk13 22 01 CC 00}{:unk08 01 01 01}Bueno, nos alegramos de
+
+    haberos visto de nuevo...{:clear }pero aún debemos
+
+    encontrar a Axel y al rey.{:clear }Creo que es hora
+
+    de partir.
+  en: >-
+    {:unk13 22 01 CC 00}{:unk08 01 01 01}Well, it was great
+
+    seeing you all...{:clear }but we still need to
+    
+    find Axel and the King.{:clear }I guess we´ll be
+
+    moving on.
+- id: 231
+  fr: >-
+    {:unk13 55 01 7C 00}{:unk08 01 00 01}Vous ne pouvez pas partir
+
+    sans lui dire au revoir.{:clear }Bougez pas.
+
+    Je vais le chercher.
+  gr: >-
+    {:unk13 55 01 7C 00}{:unk08 01 00 01}Al kann doch nicht Roxas'
+
+    große Abschiedsfeier verpassen!{:clear }Ich werde ihn holen.
+
+    Bin gleich wieder da!
+  it: >-
+    {:unk13 55 01 7C 00}{:unk08 01 00 01}Al non può mancare alla
+
+    festa d'addio di Roxas!{:clear }Lo farò tornare in
+
+    un batter d'occhio!
+  sp: >-
+    {:unk13 55 01 7C 00}{:unk08 01 00 01}¡Al no puede perderse la gran
+
+    fiesta de despedida de Roxas!{:clear }¡Voy por él y lo traigo
+
+    en un periquete!
+  en: >-
+    {:unk13 55 01 7C 00}{:unk08 01 00 01}Al can´t miss Roxas´s
+
+    big farewell party!{:clear }I´ll have him back
+
+    in a jiffy!
+- id: 241
+  fr: >-
+    Roxas... Qu'est-ce qui se passe ?
+  gr: >-
+    Roxas? Was geschieht da?
+  it: >-
+    Roxas, che succede?
+  sp: >-
+    Roxas... ¿qué ocurre?
+  en: >-
+    Roxas... What is it?
+- id: 259
+  fr: >-
+    Roxas ! Capture le marchand !
+  gr: >-
+    Roxas! Lass ihn nicht entkommen!
+  it: >-
+    Roxas! Non lasciarlo andare!
+  sp: >-
+    ¡Roxas! ¡No dejes que escape!
+  en: >-
+    Roxas! Don´t let him get away!
+- id: 292
+  fr: >-
+    Roxas !
+  gr: >-
+    Roxas!
+  it: >-
+    Roxas!
+  sp: >-
+    ¡Roxas!
+  en: >-
+    Roxas!
+- id: 372
+  fr: >-
+    {:delay 61 00}{:clear }Roxas ! Donald ! Dingo !
+
+    Vous êtes trop sympas, les gars.{:delay C3 00}{:clear }Si vous avez envie de faire une
+
+    super-méga fiesta cosmique,{:delay BC 00}{:clear }vous m'appelez. Pigé ?
+  gr: >-
+     {:delay 64 00}{:clear }Roxas! Donald! Goofy!
+
+     Ihr seid echt 'ne Wucht!{:delay D2 00}{:clear }Wenn ihr mal wieder Lust auf
+
+     kosmisches Halligalli kriegt ...{:delay C8 00}{:clear }... gebt mir Bescheid!
+  it: >-
+     {:delay 64 00}{:clear }Roxas! Paperino! Pippo!
+
+     Siete troppo forti!{:delay D2 00}{:clear }Se vi viene voglia di vedermi
+
+     in azione, fatemi un fischio!
+  sp: >-
+    {:delay 60 00}{:clear }¡Roxas! ¡Donald! ¡Goofy!
+
+    ¡Sois la bomba!{:delay D8 00}{:clear }Si alguna vez os apetece otra juerga
+
+    cósmica, pegadme un toque. ¿Vale?
+  en: >-
+    {:delay 64 00}{:clear }Roxas! Donald! Goofy!
+- id: 375
+  fr: >-
+    Je dois encore te remercier, Roxas.{:delay 74 00}{:clear } {:delay 36 00}{:clear }Ne nous oublie pas, d'accord ?
+  gr: >-
+    Ihr habt uns wieder aus der Patsche geholfen.{:delay 8C 00}{:clear }{:delay 1E 00}{:clear }Vergesst uns nicht, okay?
+  it: >-
+    Beh, grazie ancora, Roxas.{:delay 78 00}{:clear } {:delay 28 00}{:clear }Non dimenticarti di noi!
+  sp: >-
+    Te estamos muy agradecidos, Roxas.{:delay A8 00}{:clear }No te olvides de nosotros, ¿vale?
+  en: >-
+    Well, you´ve done it again, Roxas.{:delay 78 00}{:clear } {:delay 28 00}{:clear }Don´t forget about us, okay?
+- id: 377
+  fr: >-
+    Roxas, je voulais te dire...
+
+    L'ami que tu recherches...
+  gr: >-
+    Und Roxas, dieser Freund, nach dem
+
+    du suchst -- hast du ihn gefunden?
+  it: >-
+    E poi, Roxas... Quel tuo amico,
+
+    quello che stai cercando...
+  sp: >-
+    Roxas... una cosa más. Sobre ese
+
+    amigo al que estáis buscando...
+  en: >-
+    And Roxas...about that friend of yours,
+
+    the one you´re looking for...
+- id: 4091
+  fr: >-
+     {:delay 38 00}{:clear }Iago !{:delay 3F 00}{:clear }Vite, Roxas, attrape-le !
+  gr: >-
+     {:delay 4F 00}{:clear }Jago!{:delay 4C 00}{:clear }Schnell, Roxas, schnapp ihn dir!
+  it: >-
+     {:delay 38 00}{:clear }Iago!{:delay 50 00}{:clear }Presto Roxas, prendilo!
+  sp: >-
+    {:delay 4E 00}{:clear }¡Iago!{:delay 3C 00}{:clear }¡Rápido, Roxas! ¡Atrápalo!
+  en: >-
+    {:delay 38 00}{:clear }Iago!{:delay 50 00}{:clear }Quick, Roxas, catch him!
+- id: 17063
+  fr: >-
+    Le type qui poursuivait le marchand,
+
+    c'est votre ennemi ?{:clear }Il vaudrait mieux l'empêcher de s'emparer
+
+    de la lampe. Dépêchons-nous !
+  gr: >-
+    Der Kerl, der den Trödler verfolgt hat, ist
+
+    der, der euch so viel Ärger macht, nicht?{:clear }Sollte die Lampe gestohlen werden, kann das
+
+    nichts Gutes verheißen. Beeilen wir uns, Roxas!
+  it: >-
+    Quel tipo che insegue il mercante
+
+    ti stava creando dei problemi, vero?{:clear }Saremo nei guai se la lampada
+
+    sarà rubata. Sbrighiamoci, Roxas!
+  sp: >-
+    Ese tipo que perseguía al mercader
+
+    os está causando problemas, ¿no?{:clear }Si alguien roba esa lámpara, no habrá
+
+    más que desgracias. ¡Deprisa, Roxas!
+  en: >-
+    That guy chasing the peddler was
+
+    the one causing you trouble, right?{:clear }Nothing good will come of that lamp
+
+    being stolen. We´d better hurry, Roxas!
+- id: 19204
+  fr: >-
+    Ça me fait plaisir de vous revoir.
+
+    Vous voulez aller dans les ruines ?{:clear }Eh bien, elles sont dans le désert.
+
+    Vous ne me cachez rien, j'espère ?
+  gr: >-
+    Es ist so toll, dich wiederzusehen, Roxas.
+
+    Was? Ihr geht zu den Ruinen?{:clear }Nun, ihr müsst durch die Wüste,
+
+    um dorthin zu gelangen ...{:clear }Sagt mal, ihr verbergt doch
+
+    nichts vor mir, oder?
+  it: >-
+    Che bello rivederti, Roxas.
+
+    Come? Stai andando alle rovine?{:clear }Beh, puoi arrivarci passando
+
+    dal deserto...{:clear }Dimmi, non è che mi stai
+
+    nascondendo qualcosa?
+  sp: >-
+    ¡Qué alegría volver a verte, Roxas!
+
+    ¿Qué? ¿Irás a las ruinas?{:clear }Bueno, para llegar allí
+
+    debes cruzar el desierto...{:clear }No me estarás ocultando
+
+    algo, ¿verdad?
+  en: >-
+    It´s so great to see you again, Roxas.
+    
+    What? You´re going to the ruins?{:clear }Well, you can get to them
+
+    through the desert...{:clear }Say, you aren´t hiding anything
+
+    from me, are you?
+- id: 21509
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Puisque Iago avait volé au secours de Roxas et
+
+    des autres, il était difficile de ne pas le croire
+
+    lorsqu'il disait vouloir faire amende honorable.
+
+    Ensemble, le petit groupe avait pris la route
+
+    du palais, dans l'espoir d'y retrouver
+
+    Aladdin.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Jago hilft Roxas, Donald und Goofy
+
+    zu entkommen. Er will sich offenbar
+
+    wirklich entschuldigen.
+
+    Gemeinsam machen sich die vier auf den
+
+    Weg zum Palast, um Aladdin zu suchen.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Dopo essere stati salvati da Iago, Roxas
+
+    e i suoi amici cominciano a credere
+
+    che il pappagallo voglia farsi perdonare.
+
+    Si dirigono tutti insieme verso il palazzo,
+
+    nella speranza di trovare Aladdin.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    Iago saca de un buen apuro
+
+    a todos, lo que da más
+
+    credibilidad a sus disculpas.
+
+    Tras la escaramuza, el grupo
+
+    pone rumbo al palacio para
+
+    ver a Aladdín.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    After Iago comes to the rescue of Roxas and
+
+    his pals, they have no choice but to believe
+
+    he wants to make things right.
+ 
+    With their new friend in tow, they head to
+
+    the palace in hopes of finding Aladdin.
+- id: 21511
+  fr: >-
+    {:delayandfade 06 B4} 
+
+    Roxas aurait bien voulu acquérir cet objet,
+
+    mais le marchand exigeait un véritable
+
+    trésor en échange... Heureusement,
+
+    voilà bien quelque chose qui ne manquait
+
+    pas dans la Caverne aux Merveilles !
+
+    Roxas devait se dépêcher, s'il voulait récupérer
+
+    l'objet de sa convoitise.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Der Trödler ist bereit, die Lampe gegen
+
+    einen wertvollen Schatz abzutreten!
+
+    Wo soll Roxas denn einen Schatz
+
+    auftreiben? Vielleicht wird er ja
+
+    in der Wunderhöhle fündig ...
+
+  it: >-
+    {:delayandfade 07 78} 
+
+    Roxas e i suoi amici cercano di comprare
+
+    la lampada dal mercante, ma il prezzo
+
+    è astronomico anche per un sultano.
+
+    Forse ci vuole un oggetto dalla Caverna
+
+    delle Meraviglie, ma devono fare in
+
+    fretta se vogliono mettere le mani su
+
+    quella lampada.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    El ladino mercader exige
+
+    como pago por la lámpara
+
+    un tesoro digno de un sultán.
+
+    Algo así, sin duda podría
+
+    hallarse en la Cueva de
+
+    las Maravillas.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Roxas and his friends try to buy the lamp
+
+    off the peddler, but his asking price is
+
+    a treasure fit for a sultan.
+ 
+    Perhaps an item from the Cave of Wonders
+
+    will do. But they have to hurry if they
+
+    want to get their hands on that lamp!
+- id: 21512
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Iago avait réussi à se faire une place au sein
+
+    du groupe. Celui-ci s'apprêtait d'ailleurs à
+
+    poursuivre son voyage à la recherche de
+
+    Axel et du Roi Mickey, quand Roxas remarqua
+
+    l'absence d'Aladdin...
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Die anderen haben Jago verziehen und
+
+    nehmen ihn in ihren Freundeskreis auf.
+
+    Roxas will seine Suche nach Axel und
+
+    dem König fortsetzen, doch von Aladdin
+
+    fehlt jede Spur.
+
+    In diesem Moment ...
+  it: >-
+    {:delayandfade 07 78} 
+
+    Non ci è voluto molto perché Iago
+
+    entrasse nel gruppo.
+
+    Mentre Roxas continua il suo viaggio
+
+    alla ricerca di Axel e il Re, si accorge
+
+    improvvisamente che Aladdin è sparito.
+  sp: >-
+    {:delayandfade 0A B4}
+
+    Finalmente, los actos de Iago le sirven
+
+    para granjearse la confianza de todos.
+
+    Resueltos los problemas, Roxas 
+
+    y sus amigos se disponen a reanudar 
+
+    la búsqueda de Axel y el rey, pero 
+
+    es entonces cuando reparan en 
+
+    la ausencia de Aladdín...
+  en: >-
+    {:delayandfade 07 B4} 
+
+    It doesn't take long for Iago to become
+
+    part of the gang.
+ 
+    As Roxas prepares to resume his journey
+
+    to find Axel and the King, he realizes
+
+    Aladdin is nowhere to be found.
+ 
+    And that's when...
+- id: 21513
+  fr: >-
+    {:delayandfade 06 B4}
+
+    Roxas n'a pas perdu une minute en arrivant
+
+    à Agrabah pour interroger le marchand au
+
+    sujet de l'Organisation {XIII}. Mais bien que
+
+    ce dernier semblait savoir quelque chose,
+
+    il ne lui apprit rien.
+
+    Roxas et ses amis vont bien être obligés
+
+    d'aller enquêter par eux-mêmes.
+  gr: >-
+    {:delayandfade 07 78} 
+
+    Nach ihrer Ankunft in Agrabah suchen
+
+    Roxas und seine Freunde sofort den Trödler
+
+    auf, um ihn zur Organisation {XIII} zu
+
+    befragen. Er scheint etwas zu wissen, will
+
+    aber nicht mit der Sprache rausrücken.    
+
+    Roxas muss sich wohl weiter umhören ...
+  it: >-
+    {:delayandfade 07 78} 
+
+    Roxas chiede al mercante cosa sa
+
+    dell'Organizzazione {XIII}, ma l'uomo
+
+    rimane vago e non rivela niente di utile.     
+
+    Il gruppo allora va altrove alla ricerca
+
+    di informazioni.
+  sp: >-
+    {:delayandfade 07 B4}
+
+    De vuelta en Agrabah, Roxas pregunta
+
+    al mercader sobre la Organización {XIII}.
+
+    Aunque resulta evidente que no es
+
+    la primera vez que escucha ese
+
+    nombre, no suelta prenda.    
+
+    No queda más remedio que buscar
+
+    pistas en otro sitio.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Back in Agrabah, Roxas tries to find
+
+    out what the peddler knows about
+
+    Organization {XIII}. Although he seems to
+
+    know something, he divulges nothing.
+ 
+    They give up and head off to search for
+
+    information elsewhere, but they don't
+
+    get very far...
+- id: 21514
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Jafar convoitait toujours le trône d'Agrabah...
+
+    Après avoir forcé Iago à lui apprendre où se
+
+    trouvait l'ancien grand vizir, Roxas a pris
+
+    la route des ruines du désert avec ses amis.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Dschafar will sich Agrabah
+
+    wieder einmal unterwerfen.
+
+    Laut Jago versteckt er sich
+
+    in den Ruinen in der Wüste.
+
+    Die Freunde brechen sofort
+
+    auf, um ihn zu stellen.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Jafar è impegnato a diventare il signore
+
+    di Agrabah.
+
+    Roxas scopre che Jafar si nasconde nelle
+
+    rovine nel deserto e corre a cercarlo.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    Una vez más, los planes de Yafar
+
+    son hacerse con Agrabah.
+
+    Por suerte, Iago revela a Roxas
+
+    que el malvado personaje se
+
+    esconde en las Ruinas Enterradas
+
+    del desierto.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Jafar is intent on becoming the ruler of
+
+    Agrabah once and for all.
+ 
+    When Roxas and his friends learn from Iago
+
+    that Jafar is lurking in the Desert Ruins,
+
+    they hurry after him. He must be stopped!

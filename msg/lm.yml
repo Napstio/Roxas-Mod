@@ -1,0 +1,572 @@
+- id: 5004
+  fr: >-
+    Roxas ! Donald ! Dingo !
+  gr: >-
+    Roxas! Donald! Goofy!
+  it: >-
+    Roxas! Paperino! Pippo!
+  sp: >-
+    ¡Roxas! ¡Donald! ¡Goofy!
+  en: >-
+    Roxas! Donald! Goofy!
+- id: 5009
+  fr: >-
+    Vas-y, Roxas, tu peux y arriver !
+  gr: >-
+    Los, Roxas, du schaffst das!
+  it: >-
+    Avanti, Roxas, puoi farcela!
+  sp: >-
+    ¡Vamos, Roxas, tú puedes!
+  en: >-
+    C´mon, Roxas, you can do it!
+- id: 5029
+  fr: >-
+    Roxas, tu as été formidable.
+  gr: >-
+    Roxas, du warst echt toll!
+  it: >-
+    Roxas, sei stato fantastico!
+  sp: >-
+    ¡Roxas, has estado impresionante!
+  en: >-
+    Roxas, you were amazing!
+- id: 5112
+  fr: >-
+    Formidable, Roxas. Il sera si heureux
+
+    de le récupérer.
+  gr: >-
+    Das ist wunderbar, Roxas!{:delay 5A 00}{:clear }Bestimmt freut er sich sehr,
+
+    das wiederzubekommen.
+  it: >-
+    È fantastico, Roxas. Sono certa
+
+    che lui sarà felice di riaverlo.
+  sp: >-
+    Qué bien, Roxas. Seguro que
+
+    él se alegra de recuperarlo.
+  en: >-
+    This is great, Roxas. I know he´ll
+
+    be happy to have this back.
+- id: 5148
+  fr: >-
+    Roxas, je t'en prie !
+
+    Il faut que tu l'arrêtes !
+  gr: >-
+    Roxas, bitte! Du musst sie
+
+    unbedingt aufhalten!
+  it: >-
+    Roxas, ti prego!
+
+    Devi fermarla!
+  sp: >-
+    ¡Roxas, por favor!
+
+    ¡Tienes que impedírselo!
+  en: >-
+    Roxas, please!
+
+    You got to stop her, mon!
+- id: 5262
+  fr: >-
+    Roxas, que se passe-t-il ?
+  gr: >-
+    Roxas, was geschieht?
+  it: >-
+    Roxas, che sta succedendo?
+  sp: >-
+    Roxas, ¿qué ha sido eso?
+  en: >-
+    Roxas, what´s happening?
+- id: 7938
+  fr: >-
+    {:unk13 40 01 2C 01}{:unk08 01 01 00}À ton tour, Donald ! La même
+
+    chose que Roxas. Montre-nous
+
+    ce que tu sais faire.
+  gr: >-
+    {:unk13 04 01 4D 01}{:unk08 01 01 01}Okay, Donald. Jetzt bist du dran. Mach
+
+    einfach genau dasselbe wie Roxas eben.
+
+    Mal sehen, wer von euch es besser drauf hat.
+  it: >-
+    {:unk13 5A 01 5A 01}{:unk08 01 01 00}Va bene, Paperino.
+
+    Tocca a te. Fa' come Roxas.
+
+    Mostraci di cosa sei capace.
+  sp: >-
+    {:unk13 04 01 68 00}{:unk08 01 01 05}Bien, Donald. Tu turno.
+
+    Haz lo mismo que Roxas.
+
+    Deja que vea cómo lo haces.
+  en: >-
+    {:unk13 40 01 2C 01}{:unk08 01 01 00}Okay, Donald. Your turn.
+
+    You do just like Roxas.
+
+    Den he see what you got.
+- id: 8957
+  fr: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Dingo et Roxas.{:unk0e 00}
+  gr: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}... Goofy und Roxas.{:unk0e 00}
+  it: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Pippo e Roxas{:unk0e 00}
+  sp: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Goofy y Roxas.{:unk0e 00}
+  en: >-
+    {:unk13 FA 00 90 01}{:unk0e 0A}Goofy, and Roxas{:unk0e 00}
+- id: 18131
+  fr: >-
+    Voilà, tu tiens le bon bout !
+
+    Tu apprends vite, Roxas !
+  gr: >-
+    Ja, das ist es!
+
+    Du lernst schnell, Roxas!
+  it: >-
+    Bene, così!
+
+    Apprendi velocemente, Roxas!
+  sp: >-
+    ¡Sí, eso es!
+
+    ¡Qué rápido aprendes, Roxas!
+  en: >-
+    Yes, that´s it!
+
+    You´re a quick learner, Roxas!
+- id: 18142
+  fr: >-
+    Hem... Dis-moi, Roxas...
+
+    Euh... Non, oublie ça...
+  gr: >-
+    Oh ... Ähm, Roxas?
+
+    Äh ... ach nichts. Es ist nichts.
+  it: >-
+    Ehi... Ehm, Roxas?
+
+    Oh... Niente, niente.
+  sp: >-
+    Vaya... Eh, ¿Roxas?
+
+    Bah... no importa. Olvídalo.
+  en: >-
+    Wow... Um, Roxas?
+
+    Uh...never mind. It´s nothing.
+- id: 18156
+  fr: >-
+    Cet objet qu'il a fait tomber
+
+    est coincé entre les rochers.{:clear }J'aimerais tant lui rendre...
+
+    S'il te plaît, aide-moi, Roxas.
+  gr: >-
+    Das, was der Mann verloren hat,
+
+    steckt zwischen den Felsen fest.{:clear }Bitte hilf mir, Roxas. Ich möchte
+
+    es ihm zurückgeben!
+  it: >-
+    La cosa che è caduta a quel
+
+    ragazzo è incagliata fra le rocce.
+
+    Ti prego, Roxas, aiutami!
+
+    Vorrei restituirgliela!
+  sp: >-
+    La cosa que se le cayó a ese hombre
+
+    está atascada entre las rocas.{:clear }Roxas, por favor, ayúdame.
+
+    ¡Quiero devolvérsela!
+  en: >-
+    That thing the man dropped is
+
+    stuck between the rocks.
+
+    Please help, Roxas. I want to
+
+    return it to him!
+- id: 18169
+  fr: >-
+    Oh, Roxas ! On dirait que tu as
+
+    gagné de l'expérience.{:clear }Tu crois que tu peux m'aider
+
+    à récupérer le pendentif maintenant ?
+  gr: >-
+    Roxas, du siehst so
+
+    zuversichtlich aus!{:clear }Denkst du, du kannst mir
+
+    mit dem Anhänger helfen?
+  it: >-
+    Roxas, sembra che tu abbia acquisito
+
+    un bel po' di esperienza!{:clear }Potresti aiutarmi
+
+    con quel ciondolo?
+  sp: >-
+    Roxas, parece que has ganado
+
+    algo de experiencia.{:clear }¿Crees que puedes ayudarme
+
+    con el colgante?
+  en: >-
+    Roxas, looks like you gained
+
+    some experience.{:clear }Do you think you can help me
+
+    with the pendant?
+- id: 18186
+  fr: >-
+    Ce spectacle sera le plus
+
+    sensationnel de tous !{:clear }C'est à vous que je penserai
+
+    en chantant.
+  gr: >-
+    Das Musical heute soll das beste
+
+    aller Zeiten werden, Roxas.{:clear }Ich werde an euch denken,
+
+    wenn ich singe!
+  it: >-
+    Roxas, diamo il meglio di noi
+
+    nello spettacolo di oggi.{:clear }Penserò a tutti voi mentre canto.
+  sp: >-
+    Hagamos que el musical de hoy sea
+
+    el mejor de todos los tiempos, Roxas.{:clear }¡Pensaré en vosotros cuando cante!
+  en: >-
+    Let´s make today´s musical
+
+    the best ever, Roxas.{:clear }I´ll think of all of you when I sing!
+- id: 21529
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Après leur entraînement de natation, Sébastien
+
+    a proposé à Roxas de jouer un rôle dans le
+
+    spectacle qu'il était en train de monter.
+
+    Tout de suite intéressé, Roxas est allé répéter.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Nach den Schwimmübungen wird Roxas
+
+    eingeladen, bei einem Musical mitzumachen.
+
+    Er möchte sein Bestes geben und
+
+    beginnt zu üben.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Dopo aver imparato a nuotare, Roxas
+
+    è invitato a partecipare al musical.
+
+    Determinato a fare del suo meglio,
+
+    Roxas comincia le prove.
+  sp: >-
+    {:delayandfade 08 78} 
+
+    Tras la breve lección de
+
+    natación submarina, Sebastián
+
+    invita a Roxas, Donald y Goofy
+
+    a participar en el musical.
+
+    No todos los días uno recibe
+
+    una invitación así, por lo que
+
+    todos comienzan a ensayar
+
+    con entusiasmo.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Upon learning to swim, Roxas is invited to
+
+    take part in the musical. Not one to turn
+
+    down any fun, Roxas agrees to participate.
+ 
+    The Keyblade's hero can fight, but can he
+
+    sing and dance? Let the practicing begin!
+- id: 21531
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Mais s'inquiéter n'avait jamais résolu
+
+    aucun problème !
+
+    Roxas retourna s'entraîner pour le
+
+    spectacle, bien décidé à chasser au loin
+
+    les inquiétudes des habitants du royaume.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Trübsal blasen löst keine Probleme.
+
+    Roxas sucht daher in der Musik etwas
+
+    Ablenkung und übt fleißig weiter.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Preoccuparsi non serve a niente.
+
+    Roxas riprende le prove, deciso a fare
+
+    il necessario per il bene del regno.
+  sp: >-
+    {:delayandfade 08 78} 
+
+    Sin duda, muchos son los
+
+    problemas que acucian al reino,
+
+    pero Roxas hace de tripas corazón
+
+    y sigue con los ensayos.
+
+    Después de todo, las penas
+
+    con música, menos tristes son.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Worrying doesn't help anyone or solve
+
+    anything. Why not do something productive
+
+    instead?
+ 
+    The only way for Roxas to help the kingdom
+
+    is to put on a fantastic show. It's time to
+
+    practice once again.
+- id: 21532
+  fr: >-
+    {:delayandfade 06 B4} 
+
+    Ariel, éperdument amoureuse du prince,
+
+    s'était rendue près du rivage pour l'observer.
+
+    Elle remarqua qu'il avait laissé tomber
+
+    quelque chose, mais un rocher l'empêchait
+
+    d'aller ramasser cet objet.
+
+    Roxas utilisa donc ses pouvoirs afin de
+
+    récupérer ce qui était en fait un pendentif.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Die von Liebeskummer geplagte Arielle
+
+    findet einen Anhänger, den ihr Prinz
+
+    verloren hat, doch er steckt zwischen
+
+    den Felsen fest ...
+
+    Dank seiner besonderen Kräfte gelingt es
+
+    Roxas, das Schmuckstück zu bergen.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Una Ariel innamorata osserva il
+
+    suo principe da lontano. Nota il tesoro
+
+    da lui perduto, ma una roccia le blocca
+
+    la via.
+
+    Roxas usa i suoi poteri speciali per
+
+    recuperare il ciondolo per lei.
+  sp: >-
+    {:delayandfade 07 78} 
+
+    La joven y enamorada Ariel observa
+
+    a su príncipe en la lejanía. Entre las
+
+    rocas ve aquello que el joven busca,
+
+    pero le es imposible alcanzarlo.
+
+    Por suerte, Roxas está por allí y,
+
+    usando sus poderes, logra apartar
+
+    la gran roca para hacerse con
+
+    el colgante.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    A love-struck Ariel yearns for the prince
+
+    from afar. By sheer luck, she spots his lost
+
+    treasure, but a large rock is in the way.
+ 
+    Using his special powers, Roxas manages to
+
+    retrieve the pendant for her.
+- id: 21534
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Roxas et ses amis ont décidé de retrouver
+
+    Ursula. Après tout, qui sait ce que cette
+
+    sorcière est encore en train de manigancer...
+
+    Ils n'oublient cependant pas de veiller
+
+    sur Ariel, pour qui tout semble se passer
+
+    à merveille.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Roxas und seine Freunde suchen nach Ursula,
+
+    behalten aber Arielle immer im Auge.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Roxas e i suoi amici cercano Ursula
+
+    mentre tengono d'occhio Ariel.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    Roxas y sus amigos deben llegar
+
+    hasta la malvada Úrsula mientras
+
+    protegen a la pobre Ariel.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    As Ariel spends time with the prince, Roxas
+
+    and his friends watch over them from afar.
+
+    Although their love may be forbidden, the
+
+    gang can't help but be happy for them.
+ 
+    But they can't forget about Ursula! Who
+
+    knows what devious plans she may be
+
+    concocting?
+- id: 21535
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    La paix est revenue. Il faut fêter ça !
+
+    Roxas et ses amis vont monter un spectacle
+
+    inoubliable pour Ariel et les habitants du
+
+    royaume.
+
+    Grâce à cet évènement, c'est certain,
+
+    tout le monde retrouvera le sourire
+
+    à Atlantica.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Im Königreich ist wieder Frieden eingekehrt.
+
+    Roxas entschließt sich, ein fantastisches
+
+    Musical für Arielle und ihre Freunde
+
+    aufzuführen.
+  it: >-
+    {:delayandfade 07 78} 
+
+    La pace è tornata nel regno.
+
+    Roxas decide di mettere in scena
+
+    un musical spettacolare per Ariel
+
+    e i suoi amici.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    El paso de Roxas y sus amigos
+
+    por Atlántica deja, una vez más,
+
+    un reino en el que impera la paz.
+
+    Y para celebrarlo, ¡¿qué mejor
+
+    que un buen musical marino
+
+    como colofón final a la aventura!?
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Everything has been made right, and
+
+    the kingdom is at peace once again.
+ 
+    Now it's time for Roxas to put on a musical
+
+    for Ariel and the other residents of
+
+    Atlantica as promised.
+ 
+    May the performance put a smile on
+
+    everyone's face!

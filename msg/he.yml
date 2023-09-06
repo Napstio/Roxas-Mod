@@ -1,0 +1,1021 @@
+- id: 3505
+  fr: >-
+    Je suis Roxas.
+  gr: >-
+    Ich bin Roxas.
+  it: >-
+    Io sono Roxas.
+  sp: >-
+    Soy Roxas.
+  en: >-
+    I´m Roxas.
+- id: 3524
+  fr: >-
+    Je m'appelle Roxas.
+
+    Et je te présente Donald et Dingo.{:delay AF 00}{:clear }On est venus voir comment va Hercule.
+  gr: >-
+    Ich bin Roxas, und das hier
+
+    sind Donald und Goofy.{:delay A5 00}{:clear }Wir wollten nur mal schauen,
+
+    wie es Hercules so geht.
+  it: >-
+    Io sono Roxas, lui è Paperino
+
+    e quello è Pippo.{:delay AF 00}{:clear }Siamo venuti a trovare Ercole.
+  sp: >-
+    Yo soy Roxas, estos son
+
+    Donald y Goofy. {:delay AF 00}{:clear }Venimos a ver cómo
+
+    le va a Hércules.
+  en: >-
+    I´m Roxas, he´s Donald,
+
+    and that´s Goofy.{:delay AF 00}{:clear }We came to see how
+
+    Hercules is doing.
+- id: 3591
+  fr: >-
+    Roxas, ne me laisse pas tomber.
+  gr: >-
+    Roxas ... enttäusch mich nicht.
+  it: >-
+    Roxas, non deludermi.
+  sp: >-
+    Roxas, no me falles.
+  en: >-
+    Roxas, don´t let me down.
+- id: 3609
+  fr: >-
+    Roxas ! Donald, Dingo !
+
+    Depuis quand vous êtes là ?
+  gr: >-
+    Roxas! Donald, Goofy!
+
+    Seit wann seid ihr hier?
+  it: >-
+    Roxas! Paperino, Pippo!
+
+    Quando siete arrivati?
+  sp: >-
+    ¡Roxas! ¡Donald! ¡Goofy!
+
+    ¿Cuándo habéis llegado?
+  en: >-
+    Roxas! Donald, Goofy!
+
+    When´d you get here?
+- id: 3683
+  fr: >-
+    Sora ?
+  gr: >-
+    Sora?
+  it: >-
+    Sora?
+  sp: >-
+    ¿Sora?
+  en: >-
+    Sora?
+- id: 3692
+  fr: >-
+    {:delay 6E 00}{:clear }Sora, on a besoin de toi !
+  gr: >-
+    {:delay 82 00}{:clear }Sora, komm zu uns zurück!
+  it: >-
+    {:delay 6C 00}{:clear }Sora, torna da noi!
+  sp: >-
+    {:delay 6C 00}{:clear }Sora, vuelve con nosotros.
+  en: >-
+    {:delay 6C 00}{:clear }Sora, come back to us!
+- id: 3700
+  fr: >-
+    Roxas ! Derrière toi !
+  gr: >-
+    Roxas! Hinter euch!
+  it: >-
+    Roxas! Dietro di te!
+  sp: >-
+    ¡Roxas! ¡Detrás de ti!
+  en: >-
+    Roxas, behind you!
+- id: 3710
+  fr: >-
+    Roxas... Je ne peux pas l'abandonner.
+  gr: >-
+    Roxas. Ich lass ihn nicht zurück.
+  it: >-
+    Roxas, non voglio lasciarlo.
+  sp: >-
+    Roxas... No puedo abandonarle.
+  en: >-
+    Roxas...I won´t leave him.
+- id: 3745
+  fr: >-
+    Ne vous inquiétez pas pour
+
+    super-mâle. Je veillerai sur lui.{:delay E5 00}{:clear }Roxas, Donald, Dingo...
+
+    Je vous suis très reconnaissante.
+  gr: >-
+    Macht euch keine Sorgen um unseren
+
+    Wunderknaben. Ich päppel ihn wieder auf.{:delay FA 00}{:delay 0A 00}{:clear }Roxas,{:delay 1E 00} {:delay 3C 00}{:clear }Donald, {:delay 3C 00} {:delay 0A 00}{:clear }Goofy. {:delay 46 00}{:clear }Ich stehe tief in eurer Schuld.
+  it: >-
+    Non preoccupatevi per Megafusto.
+
+    Baderò io a lui.{:delay D8 00}{:clear }{:delay 36 00}{:clear }Roxas...{:delay 5A 00}{:clear }Paperino...{:delay 5A 00}{:clear }Pippo...{:delay 3C 00}{:clear }Vi sono davvero grata.
+  sp: >-
+    No os preocupéis por el fortachón.
+
+    Yo cuidaré de él.{:delay 14 01}{:clear }Roxas,{:delay 54 00}{:clear }Donald,{:delay 4E 00}{:clear }Goofy...{:delay 42 00}{:clear }os debo un gran favor.
+  en: >-
+    Don´t worry about Wonderboy here.
+
+    I´ll look after him.{:delay D8 00}{:clear }{:delay 36 00}{:clear }Roxas,{:delay 5A 00}{:clear }Donald,{:delay 5A 00}{:clear }Goofy,{:delay 3C 00}{:clear }I owe you big time.
+- id: 3848
+  fr: >-
+    Que se passe-t-il, Roxas ?
+  gr: >-
+    Was ist los, Roxas?
+  it: >-
+    Che cosa c'è, Roxas?
+  sp: >-
+    ¿Qué ocurre, Roxas?
+  en: >-
+    What´s wrong, Roxas?
+- id: 3890
+  fr: >-
+    Roxas... Donald... Dingo.
+  gr: >-
+    Roxas ... Donald ... Goofy.
+  it: >-
+    Roxas... Paperino... Pippo.
+  sp: >-
+    Roxas... Donald... Goofy.
+  en: >-
+    Roxas. Donald. Goofy.
+- id: 3944
+  fr: >-
+    Je plaisante... Merci,
+
+    Roxas, Donald, Dingo.
+  gr: >-
+    Euch gebührt unser Dank,
+
+    Roxas, Donald, Goofy.
+  it: >-
+    Scherzavo!
+
+    Grazie, Roxas, Paperino, Pippo.
+  sp: >-
+    De verdad.
+
+    Gracias, Roxas, Donald... Goofy.
+  en: >-
+    I´m kidding. Thank you,
+
+    Roxas, Donald, Goofy.
+- id: 4009
+  fr: >-
+    Roxas doit combattre
+
+    seul, mais la jauge de Flux
+
+    se remplit plus vite et il
+
+    peut recourir aux Fusions.    
+  gr: >-
+    Roxas muss alleine kämpfen.
+
+    Die Drive-Leiste füllt sich 
+
+    schneller als sonst, und Roxas
+
+    kann Formen alleine einsetzen.
+  it: >-
+    Un torneo solo per Roxas.
+
+    La barra Turbo si riempie più
+
+    in fretta del solito e Roxas
+
+    può usare i Turbo da solo.    
+  sp: >-
+    Roxas lucha solo.
+
+    El indicador de Fusión se
+
+    llena más rápido que de
+
+    costumbre y Roxas puede
+
+    usar Fusión estando solo.    
+  en: >-
+    A solo fight using Roxas.
+
+    The Drive Gauge fills
+
+    faster than usual, and
+
+    Roxas can use Drives
+
+    alone.
+- id: 4012
+  fr: >-
+    Roxas combat seul.
+
+    Il peut recourir
+
+    aux Invocations.    
+  gr: >-
+    Roxas muss alleine kämpfen.
+
+    Du kannst in diesem Turnier
+
+    alleine Freunde herbeirufen.
+  it: >-
+    Un torneo solo per Roxas.
+
+    Roxas può usare le Invocazioni
+
+    da solo in questo torneo.    
+  sp: >-
+    En este torneo, Roxas
+
+    lucha solo, pero puede
+
+    usar Invocar.    
+  en: >-
+    A solo fight using Roxas.
+
+    Roxas can use Summons
+
+    alone in this tournament.
+- id: 4027
+  fr: >-
+    Roxas doit combattre
+
+    seul mais la jauge de Flux
+
+    se remplit plus vite et il
+
+    peut recourir aux Fusions.
+  gr: >-
+    Roxas muss alleine kämpfen.
+
+    Die Drive-Leiste füllt sich
+
+    schneller als sonst, und Roxas
+
+    kann Formen alleine einsetzen.    
+  it: >-
+    Un torneo solo per Roxas.
+
+    La barra Turbo si riempie più
+
+    in fretta del solito e Roxas
+
+    può usare i Turbo da solo.
+  sp: >-
+    Roxas lucha solo.
+
+    El indicador de Fusión se
+
+    llena más rápido que de
+
+    costumbre y Roxas puede
+
+    usar Fusión estando solo.    
+  en: >-
+    A solo fight using Roxas.
+
+    The Drive Gauge fills
+
+    faster than usual, and
+
+    Roxas can use Drives
+
+    alone.
+- id: 4030
+  fr: >-
+    Roxas combat seul.
+
+    Il peut recourir
+
+    aux Invocations.    
+  gr: >-
+    Roxas muss alleine kämpfen.
+
+    Du kannst in diesem Turnier
+
+    alleine Freunde herbeirufen.    
+  it: >-
+    Un torneo solo per Roxas.
+
+    Roxas può usare le Invocazioni
+
+    da solo in questo torneo.    
+  sp: >-
+    En este torneo, Roxas
+
+    lucha solo, pero puede
+
+    usar Invocar.    
+  en: >-
+    A solo fight using Roxas.
+
+    Roxas can use Summons
+
+    alone in this tournament.
+- id: 16144
+  fr: >-
+    Si je le pouvais, je volerais tout
+
+    de suite au secours de Meg...{:clear }Partez devant, je vous rejoindrai dès
+
+    que je me serai débarrassé de l'Hydre !
+  gr: >-
+    Glaubt mir, ich wünschte, ich könnte
+
+    jetzt aufbrechen, um Megara zu retten!{:clear }Bitte helft ihr, Roxas. Zumindest so lange,
+
+    bis ich die Hydra besiegt habe!
+  it: >-
+    Credimi, in questo istante, vorrei
+
+    solo volare a salvare Megara...{:clear }Roxas, ti prego, proteggila almeno
+
+    fin quando non avrò sconfitto Idra!
+  sp: >-
+    Me encantaría ir a rescatar a
+
+    Megara sin perder tiempo...{:clear }¡Por favor, Roxas, ayúdala hasta
+
+    que acabe con la Hidra!
+  en: >-
+    Believe me, I wish I could leave
+
+    this instant to rescue Megara...{:clear }Please help her, Roxas, at least
+
+    until I defeat the Hydra!
+- id: 16163
+  fr: >-
+    Il s'en est fallu de peu.
+
+    Sans votre aide, c'était perdu.
+  gr: >-
+    Das war knapp. Ihr drei habt
+
+    mich eben gerettet, Roxas.
+  it: >-
+    C'è mancato un pelo...
+
+    Se non ci foste stati voi,
+
+    non ce l'avrei fatta!
+  sp: >-
+    Por poco. Tú y tus amigos
+
+    me habéis salvado, Roxas.
+  en: >-
+    That was close. You and your friends
+
+    saved me back there, Roxas.
+- id: 16578
+  fr: >-
+    Meg n'est sûrement pas
+
+    la seule à nous attendre.{:clear }Il faut s'attendre à
+
+    une embuscade, Roxas.
+  gr: >-
+    Megara ist wahrscheinlich nicht
+
+    die Einzige, die auf uns wartet.{:clear }Sei auf der Hut vor Gegnern, Roxas.
+  it: >-
+    Forse non troveremo solo
+
+    Megara ad aspettarci.{:clear }Attento ai nemici, Roxas.
+  sp: >-
+    Seguro que Megara no es la
+
+    única que nos está esperando.{:clear }Ten mucho cuidado,
+
+    Roxas.
+  en: >-
+    Megara´s probably not the only one
+
+    waiting for us.{:clear }Watch out for enemies,
+
+    Roxas.
+- id: 16581
+  fr: >-
+    Le Colisée est en danger !{:clear }Allez-y vite !
+
+    Nous essaierons de vous aider !
+  gr: >-
+    Roxas, in der Arena gibt es Probleme!{:clear }Wir tun auch, was wir können,
+
+    also nichts wie hin zur Arena!
+  it: >-
+    Roxas, lo stadio è in pericolo!{:clear }Non preoccuparti per noi, corri lassù!
+  sp: >-
+    ¡Roxas, hay problemas en el Coliseo!{:clear }¡Ve para allá! Nosotros
+
+    haremos lo que podamos.
+  en: >-
+    Roxas, the coliseum´s in trouble!{:clear }We´ll do what we can.
+
+    Just get over to the coliseum!
+- id: 19549
+  fr: >-
+    Roxas combat en solo !
+  gr: >-
+    Ab hier ist Roxas komplett auf sich alleine gestellt!
+  it: >-
+    Roxas è da solo!
+  sp: >-
+    ¡Roxas está solo!
+  en: >-
+    Roxas´s on his own!
+- id: 19550
+  fr: >-
+    Roxas combat en solo !
+  gr: >-
+    Ab hier ist Roxas komplett auf sich alleine gestellt!
+  it: >-
+    Roxas è da solo!
+  sp: >-
+    ¡Roxas está solo!
+  en: >-
+    Roxas´s on his own!
+- id: 19872
+  fr: >-
+    Roxas ! Attends !
+  gr: >-
+    Nein! Roxas, warte!
+  it: >-
+    Roxas, aspetta!
+  sp: >-
+    ¡Roxas, espera!
+  en: >-
+    Roxas, wait!
+- id: 21499
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Mégara s'inquiète pour Hercule. Il travaille
+
+    tellement ces temps-ci... Même un héros
+
+    a besoin de repos !    
+
+    Elle comptait se rendre dans les Enfers,
+
+    pour demander à Hadès de laisser Hercule
+
+    souffler un peu, mais Roxas a décidé
+
+    d'y aller à sa place.
+  gr: >-
+    {:delayandfade 07 78} 
+
+    Megara macht sich große Sorgen um
+
+    Hercules, denn selbst ein Held wie er
+
+    braucht mal eine Pause.
+
+    Roxas und seine Freunde machen sich
+
+    deshalb auf den Weg in die
+
+    Unterwelt, um Hades an Megs Stelle
+
+    um eine Auszeit für Hercules zu bitten.    
+  it: >-
+    {:delayandfade 07 78} 
+
+    Megara è in pensiero per Ercole.
+
+    Si sta sfiancando di allenamenti e
+
+    persino gli eroi hanno bisogno di riposo.
+
+    Roxas e i suoi amici vanno negli Inferi
+
+    al posto di Meg per chiedere ad Ade di
+
+    avere un po' di pietà.
+  sp: >-
+    {:delayandfade 07 78} 
+
+    Megara andaba muy preocupada por
+
+    Hércules, ya que parecía fatigado
+
+    con tanta lucha, y por eso decidió
+
+    visitar a Hades y pedirle que le
+
+    diera un respiro al héroe.
+
+    ¿Megara sola en el Inframundo?
+
+    ¡Eso sí que es preocupante!,
+
+    piensa Roxas, razón por la que se
+
+    ofrece a ir en su lugar.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Hercules has been working himself to the
+
+    bone, and Megara's worried. Even heroes
+
+    need some rest.
+ 
+    She was on her way to beg Hades for mercy,
+
+    but Roxas and his friends decide it's too
+
+    dangerous, and offer to go in her place.
+- id: 21500
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Après avoir discuté avec Auron, Roxas
+
+    et ses amis ont décidé de retourner
+
+    voir Meg afin de parler stratégie.
+
+    Ce qu'ils ne savaient pas, c'est
+
+    que le plan machiavélique d'Hadès,
+
+    lui, était maintenant en marche.
+  gr: >-
+    {:delayandfade 07 78} 
+
+    Roxas, Donald und Goofy lassen Auron
+
+    fürs Erste in der Unterwelt und kehren
+
+    zu Megara zurück, um wieder
+
+    zu Kräften zu kommen.     
+
+    Währenddessen bringt Hades den Stein
+
+    für seinen neuen Plan ins Rollen ...
+  it: >-
+    {:delayandfade 07 78} 
+
+    Dopo aver lasciato Auron, Roxas e
+
+    i suoi amici tornano da Meg.
+
+    Ma ignoravano che il piano malvagio
+
+    di Ade fosse ormai in atto.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    Tras despedirse de Auron,
+
+    Roxas y los suyos deciden volver
+
+    con Meg para recomponer filas.
+
+    Sin embargo, los siniestros
+
+    planes de Hades ya están en
+
+    marcha.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    With Auron on his own, Roxas and his
+
+    friends return to Meg to figure out
+
+    their next move. Something has to be
+
+    done, but what?
+ 
+    Little do they know that meanwhile,
+
+    Hades' evil plan has been set in motion...
+- id: 21501
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Hercule a parlé d'un talisman protecteur
+
+    à Roxas : la Pierre de l'Olympe. Cet objet
+
+    protégerait son porteur de la malédiction
+
+    des Enfers.
+
+    Mais même débarrassé de la malédiction,
+
+    Hadès ne sera pas facile à vaincre.
+
+    Il va falloir suivre l'entraînement de Phil !
+  gr: >-
+    {:delayandfade 07 78} 
+
+    Hercules verspricht Roxas das
+
+    "Medaillon des Olymps", das vor
+
+    dem Fluch der Unterwelt
+
+    schützen soll.
+
+    Doch selbst mit dem Medaillon
+
+    bleibt Hades ein gefährlicher
+
+    Gegner. Um ihn zu besiegen,
+
+    müssen sich die Freunde
+
+    Phils Training unterziehen.    
+  it: >-
+    {:delayandfade 07 78} 
+
+    Roxas vuole altre informazioni sulla
+
+    maledizione degli Inferi. Ercole però
+
+    conosce un talismano che ne annulla
+
+    gli effetti: la Pietra dell'Olimpo.     
+
+    Tuttavia, anche senza la maledizione,
+
+    Ade è ancora un avversario temibile.
+
+    Solo una persona può aiutarli adesso.
+  sp: >-
+    {:delayandfade 07 78} 
+
+    Roxas quiere averiguar más sobre
+
+    la maldición del Inframundo y
+
+    Hércules parece conocer algo
+
+    que podría anular sus efectos:
+
+    la Piedra del Olimpo.     
+
+    Pero no es la maldición lo único
+
+    preocupante, pues Hades es un
+
+    duro rival contra el que solo Fil
+
+    podría preparar al grupo.    
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Curious, Roxas asks Hercules about the
+
+    Underworld's curse. As it turns out,
+
+    a talisman called the Olympus Stone can
+
+    offer protection.
+ 
+    However, even without the curse, Hades is
+
+    quite the handful. There's only one person
+
+    who can help them prepare for the upcoming
+
+    epic battle.
+- id: 21502
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Dès qu'il a su de quoi il en retournait,
+
+    Phil a chaleureusement accepté d'aider
+
+    Roxas et ses amis.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Phil findet Roxas' Bitte urkomisch.
+
+    Trotzdem verspricht er, die drei
+
+    Juniorhelden zu trainieren. 
+  it: >-
+    {:delayandfade 07 78} 
+
+    Con una risata di cuore, Fil
+
+    accetta di aiutare Roxas e i
+
+    suoi amici.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    Fil acoge con una gran risotada
+
+    la petición de Roxas y decide sin
+
+    reparos entrenar al grupo.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    With a hearty laugh, Phil agrees to help
+
+    Roxas and his friends.
+- id: 21503
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Mais une fois l'entraînement terminé, Hercule
+
+    a appris une triste nouvelle à Roxas :
+
+    un homme vêtu de noir a volé la Pierre
+
+    de l'Olympe.    
+
+    Roxas devait récupérer cet objet...
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Doch nach dem Training überbringt
+
+    Hercules schockierende Nachrichten.    
+
+    Ein Mann in schwarzer Kutte
+
+    hat das Medaillon des Olymps
+
+    gestohlen!    
+
+    Roxas ist wild entschlossen, es
+
+    zurückzuholen, aber ...
+  it: >-
+    {:delayandfade 07 78} 
+
+    Alla fine del loro allenamento, Ercole
+
+    fa una rivelazione scioccante a Roxas:
+
+    la Pietra dell'Olimpo è stata rubata
+
+    da un uomo vestito di nero.     
+
+    Roxas e i suoi amici allora partono,
+
+    determinati a recuperare l'oggetto.
+  sp: >-
+    {:delayandfade 07 78} 
+
+    Una vez terminado el entrenamiento,
+
+    Hércules sobrecoge a todos con
+
+    una terrible noticia: un encapuchado
+
+    ha robado la Piedra del Olimpo.     
+
+    Roxas y sus amigos no pueden
+
+    quedarse de brazos cruzados
+
+    y salen raudos en busca del
+
+    malhechor.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    As their training comes to an end, Hercules
+
+    informs Roxas of a shocking truth--
+
+    the Olympus Stone was stolen by a figure
+
+    dressed in black.
+ 
+    Roxas and his friends head off, determined
+
+    to retrieve the valuable item.
+- id: 21504
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Alors que Roxas était en route pour les
+
+    Enfers, il a trouvé Phil étendu sur le sol.
+
+    Un homme en noir l'avait attaqué.    
+
+    Notre héros et ses amis étaient
+
+    vraiment les seuls à pouvoir
+
+    remédier à la situation.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Auf dem Weg in die Unterwelt stolpern
+
+    Roxas und seine Freunde buchstäblich
+
+    über Phil, der vom Mann in der schwarzen
+
+    Kutte niedergestreckt wurde.     
+
+    Jetzt hängt alles von ihnen ab!
+  it: >-
+    {:delayandfade 07 78} 
+
+    Mentre vanno verso gli Inferi, Roxas
+
+    e i suoi amici trovano Fil steso a terra,
+
+    sconfitto dall'uomo vestito di nero.     
+
+    I tre amici dovranno risolvere la
+
+    situazione!
+  sp: >-
+    {:delayandfade 08 78} 
+
+    De camino al Inframundo, los amigos
+
+    se topan con Fil, que yace en
+
+    el suelo tras haber caído derrotado
+
+    a manos de un encapuchado.     
+
+    Las cosas se han puesto muy feas
+
+    y ahora todo depende del elegido
+
+    de la llave espada.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    As Roxas and his friends make a beeline
+
+    for the Underworld, they see Phil lying
+
+    on the ground, defeated by the figure
+
+    in black.
+ 
+    It's up to the three friends to save
+
+    the day!
+- id: 21505
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Avant de disparaître, Hadès a prévenu
+
+    Roxas qu'un danger menaçait le monde
+
+    de l'Olympe.    
+
+    Mais de quoi voulait-il parler ?
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Hades behauptet, der Olymp
+
+    sei in Gefahr, und macht sich
+
+    aus dem Staub.     
+
+    Was geht da oben nur vor sich?
+  it: >-
+    {:delayandfade 07 78} 
+
+    Ade rivela a Roxas e i suoi amici
+
+    che una minaccia incombe sul
+
+    monte Olimpo.
+
+    Di cosa starà parlando?
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    Hades no deja escapar la ocasión
+
+    para anunciar a Roxas y los suyos
+
+    el nefasto futuro que se cierne
+
+    sobre el Olimpo.     
+
+    ¿A qué se referirá realmente
+
+    el díscolo dios?
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Hades informs Roxas and his friends about
+
+    the threat facing the Coliseum, and quickly
+
+    disappears before them.
+ 
+    What could he be talking about? What's
+
+    happening in the Coliseum?
+- id: 21506
+  fr: >-
+    {:delayandfade 06 B4}
+
+    Dans le monde de l'Olympe, tout le monde
+
+    ne parlait plus que du Colisée des Enfers
+
+    qui avait rouvert ses portes. Il s'agissait
+
+    d'une arène de combat où les monstres
+
+    s'affrontaient sans pitié.    
+
+    Devant une telle menace pour l'Olympe,
+
+    Roxas décida de rejoindre Hercule
+
+    au plus vite.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Der ganze Olymp ist in Aufruhr.
+
+    Die Arena, in der sich einst Kreaturen
+
+    der Unterwelt bekämpften, wurde
+
+    wieder geöffnet!     
+
+    Roxas will sofort nach Hercules sehen!
+  it: >-
+    {:delayandfade 07 78} 
+
+    Il monte Olimpo era insolitamente chiassoso
+
+    con il ritorno in attività dell'Inferodromo,
+
+    teatro di battaglie fra mostri.
+
+    Preoccupati per l'incolumità di Ercole,
+
+    Roxas e i suoi amici vanno a cercarlo.
+  sp: >-
+    {:delayandfade 07 78} 
+
+    El Olimpo parece más animado
+
+    que de costumbre, todo gracias
+
+    a la reapertura del Infiernódromo,
+
+    un coso en el que se disputan
+
+    combates contra bestias.
+
+    Habiendo monstruos de por medio,
+
+    Roxas sabe que Hércules podría
+
+    estar en apuros, así que se
+
+    apresura en busca del héroe.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Olympus was unusually clamorous with
+
+    the revival of the Underworld coliseum,
+
+    an arena where monsters battle one
+
+    another.
+ 
+    Fearing for Hercules' safety, Roxas and his
+
+    friends head off in search of the hero.

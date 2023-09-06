@@ -1,0 +1,792 @@
+- id: 4664
+  fr: >-
+    Très bien. Mais pour le moment, je
+
+    me prépare à faire ma gymnastique. {:delay 2C 01}{:clear }Veux-tu participer, Roxas ?
+  gr: >-
+    Oh ja!{:delay 51 00}{:clear }Weißt du, ich wollte gerade meine
+
+    Beleibtheitsübungen machen.{:delay DF 00}{:clear }{:delay 28 00}{:clear }Willst du mitmachen, Roxas?
+  it: >-
+    Oh, sì.{:delay 5A 00}{:clear }Anzi, stavo proprio per fare
+
+    la ginnastica per dimagrire.{:delay FA 00}{:clear }Vuoi farla con me, Roxas?
+  sp: >-
+    Oh, sí.{:delay 4E 00}{:clear }De hecho, estaba a punto de hacer
+
+    mi gimnasia para la tripita.{:delay 1A 01}{:clear }¿Quieres acompañarme, Roxas?
+  en: >-
+    Oh, yes.{:delay 5A 00}{:clear }In fact, I was just about to do
+
+    my stoutness exercises.{:delay FA 00}{:clear }Would you like to join me, Roxas?
+- id: 4688
+  fr: >-
+    Roxas ! Aide-moi. Je t'en prie !
+  gr: >-
+    Roxas! Hilf mir! Bitte!
+  it: >-
+    Roxas! Aiutami, ti prego!
+  sp: >-
+    ¡Roxas! ¡Ayúdame! ¡Por favor!
+  en: >-
+    Roxas! Help! Please!
+- id: 4691
+  fr: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Pfiou !
+
+    Merci, Roxas.
+  gr: >-
+    {:unk13 7C 01 DC 00}{:unk06 00}{:unk08 01 00 06}Uff!
+
+    Danke dir, Roxas.
+  it: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Fiù!
+
+    Grazie, Roxas.
+  sp: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}¡Menos mal!
+
+    Gracias, Roxas.
+  en: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Whew!
+
+    Thank you, Roxas.
+- id: 4699
+  fr: >-
+    {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}Au revoir, Roxas.
+
+    Au revoir, Winnie.
+  gr: >-
+    {:unk13 7C 01 32 00}{:unk06 00}{:unk08 01 00 05}Wiedersehen, Roxas!
+
+    Wiedersehen, Puuh!
+  it: >-
+    {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}Arrivederci, Roxas!
+
+    Arrivederci, Pooh!
+  sp: >-
+    {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}¡Adiós, Roxas!
+
+    ¡Adiós, Pooh!
+  en: >-
+    {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}Good-bye, Roxas!
+
+    Good-bye, Pooh!
+- id: 4706
+  fr: >-
+    Roxas...
+  gr: >-
+    Roxas ...
+  it: >-
+    Roxas...
+  sp: >-
+    Roxas...
+  en: >-
+    Roxas...
+- id: 4707
+  fr: >-
+    D'a... d'accord. Je vais essayer.
+  gr: >-
+    In Ordnung, Roxas. Ich versuch's.
+  it: >-
+    D'accordo, S-Roxas.
+
+    Ci provo...
+  sp: >-
+    Está bien, S-Roxas. Lo intentaré...
+  en: >-
+    All right, Roxas. I´ll t-try...
+- id: 4745
+  fr: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Tiens ? Bonjour, Roxas.
+
+    Content de te revoir.
+  gr: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Oh, hallo, Roxas ...
+
+    Schön, dich wiederzusehen.
+  it: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Ciao, Roxas...
+
+    È un piacere rivederti.
+  sp: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Eh, hola, Roxas...
+
+    Qué bueno volver a verte.
+  en: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Oh, hello, Roxas...
+
+    It´s good to see you again.
+- id: 4780
+  fr: >-
+    Bonjour, Roxas.
+  gr: >-
+    Hallo, Roxas.
+  it: >-
+    Ciao, Roxas.
+  sp: >-
+    Vaya, hola, Roxas.
+  en: >-
+    Well, hello, Roxas!
+- id: 4816
+  fr: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}Qu'en dis-tu,
+
+    Roxas ?
+  gr: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}Was denkst du, was wir
+
+    tun sollten, Roxas?
+  it: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}Cosa pensi che
+
+    dovremmo fare, Roxas?
+  sp: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}Roxas, ¿tú qué crees que
+
+    debemos hacer?
+  en: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}What do you think
+
+    we should do, Roxas?
+- id: 4827
+  fr: >-
+    Essaie de te souvenir, Winnie.
+
+    Est-ce que Roxas ne serait pas{:delay A8 00}{:clear }l'ami que tu cherches ?
+  gr: >-
+    Versuch dich zu erinnern, Puuh!{:delay 6E 00}{:clear }Suchst du nicht vielleicht Roxas?
+  it: >-
+    Cerca di ricordare, Pooh.{:delay 5A 00}{:clear }Non è Roxas la persona che cerchi?
+  sp: >-
+    Intenta acordarte, Pooh.{:delay 79 00}{:clear }¿No es a Roxas a quien estás buscando?
+  en: >-
+    Now, try to remember, Pooh.{:delay 5A 00}{:clear }Isn´t Roxas the one you´re
+
+    looking for?
+- id: 4830
+  fr: >-
+    Bonne idée, Roxas.
+  gr: >-
+    Klingt gut, Roxas.
+  it: >-
+    Mi piace quest'idea, Roxas.
+  sp: >-
+    Eso me gustaría, Roxas.
+  en: >-
+    I´d like that, Roxas.
+- id: 4832
+  fr: >-
+    Souvenu de quoi, Roxas ?
+  gr: >-
+    Woran, Roxas?
+  it: >-
+    Ricordato che cosa, Roxas?
+  sp: >-
+    ¿Acordarme de qué, Roxas?
+  en: >-
+    Remembered what, Roxas?
+- id: 4834
+  fr: >-
+    C'est comme ça que je te
+
+    préfère, Roxas : heureux.
+  gr: >-
+    Ich hab es lieber, wenn du
+
+    richtig fröhlich bist, Roxas.
+  it: >-
+    Mi piace tanto quando
+
+    sei allegro, Roxas.
+  sp: >-
+    Me encanta cuando estás alegre, Roxas.
+  en: >-
+    I like it ever so much when
+
+    you´re cheerful, Roxas.
+- id: 4840
+  fr: >-
+    {:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}C'est toi, Roxas ?{:clear }Sors-moi de là.
+  gr: >-
+    {:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}Roxas? Bist du das?{:clear }Hilf mir!
+  it: >-
+    {:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}Roxas? Sei tu?{:clear }Aiuto!
+  sp: >-
+    {:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}¿Roxas? ¿Eres tú?{:clear }¡Ayúdame!
+  en: >-
+    {:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}Roxas? Is that you?{:clear }Help!
+- id: 4848
+  fr: >-
+    Tu ne veux pas plutôt
+
+    venir "tout le temps" ?{:delay F0 00}{:clear }Je trouve que ce serait mieux.
+
+    Dis, Roxas, si je partais te chercher, {:delay 2C 01}{:clear }est-ce que je te trouverais ?
+  gr: >-
+    Warum nicht wieder und wieder?{:delay C2 00}{:clear }Ich finde, das klingt besser.{:delay B4 00}{:clear }Roxas, wenn ich dich suchen gehe,
+
+    finde ich dich dann?
+  it: >-
+    Non potrebbe essere
+
+    "ogni sempre", invece?{:delay C6 00}{:clear }Per me sarebbe meglio.{:delay C6 00}{:clear }Roxas, se verrò a cercarti,
+
+    ti troverò?
+  sp: >-
+    ¿Y no podría ser
+
+    "de ahora en ahora"?{:delay D9 00}{:clear }Eso me parece un poco mejor.{:delay B8 00}{:clear }Roxas, si voy a buscarte,
+
+    ¿te encontraré?
+  en: >-
+    Could you make it
+
+    "now and now" instead?{:delay C6 00}{:clear }That seems a bit better to me.{:delay C6 00}{:clear }Roxas, if I go looking for you,
+
+    will I find you?
+- id: 4857
+  fr: >-
+    Tu seras toujours
+
+    le bienvenu ici, Roxas.
+  gr: >-
+    Du kannst uns jederzeit besuchen kommen, Roxas.
+  it: >-
+    Vieni a trovarci quando vuoi, Roxas.
+  sp: >-
+    Ven a visitarnos cuando quieras,
+
+    Roxas.
+  en: >-
+    You´re welcome to visit us
+
+    anytime, Roxas.
+- id: 4862
+  fr: >-
+    Au revoir, Roxas.
+  gr: >-
+    Mach's gut, Roxas.
+  it: >-
+    Arrivederci, Roxas.
+  sp: >-
+    Adiós, Roxas.
+  en: >-
+    Good-bye, Roxas.
+- id: 4868
+  fr: >-
+    Bon, je ne serai pas triste, parce que tu seras
+
+    toujours ici tout proche de moi. Pas vrai, Roxas ?
+  gr: >-
+    Nun, aber ich bin nicht traurig ...{:delay 82 00}{:clear }... weil du für immer und ewig hier drin bist.{:delay 9E 00}{:clear }Hab ich Recht, Roxas?
+  it: >-
+    Va bene, non sarò triste...{:delay 78 00}{:clear }... perché tu sarai qui per sempre.{:delay DE 00}{:clear }Giusto, Roxas?
+  sp: >-
+    Bueno, no me pondré triste,{:delay 95 00}{:clear }porque tú siempre, siempre,
+
+    estarás aquí.{:delay AB 00}{:clear }¿Verdad, Roxas?
+  en: >-
+    Well, I won´t be sad,{:delay 78 00}{:clear }because you´ll always be
+
+    right here forever and ever.{:delay DE 00}{:clear }Right, Roxas?
+- id: 7896
+  fr: >-
+    Ce n'est pas la première fois que Winnie
+
+    se coince la tête dans un pot de miel !{:clear }Tu peux y aller, Roxas.
+
+    Tire de toutes tes forces pour le dégager.
+  gr: >-
+    Das ist schon das zigste Mal,
+
+    dass ich Puuh so sehe!{:clear }Roxas, nur keine Scheu.
+
+    Geh und nimm ihm den Topf ab.
+  it: >-
+    Questa è l'ennesima volta
+
+    che vedo Pooh ridotto così!{:clear }Roxas, non restare a guardare!
+
+    Togligli quel vasetto dalla testa!
+  sp: >-
+    ¡Esta es la enésima vez que veo
+
+    a Pooh así!{:clear }Roxas, no te detengas.
+
+    Ve y quítale ese tarro.
+  en: >-
+    This is the umpteenth time I´ve seen Pooh
+
+    like that!{:clear }Roxas, don´t hold back.
+
+    Go and grab that pot off of him.
+- id: 7897
+  fr: >-
+    Roxas ? Est-ce que c'est toi ?
+
+    Aide-moi !
+  gr: >-
+    Roxas? Bist du das, Roxas?
+
+    Hilfe!
+  it: >-
+    Roxas? Sei tu, Roxas?
+
+    Aiuto!
+  sp: >-
+    ¿Roxas? ¿Eres tú, Roxas?
+
+    ¡Socorro!
+  en: >-
+    Roxas? Is that you, Roxas?
+
+    Help!
+- id: 7900
+  fr: >-
+    Bonjour, Roxas. Belle journée, hein ?
+
+    Le temps idéal pour manger du miel !{:clear }Et pour faire un peu d'exercice aussi.
+
+    Profitons-en !
+  gr: >-
+    Hallo, Roxas. Was für ein schöner Tag.
+
+    Perfekt für Honig!{:clear }Und perfekt für Beleibtheitsübungen.
+
+    Lass uns heute auch wieder Spaß haben!
+  it: >-
+    Ciao, Roxas. Bella giornata, eh?
+
+    Perfetta per mangiare del miele!{:clear }Perfetta anche per fare ginnastica.
+
+    Dai, giochiamo un po' oggi!
+  sp: >-
+    Hola, Roxas. Hace un día precioso.
+
+    ¡Perfecto para comer miel!{:clear }Y para hacer ejercicio.
+
+    ¡Hoy también podríamos jugar!
+  en: >-
+    Hi, Roxas. It´s a beautiful day today.
+
+    Perfect for hunny!{:clear }Perfect for exercise, too.
+
+    Let´s play today, too!
+- id: 7928
+  fr: >-
+    Cet endroit est sombre et
+
+    ressemble à un labyrinthe !{:clear }Si je me perds, tu viendras
+
+    me chercher, hein, Roxas ?
+  gr: >-
+    Es ist dunkel hier und man kommt
+
+    sich vor wie in einem Labyrinth!{:clear }Wenn ich mich verlaufe, dann findest du
+
+    mich wieder, oder, Roxas? Ich zähle auf dich!
+  it: >-
+    Questo posto è buio e
+
+    sembra un labirinto.{:clear }Se mi perdo, mi troverai tu,
+
+    vero, Roxas? Guarda che ci conto!
+  sp: >-
+    ¡Este sitio es oscuro y
+
+    parece un laberinto!{:clear }Si me pierdo, me encontrarás,
+
+    ¿verdad? ¡Cuento contigo!
+  en: >-
+    This place is dark, and feels like
+
+    a maze!{:clear }If I get lost, you´ll find me, won´t you, Roxas?
+
+    I´m counting on you!
+- id: 7930
+  fr: >-
+    J'entends des bourdonnements.
+
+    J'espère que ce ne sont pas des abeilles.{:clear }Si elles nous attaquent, je compte
+
+    sur toi pour les chasser.
+  gr: >-
+    Ich höre da so ein Summen. Ich hoffe,
+
+    dass da keine Bienen in der Nähe sind.{:clear }Roxas, wenn wir von Bienen angegriffen
+
+    werden, kümmere dich bitte um sie.
+  it: >-
+    Sento un ronzio... Spero che non
+
+    ci siano delle api nelle vicinanze.{:clear }Roxas, se le api dovessero attaccarci,
+
+    sterminale tutte tu, capito?
+  sp: >-
+    Puedo oír un zumbido de alas.
+
+    Espero que no haya abejas por aquí.{:clear }Roxas, si nos atacan las abejas,
+
+    ocúpate de ellas, por favor.
+  en: >-
+    I can hear wings buzzing. I hope there
+
+    aren´t any bees here.{:clear }Roxas, if we´re attacked by bees, please
+
+    exterminate them.
+- id: 7933
+  fr: >-
+    Dis, Roxas, on devrait peut-être
+
+    aller chercher Winnie, tu ne crois pas ?
+  gr: >-
+    Du, Roxas. Vielleicht sollten
+
+    wir nach Puuh suchen.
+  it: >-
+    Ehi, Roxas. Forse dovremmo
+
+    andare a cercare Pooh.
+  sp: >-
+    Eh, Roxas, quizá deberíamos
+
+    ir a buscar a Pooh.
+  en: >-
+    Hey, Roxas. Maybe we should go
+
+    find Pooh.
+- id: 16084
+  fr: >-
+    Roxas, c'est bien toi, n'est-ce pas ?
+
+    Je me suis encore coincé ! Au secours !
+  gr: >-
+    Diese Stimme! Roxas, das bist du, nicht wahr?
+
+    Ich stecke mal wieder fest! Hilfe!
+  it: >-
+    Ma io conosco la tua voce!
+
+    Roxas, sei tu, vero? Sono
+
+    di nuovo incastrato, aiutami!
+  sp: >-
+    Conozco esa voz. Eres tú, Roxas, ¿verdad?
+
+    ¡Estoy atascado otra vez! ¡Ayúdame!
+  en: >-
+    I know that voice. Roxas, it´s you, right?
+
+    I´m stuck again! Help!
+- id: 16086
+  fr: >-
+    Bonjour, Roxas.
+
+    Tu es venu chercher du miel ?
+  gr: >-
+    Hallo, Roxas.
+
+    Willst du noch mehr Honig holen?
+  it: >-
+    Ciao, Roxas.
+
+    Vuoi andare a prendere altro miele?
+  sp: >-
+    Hola, Roxas.
+
+    ¿Quieres conseguir más miel?
+  en: >-
+    Hi, Roxas.
+
+    Want to get some more honey?
+- id: 16090
+  fr: >-
+    Hou-hou-hou-hou ! Encore une belle
+
+    journée pour bondir ! Joins-toi à moi, Roxas !
+  gr: >-
+    Hoo-hoo-hoo-hoo! Hüpfen macht auch
+
+    dich heut froh! Hüpf auch mit, Roxas!
+  it: >-
+    Hoo-hoo-hoo-hoo! Saltellare ti farà
+
+    bene al morale! Salta con me, Roxas!
+  sp: >-
+    ¡Ju, ju, ju, ju! ¡Dar botes te va
+
+    a animar! ¡Vamos, Roxas, inténtalo!
+  en: >-
+    Hoo-hoo-hoo-hoo! Bouncing will cheer
+
+    you up today, too! Let´s bounce, Roxas!
+- id: 16092
+  fr: >-
+    Nous voudrions y retourner.
+
+    Tu peux nous aider, Roxas ?
+  gr: >-
+    Geht doch bitte noch einmal nachsehen.
+
+    Wirst du uns helfen, Roxas?
+  it: >-
+    Volevo andare a dare un'occhiata
+
+    per accertarmi che Pooh stia
+
+    bene. Vieni con me, Roxas?
+  sp: >-
+    Quiero ir con todos a echar un vistazo.
+
+    ¿Vas a ayudar tú también, Roxas?
+  en: >-
+    I want to go look again with everyone.
+
+    Will you help, too, Roxas?
+- id: 18091
+  fr: >-
+    Je suis bien content que Winnie
+
+    se soit rappelé de toi, Roxas.{:clear }D'ailleurs, je me demande comment
+
+    il avait pu t'oublier.
+  gr: >-
+    Ich bin so froh, dass Puuh
+
+    sich an dich erinnert, Roxas.{:clear }Warum hatte er dich
+
+    bloß vergessen?
+  it: >-
+    Come sono felice che Pooh
+
+    si sia ricordato di te, Roxas.{:clear }Ma... chissà perché si era
+
+    dimenticato tutto all'inizio...
+  sp: >-
+    Estoy tan contento de que Pooh
+
+    se haya acordado de ti, Roxas.{:clear }Pero me pregunto por qué
+
+    no te recordaba al principio.
+  en: >-
+    I´m so happy Pooh remembered you,
+
+    Roxas.{:clear }I wonder why he forgot about you in the
+
+    first place, though.
+- id: 18099
+  fr: >-
+    Mon rêve est de creuser le
+
+    plus grand tunnel de la forêt.{:clear }Quand je serai sur le point d'aboutir,
+
+    je t'inviterai à venir voir, Roxas !
+  gr: >-
+    Mein Traum ist es,
+
+    den ultimativen Tunnel zu bauen.{:clear }Wenn ich je diesen Traum verwirklichen sollte,
+
+    schicke ich dir eine Einladung, Roxas!
+  it: >-
+    Il mio sogno è di costruire
+
+    il tunnel definitivo.{:clear }Se mai ci riuscirò,
+
+    ti manderò un invito, Roxas!
+  sp: >-
+    Mi sueño es construir
+
+    el túnel supremo.{:clear }¡Si alguna vez llego a hacerlo
+
+    realidad, te enviaré una invitación, Roxas!
+  en: >-
+    My dream is to build the ultimate
+
+    tunnel.{:clear }If I ever get close to achieving my dream,
+
+    I´ll send you an invitation, Roxas!
+- id: 18996
+  fr: >-
+    {:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}C'est toi, Roxas ?{:clear }Sors-moi de là !
+  gr: >-
+    {:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}Roxas? Bist du das?{:clear }Hilf mir!
+  it: >-
+    {:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}Roxas? Sei tu?{:clear }Aiuto!
+  sp: >-
+    {:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}¿Roxas? ¿Eres tú?{:clear }¡Ayúdame!
+  en: >-
+    {:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}Roxas? Is that you?{:clear }Help!
+- id: 19374
+  fr: >-
+    {:unk13 5E 01 DC 00}{:unk06 00}{:unk08 01 01 05}Porcinet semble dans
+
+    la tourmente, pour ainsi dire.{:clear }Pourrais-tu le secourir,
+
+    Roxas ?
+  gr: >-
+    {:unk13 67 01 D2 00}{:unk06 00}{:unk08 01 01 05}Eine wahrlich missliche
+
+    Lage, würde ich sagen.{:clear }Roxas, würde es dir etwas
+
+    ausmachen, den armen
+
+    Ferkel zurückzuholen?
+  it: >-
+    {:unk13 50 01 D7 00}{:unk06 00}{:unk08 01 01 05}Ma dico, sembra che abbiamo una
+
+    situazione piuttosto spinosa qui!{:clear }Roxas, ti spiacerebbe andare
+
+    a prendere il povero Pimpi?
+  sp: >-
+    {:unk13 67 01 DC 00}{:unk06 00}{:unk08 01 01 05}¡Parece que estamos
+
+    en serios apuros!{:clear }Roxas, ¿te importaría
+
+    ocuparte del pobre Piglet?
+  en: >-
+    {:unk13 53 01 BD 00}{:unk06 00}{:unk08 01 01 05}I say, it seems we have a
+
+    rather serious predicament!{:clear }Roxas, would you mind
+
+    going after poor Piglet?
+- id: 21522
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Tigrou croit savoir ce qui serait plus
+
+    efficace qu'un remède miracle ou du
+
+    miel pour soigner Winnie. C'est simple,
+
+    il faudrait que tout le monde bondisse
+
+    au même moment !
+
+    Puisque ça ne coûte rien d'essayer,
+
+    Roxas et ses amis ont décidé de sauter
+
+    tous ensemble.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Tigger denkt, dass etwas Hüpfen Puuhs
+
+    Gedächtnis auf die Sprünge helfen könnte!
+
+    Einen Versuch ist es allemal wert.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Tigro è convinto che Pooh recupererà
+
+    la sua memoria se tutti si metteranno
+
+    a saltare. Roxas e i suoi amici decidono
+
+    di provarci.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    Tigger está convencido de que
+
+    Pooh recuperará la memoria si
+
+    todos se ponen a brincar con
+
+    alegría.
+
+    A Roxas, Donald y Goofy les
+
+    parece una buena idea y,
+
+    sin dudarlo, se apuntan al
+
+    festival de brincos.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Tigger claims he knows just the thing to
+
+    jog Pooh's memory. What's better than a
+
+    bottle of medicine or a trove of honey?
+
+    Why, tiggeriffic bouncing, of course!
+ 
+    Hoping for the best, Roxas and his friends
+
+    all decide to give it a try.
+- id: 21524
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Roxas est arrivé sur la Butte aux étoiles,
+
+    où il a trouvé Winnie la tête coincée
+
+    dans un pot de miel.
+
+    Après un instant d'hésitation, il a décidé
+
+    de prêter main-forte à l'ourson.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Roxas findet Puuh auf dem Hügel unterm
+
+    Sternenhimmel. Doch der Tollpatsch steckt
+
+    mit seinem Kopf im Honigtopf fest!
+
+    Vorsichtig hilft Roxas ihm aus seinem
+
+    süßen Dilemma.
+  it: >-
+    {:delayandfade 07 78} 
+
+    Roxas sale sulla collina sotto un cielo
+
+    stellato e vede Pooh con la testa
+
+    incastrata in un vasetto di miele.
+
+    Che orsetto sbadato!
+
+    Dopo un'attenta analisi della situazione,
+
+    Roxas decide di dare una mano a Pooh.
+  sp: >-
+    {:delayandfade 08 78} 
+
+    Al llegar a la Colina de las estrellas,
+
+    Roxas se encuentra a Pooh con
+
+    la cabecita atascada en un gran
+
+    tarro de miel.
+
+    Aunque al principio Roxas no está
+
+    muy seguro de si debería intervenir,
+
+    acaba por echar una mano al apurado
+
+    Pooh.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Atop the hill with the starry sky, Roxas
+
+    finds Pooh with his head stuck in a honey
+
+    pot. Silly old bear! 
+
+    Although Roxas's not quite sure whether to
+
+    help him or leave him be, after some
+
+    pondering, he decides to give Pooh a hand.

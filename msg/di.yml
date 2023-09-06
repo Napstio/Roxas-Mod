@@ -1,0 +1,156 @@
+- id: 16794
+  fr: >-
+    Naminé ! Attends-moi !
+  gr: >-
+    Naminé! Warte!
+  it: >-
+    Naminé! Aspetta!
+  sp: >-
+    ¡Naminé! ¡Espera!
+  en: >-
+    Naminé! Wait up!
+- id: 16799
+  fr: >-
+    Axel ?
+  gr: >-
+    Axel?
+  it: >-
+    Axel?
+  sp: >-
+    ¿Axel?
+  en: >-
+    Axel?
+- id: 16806
+  fr: >-
+    Celui qui était toujours
+
+    avec Axel et moi...{:delay B4 00}{:clear }On parcourait l'île
+
+    dans tous les sens.{:delay 6C 00}{:clear }{:delay 78 00}{:clear }Mais j'ai oublié le son de sa voix.{:delay 66 00}{:clear }{:delay 30 00}{:clear }Je n'arrive pas à me rappeler
+
+    son visage ou son nom.{:delay B4 00}{:clear }{:delay 2A 00}{:clear }Je ne comprends pas pourquoi.
+
+    C'est triste.{:delay DC 00}{:clear }{:clear }Alors, je me suis jurée que
+
+    je n'irai plus sur l'île{:delay A0 00}{:clear }tant que je ne me souviendrai pas de lui.
+  gr: >-
+    Der immer mit Axel und
+
+    mir zusammen war.{:delay AC 00}{:clear }Wir hatten immer so viel
+
+    Spaß auf der Insel.{:delay 74 00}{:clear }{:delay 67 00}{:clear }Seine Stimme war stets da ...{:delay 79 00}{:clear }... doch jetzt ist sie fort.{:delay 3A 00}{:clear }{:delay 53 00}{:clear }Ich kann mich nicht an sein Gesicht
+
+    oder seinen Namen erinnern ...{:delay A6 00}{:clear }{:delay 28 00}{:clear }... und ich fühle mich ganz
+
+    schlecht deswegen.{:delay 50 00}{:clear }{:delay 3A 00}{:clear }Also hab ich mir vorgenommen,
+
+    erst wieder zur Insel zu fahren ...{:delay AA 00}{:clear }... wenn mir alles über ihn
+
+    eingefallen ist.
+  it: >-
+    Quello che era sempre
+
+    con me e con Axel.{:delay 97 00}{:clear }Giocavamo insieme sull'isola.{:delay 89 00}{:clear } {:delay 4B 00}{:clear }La sua voce era sempre lì...
+
+    E ora non c'è più.{:delay 13 01}{:clear }Non mi ricordo il suo viso o il suo nome.{:delay A2 00}{:clear } {:delay 32 00}{:clear }E ciò mi fa stare male.{:delay 64 00}{:clear } {:delay 28 00}{:clear }Così ho giurato a me stessa...{:delay 6E 00}{:clear } {:delay 22 00}{:clear }... che non andrò più sull'isola
+
+    finché non ricorderò tutto di lui.
+  sp: >-
+    Ese que siempre estaba
+
+    con Axel y conmigo.{:delay BF 00}{:clear }Jugábamos en esa isla. {:delay 5B 00}{:clear } {:delay 4B 00}{:clear }Antes recordaba su voz...{:delay 9A 00}{:clear }pero ya no. {:delay A1 00}{:clear }Tampoco su cara ni su nombre.{:delay 7C 00}{:clear } {:delay 41 00}{:clear }Me da rabia. {:delay 43 00}{:clear } {:delay 58 00}{:clear }Así que he decidido{:delay 79 00}{:clear }no volver a esa isla hasta que
+
+    lo recuerde todo sobre él.
+  en: >-
+    The one who was with Axel
+- id: 16808
+  fr: >-
+    Kairi ?
+  gr: >-
+    Kairi?
+  it: >-
+    Kairi?
+  sp: >-
+    ¿Kairi?
+  en: >-
+    Kairi?
+- id: 16810
+  fr: >-
+    Naminé ?
+  gr: >-
+    Naminé ...?
+  it: >-
+    Naminé?
+  sp: >-
+    ¿Naminé...?
+  en: >-
+    Naminé...?
+- id: 16815
+  fr: >-
+    Ça commence par un "R".
+  gr: >-
+    Er beginnt mit einem "R".
+  it: >-
+    Inizia per "R".
+  sp: >-
+    Empezaba por "R"...
+  en: >-
+    Starts with an "R."
+- id: 16816
+  fr: >-
+    Je sais. Roxas !
+  gr: >-
+    Nicht wahr, ... Roxas?
+  it: >-
+    Vero? Roxas!
+  sp: >-
+    ¿No?...{:delay 43 00}{:clear }¿Roxas?
+  en: >-
+    Right, Roxas?
+- id: 16821
+  fr: >-
+    Axel.{:delay 3C 00}{:clear }  {:delay 24 00}{:clear }Il se trouve que je connais bien Roxas.
+  gr: >-
+    Axel.{:delay 3C 00}{:clear }Ich bin gewissermaßen ein Bekannter von Roxas.
+  it: >-
+    Axel.{:delay 5A 00}{:clear }Si dà il caso che conosca Roxas.
+  sp: >-
+    Rike. {:delay 3C 00}{:clear }{:delay 33 00}Resulta que soy un conocido de Roxas.
+  en: >-
+    Axel.{:delay 5A 00}{:clear }I happen to be an acquaintance of Roxas´s.
+- id: 16823
+  fr: >-
+    Roxas ?
+  gr: >-
+    ... Roxas?
+  it: >-
+    Roxas?
+  sp: >-
+    ¿Roxas?
+  en: >-
+    ...Roxas?
+- id: 16824
+  fr: >-
+    Toi et moi, on est pareils, Naminé.{:delay 8A 00}{:clear }  {:delay 2A 00}{:clear }Nous avons tous les deux perdu
+
+    quelqu'un d'important.{:delay A2 00}{:clear }  {:delay 3C 00}{:clear }Hé...{:delay 24 00}{:clear }  {:delay 18 00}{:clear }J'ai l'impression qu'on est déjà amis.
+  gr: >-
+    Wir haben was gemeinsam, Naminé.{:delay A0 00}{:clear }Wir beide vermissen jemanden,
+
+    den wir sehr mögen.{:delay DC 00}{:clear }Hey, ich hab glatt das Gefühl,
+
+    als seien wir Freunde.
+  it: >-
+    Abbiamo qualcosa
+
+    in comune, Naminé.{:delay AF 00}{:clear }A entrambi manca
+
+    qualcuno che ci è caro.{:delay ED 00}{:clear }Ehi, mi sembra già di essere amici.
+  sp: >-
+    Tenemos algo en común, Naminé. {:delay AF 00}{:clear }Tú y yo echamos de menos
+
+    a alguien que nos importa. {:delay ED 00}{:clear }¡Eh! Siento como si
+
+    ya fuéramos amigos.
+  en: >-
+    We´ve got something in common, Naminé.{:delay AF 00}{:clear }You and I both miss someone we care about.{:delay ED 00}{:clear }Hey...I feel like we´re friends already.
