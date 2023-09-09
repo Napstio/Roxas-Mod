@@ -1,0 +1,503 @@
+- id: 8486
+  fr: >-
+    Euh, je ne crois pas, Roxas...
+
+    On dirait plutôt qu'ils vivent ici.
+  gr: >-
+    Ich weiß nicht, Roxas. Ich glaub
+
+    eher, das sind Einheimische.
+  it: >-
+    Non so, Roxas, ma secondo me
+
+    potrebbero essere del posto.
+  sp: >-
+    No sé, Roxas. Algo me dice
+
+    que quizá vivan por aquí.
+  en: >-
+    I dunno, Roxas.
+
+    I get the feelin´ they might live here.
+- id: 8492
+  fr: >-
+    Euh, Roxas... Je crois que
+
+    le déjeuner, c'est nous.
+  gr: >-
+    Donnerwetter, Roxas -- ich glaube,
+
+    WIR sind das Essen!
+  it: >-
+    Accidenti, Roxas, credo che
+
+    il pranzo siamo proprio noi!
+  sp: >-
+    ¡Ahí va, Roxas!
+
+    ¡Creo que nosotros somos la comida!
+  en: >-
+    Gawrsh, Roxas--
+    
+    I think WE´RE the lunch!
+- id: 8511
+  fr: >-
+    Dis, il n'y aurait pas un garçon
+
+    nommé Axel, là-bas ?
+  gr: >-
+    Sag, weißt du, ob vielleicht
+
+    jemand namens Axel dort ist?
+  it: >-
+    Ehi, sai se qui c'è
+
+    un tale di nome Axel?
+  sp: >-
+    Oye, ¿sabes si un tal
+
+    Axel anda por aquí?
+  en: >-
+    Hey, do you know if a guy
+
+    named Axel is there?
+- id: 8528
+  fr: >-
+    Roxas...
+  gr: >-
+    Roxas ...
+  it: >-
+    Roxas...
+  sp: >-
+    Roxas...
+  en: >-
+    Roxas...
+- id: 8539
+  fr: >-
+    Je crois qu'elle veut dire que tu
+
+    n'es pas fait pour être roi, Roxas.
+  gr: >-
+    Ich glaub, sie meint, du hast nicht
+
+    das Zeug zum König, Roxas.
+  it: >-
+    Credo voglia dire che
+
+    non sei adatto, Roxas.
+  sp: >-
+    Que te vayas olvidando de
+
+    convertirte en rey, Roxas.
+  en: >-
+    I think she means
+
+    you´re not cut out for the job, Roxas.
+- id: 8551
+  fr: >-
+    Roxas !
+  gr: >-
+    Roxas!
+  it: >-
+    Roxas!
+  sp: >-
+    ¡Roxas!
+  en: >-
+    Roxas!!
+- id: 8578
+  fr: >-
+    Roxas ! Vite !
+  gr: >-
+    Roxas! Schnell!
+  it: >-
+    Roxas! Presto!
+  sp: >-
+    ¡Roxas! ¡Rápido!
+  en: >-
+    Roxas! Hurry!
+- id: 8580
+  fr: >-
+    C'est moi... Roxas ! Donald
+
+    et Dingo sont là aussi.
+  gr: >-
+    Ich ... ich bin's, Roxas!
+
+    Donald und Goofy sind auch hier.
+  it: >-
+    Sono io, Roxas!
+
+    Ci sono anche Paperino e Pippo.
+  sp: >-
+    So... soy yo. ¡Roxas!
+
+    Y Donald y Goofy están aquí también.
+  en: >-
+    I-it´s me--Roxas!
+
+    Donald and Goofy are here, too.
+- id: 8581
+  fr: >-
+    Roxas ! Donald ! Dingo !
+  gr: >-
+    Roxas! Donald! Goofy!
+  it: >-
+    Roxas! Paperino! Pippo!
+  sp: >-
+    ¡Roxas! ¡Donald! ¡Goofy!
+  en: >-
+    Roxas! Donald! Goofy!
+- id: 8602
+  fr: >-
+    J'ai cru que Roxas pourrait nous aider,{:delay B4 00}{:clear }mais toi seul peux nous délivrer de Scar.
+  gr: >-
+    Ich dachte, Roxas könnte uns helfen, aber
+
+    nur du kannst uns von Scar befreien.
+  it: >-
+    Credevo che Roxas potesse aiutarci...{:delay B4 00}{:clear }... ma tu sei l'unico che
+
+    può salvarci da Scar.
+  sp: >-
+    Creía que Roxas podría ayudarnos,{:delay 8D 00}{:clear }pero tú eres el único que
+
+    puede librarnos de Scar.
+  en: >-
+    I thought Roxas might be
+
+    able to help,{:delay 87 00}{:clear }but you´re the only one
+
+    who can save us from Scar.
+- id: 8713
+  fr: >-
+    OK. Tant que c'est Roxas
+
+    qui prend les risques.
+  gr: >-
+    Solang Roxas die gefährlichen
+
+    Sachen übernimmt!
+  it: >-
+    Basta che Roxas si occupi
+
+    delle cose pericolose!
+  sp: >-
+    Y que os encargaréis
+
+    de cualquier peligro.
+  en: >-
+    As long as Roxas handles the dangerous parts!
+- id: 8750
+  fr: >-
+    Allons-nous en, Roxas.
+  gr: >-
+    Gehen wir, Roxas.
+  it: >-
+    Andiamo, Roxas.
+  sp: >-
+    Vámonos, Roxas.
+  en: >-
+    Let´s go, Roxas.
+- id: 8768
+  fr: >-
+    Roxas, Donald, Dingo. Pumbaa,
+
+    Timon, Rafiki... Nala.
+  gr: >-
+    Roxas, Donald und Goofy.
+
+    Pumbaa, Timon, Rafiki ... Nala ...
+  it: >-
+    Roxas, Paperino e Pippo.
+
+    Pumbaa, Timon, Rafiki, Nala.
+  sp: >-
+    Roxas, Donald y Goofy.
+
+    Pumba, Timón, Rafiki... Nala.
+  en: >-
+    Roxas, Donald and Goofy.
+
+    Pumbaa, Timon, Rafiki...Nala.
+- id: 12887
+  fr: >-
+    {:unk13 20 01 34 00}{:unk08 01 00 04}Tu n'y es pour rien.
+
+    Roxas ne ferait pas un bon roi.
+  gr: >-
+    {:unk13 20 01 34 00}{:unk08 01 00 04}Es ist nicht deine Schuld.
+
+    Roxas wäre kein guter König.
+  it: >-
+    {:unk13 20 01 34 00}{:unk08 01 00 04}Su, non è colpa tua. Roxas
+
+    non sarebbe stato un buon re.
+  sp: >-
+    {:unk13 20 01 34 00}{:unk08 01 00 04}No es culpa tuya. Roxas
+
+    no habría sido un buen rey.
+  en: >-
+    {:unk13 20 01 34 00}{:unk08 01 00 04}Aw, it´s not your fault. Roxas
+
+    wouldn´t be a good king.
+- id: 12922
+  fr: >-
+    {:unk13 4A 01 4D 00}{:unk08 01 00 06}Laisse tomber, Roxas.
+
+    Allons au cimetière
+
+    des éléphants.
+  gr: >-
+    {:unk13 4A 01 4D 00}{:unk08 01 00 06}Lass es gut sein, Roxas. Brechen
+
+    wir zum Elefantenfriedhof auf.
+  it: >-
+    {:unk13 4A 01 4D 00}{:unk08 01 00 06}Lascia perdere, Roxas.
+
+    Andiamo al cimitero degli elefanti.
+  sp: >-
+    {:unk13 4A 01 4D 00}{:unk08 01 00 06}Olvídalo, Roxas. Vayamos
+
+    al Cementerio de los Elefantes.
+  en: >-
+    {:unk13 4A 01 4D 00}{:unk08 01 00 06}Forget it, Roxas. Let´s head
+- id: 17182
+  fr: >-
+    En face à face, Simba peut vaincre Scar.
+
+    Mais qui sait ce qu'il peut avoir préparé ?{:clear }S'il te plaît, Roxas, assure-toi qu'il n'arrive
+
+    rien à notre petit.
+  gr: >-
+    Wenn Scar alleine ist, schafft Simba das,
+
+    aber wer weiß, was er geplant hat?{:clear }Bitte, Roxas. Pass auf, dass
+
+    Simba nichts passiert.
+  it: >-
+    Se Scar è da solo, sono certo che
+
+    Simba lo sistemerà per le feste.
+
+    Ma chissà cos'ha in mente Scar...{:clear }Roxas, ti supplico, va' a vedere
+
+    se il nostro amico sta bene!
+  sp: >-
+    Si Scar está solo, Simba podrá con él,
+
+    pero quién sabe lo que le espera.{:clear }Por favor, Roxas, encárgate
+
+    de que no le pase nada a Simba.
+  en: >-
+    If Scar´s alone, I´m sure Simba can handle
+
+    it, but who knows what he has planned?{:clear }Please, Roxas. Go make sure Simba´s all
+
+    right.
+- id: 18072
+  fr: >-
+    Si Kairi te voyait comme ça, je suis
+
+    sûr qu'elle te trouverait craquant !{:clear }Ce doit être tes habits magiques
+
+    qui t'ont métamorphosé.
+  gr: >-
+    Wenn Naminé dich so sehen könnte, würde
+
+    sie dich bestimmt für total süß halten!{:clear }Ich schätze, deine magische Kleidung
+
+    hat dich verwandelt.
+  it: >-
+    Se Naminé ti vedesse ora, scommetto
+
+    che penserebbe che sei un amore!{:clear }Comunque, credo che siano stati quei
+
+    vestiti magici ad averti trasformato così.
+  sp: >-
+    ¡Si Naminé te viera así, seguro que
+
+    diría que estás muy guapo!{:clear }Creo que tus prendas mágicas
+
+    te han transformado.
+  en: >-
+    If Naminé saw you like this, I bet she´d
+
+    think you were cute!{:clear }I guess those magical clothes of
+
+    yours transformed you.
+- id: 18932
+  fr: >-
+    Roxas a appris la compétence "Dash".
+  gr: >-
+    Roxas hat die Ability "Spurt" gelernt.
+  it: >-
+    Roxas ha appreso l'abilità ‛Scatto’.
+  sp: >-
+    Roxas aprende la habilidad ‛Veloz’.
+  en: >-
+    Roxas learned the "Dash" ability.
+- id: 18933
+  fr: >-
+    Roxas a appris la compétence "Tacle".
+  gr: >-
+    Roxas hat die Ability "Sturmlauf" gelernt.    
+  it: >-
+    Roxas ha appreso l'abilità ‛Carica in corsa’.
+  sp: >-
+    Roxas aprende la habilidad ‛Placaje brutal’.
+  en: >-
+    Roxas learned the "Running Tackle" ability.
+- id: 21525
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Les choses allaient de mal en pis depuis que
+
+    Scar avait pris le pouvoir. Si seulement
+
+    Simba était encore en vie... Mais Scar avait
+
+    été très clair : le lionceau était mort.
+
+    C'était pourtant bien avec Simba que Roxas
+
+    avait combattu il y a tout juste un an. Cette
+
+    nouvelle mit Nala de très bonne humeur.
+
+    L'espoir était de nouveau permis sur
+
+    la Terre des Lions.
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Nun, da Scar zum König gekrönt wurde,
+
+    ist das Königreich dem Untergang geweiht.
+
+    Ach, wäre nur Simba noch am Leben!
+
+    Als Roxas erzählt, er hätte vor einem Jahr
+
+    mit Simba gekämpft, ist Nala überglücklich.
+
+    Vielleicht besteht doch noch Hoffnung!
+  it: >-
+    {:delayandfade 07 78} 
+
+    Ora che Scar è stato incoronato re,
+
+    il regno è finito. Nala non può fare a
+
+    meno d'immaginare come andrebbero
+
+    le cose se Simba fosse ancora vivo.
+
+    Quando Roxas le dice di aver lottato a
+
+    fianco di Simba un anno fa, Nala si
+
+    rallegra immensamente.
+
+    Forse c'è ancora speranza.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    Con Scar como rey y el reino
+
+    en decadencia, Nala no puede
+
+    sino pensar cuán distinto sería
+
+    todo si Simba estuviera vivo.
+
+    Por eso, no sale de su asombro
+
+    cuando Roxas le cuenta que Simba
+
+    luchó junto a él en el pasado.
+
+    Quizá esa noticia sea el rayo de
+
+    esperanza que todos esperaban. 
+  en: >-
+    {:delayandfade 07 B4} 
+
+    With Scar as king, the kingdom is doomed.
+
+    If only there were someone else to rule the
+
+    Pride Lands. Nala can't help but wonder how
+
+    different things would be if Simba were still
+
+    alive.
+
+    When Roxas explains that he fought with
+
+    Simba just a year ago, Nala can barely
+
+    contain her joy. Perhaps there's hope
+
+    after all.
+- id: 21528
+  fr: >-
+    {:delayandfade 07 B4}
+
+    Roxas et ses amis étaient partis à la recherche
+
+    de Simba, mais ce dernier demeurait
+
+    introuvable... S'était-il réfugié à l'oasis,
+
+    son endroit préféré ?
+
+    Que pouvait-il bien se passer dans sa tête
+
+    de père et de roi ?
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Doch von Simba fehlt jede Spur. Vielleicht
+
+    ist er an seinem Lieblingsort, der Oase?
+
+    Was geht in ihm vor als Vater, und als König?
+  it: >-
+    {:delayandfade 07 78} 
+
+    Ma Simba è sparito. Forse si è nascosto
+
+    nel suo posto preferito, l'oasi.
+
+    Ora che è padre e re, che cosa lo
+
+    preoccupa?
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    La tierra parece haberse tragado
+
+    a Simba, pero aún queda un sitio
+
+    en el que buscar: el oasis,
+
+    su lugar favorito.
+
+    ¿Qué atribulará los prensamientos
+
+    del joven rey y futuro padre
+
+    para hacer que se comporte así?
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Roxas and his friends search for Simba,
+
+    but he's nowhere to be seen. Perhaps he's
+
+    at his favorite spot--the oasis.
+ 
+    Still scarred by the memories of the past,
+
+    does he have what it takes to be king?

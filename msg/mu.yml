@@ -1,0 +1,429 @@
+- id: 4231
+  fr: >-
+    Roxas ! Donald ! Dingo !
+  gr: >-
+    ... Roxas! Donald! Goofy!
+  it: >-
+    Roxas! Paperino! Pippo!
+  sp: >-
+    ... ¡Roxas! ¡Donald! ¡Goofy!
+  en: >-
+    ...Roxas! Donald! Goofy!
+- id: 4291
+  fr: >-
+    {:unk13 77 01 84 00}{:unk08 01 00 06}Roxas.
+  gr: >-
+    {:unk13 52 01 6C 00}{:unk08 01 00 06}Roxas.
+  it: >-
+    {:unk13 59 01 6D 00}{:unk08 01 00 06}Roxas.
+  sp: >-
+    {:unk13 4D 01 6F 00}{:unk08 01 00 06}Roxas.
+  en: >-
+    {:unk13 52 01 67 00}{:unk08 01 00 06}Roxas.
+- id: 4335
+  fr: >-
+    {:unk13 01 01 3C 00}{:unk08 01 01 06}Ce n'est rien, Roxas.{:clear }J'aurai bien l'occasion de
+
+    prouver ce que je vaux.{:clear }Il suffira de saisir ma chance.
+  gr: >-
+    {:unk13 F9 00 3D 00}{:unk08 01 01 06}Schon gut, Roxas.{:clear }Ich finde schon noch einen Weg,
+
+    mich dem Hauptmann zu beweisen.{:clear }Ich brauche nur die Gelegenheit dazu.
+  it: >-
+    {:unk13 01 01 3C 00}{:unk08 01 01 06}Lascia stare, Roxas.{:clear }Troverò il modo di dimostrare
+
+    quanto valgo in realtà.{:clear }Dammi solo una possibilità.
+  sp: >-
+    {:unk13 01 01 3C 00}{:unk08 01 01 06}Déjalo, Roxas.{:clear }Ya veré cómo demostrarle
+
+    de lo que soy capaz.{:clear }Solo necesito una oportunidad.
+  en: >-
+    {:unk13 01 01 3C 00}{:unk08 01 01 06}It´s all right, Roxas.{:clear }I´ll find a way to show
+
+    him what I´m made of.{:clear }Just give me a chance.
+- id: 4360
+  fr: >-
+    {:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}Roxas !
+  gr: >-
+    {:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}Roxas!
+  it: >-
+    {:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}Roxas!
+  sp: >-
+    {:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}¡Roxas!
+  en: >-
+    {:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}Roxas!
+- id: 4415
+  fr: >-
+    Roxas, Donald, Dingo.
+  gr: >-
+    Roxas. Donald. Goofy.
+  it: >-
+    Roxas, Paperino, Pippo...
+  sp: >-
+    Roxas. Donald. Goofy.
+  en: >-
+    Roxas. Donald. Goofy.
+- id: 4421
+  fr: >-
+    Merci pour tout, Roxas.
+  gr: >-
+    Danke für alles, Roxas.
+  it: >-
+    Grazie di tutto, Roxas.
+  sp: >-
+    Gracias por tu ayuda, Roxas.
+  en: >-
+    Thanks for everything, Roxas.
+- id: 4436
+  fr: >-
+    Au revoir, Roxas, Donald et Dingo.
+  gr: >-
+    Wiedersehen, Roxas! Donald, Goofy!
+  it: >-
+    Arrivederci, Roxas, Paperino e Pippo!
+  sp: >-
+    ¡Adiós Roxas, Donald y Goofy!
+  en: >-
+    Good-bye, Roxas, Donald, Goofy!
+- id: 4441
+  fr: >-
+    Roxas !
+  gr: >-
+    Roxas!
+  it: >-
+    Roxas!
+  sp: >-
+    ¡Roxas!
+  en: >-
+    Roxas!
+- id: 4466
+  fr: >-
+    Axel ?
+  gr: >-
+    Axel?!
+  it: >-
+    Axel?!
+  sp: >-
+    ¿Axel?
+  en: >-
+    Axel?
+- id: 4467
+  fr: >-
+    Qu'est-ce que tu fais, Roxas ?
+  gr: >-
+    Alles in Ordnung, Roxas?
+  it: >-
+    Stai bene, Roxas?
+  sp: >-
+    ¿Estás bien, Roxas?
+  en: >-
+    Are you okay, Roxas?
+- id: 4491
+  fr: >-
+    Axel ?
+  gr: >-
+    ... Axel?
+  it: >-
+    Axel?
+  sp: >-
+    ¿Axel?
+  en: >-
+    ...Axel?
+- id: 4493
+  fr: >-
+    {:unk13 B4 00 41 00}{:unk08 01 01 05}Ce n'était donc pas Axel.
+  gr: >-
+    {:unk13 B8 00 3F 00}{:unk08 01 01 05}Es war wohl doch nicht Axel.
+  it: >-
+    {:unk13 BF 00 3E 00}{:unk08 01 01 05}Direi che non era Axel.
+  sp: >-
+    {:unk13 AD 00 3C 00}{:unk08 01 01 05}Supongo que no era Axel.
+  en: >-
+    {:unk13 82 00 3C 00}{:unk08 01 01 05}Guess it wasn´t Axel.
+- id: 4494
+  fr: >-
+    {:unk13 A0 00 64 00}{:unk08 01 00 05}Je suis désolée, Roxas.
+  gr: >-
+    {:unk13 87 00 5A 00}{:unk08 01 00 05}Tut mir leid, Roxas.
+  it: >-
+    {:unk13 70 00 5E 00}{:unk08 01 00 05}Mi dispiace, Roxas.
+  sp: >-
+    {:unk13 64 00 64 00}{:unk08 01 00 05}Lo siento, Roxas.
+  en: >-
+    {:unk13 64 00 64 00}{:unk08 01 00 05}Sorry, Roxas.
+- id: 4504
+  fr: >-
+    {:unk13 DC 00 96 00}{:unk08 01 00 05}Est-ce qu'il s'appelait Axel ?
+  gr: >-
+    {:unk13 DB 00 94 00}{:unk08 01 00 05}Hat er sich vielleicht als Axel vorgestellt?
+  it: >-
+    {:unk13 DC 00 96 00}{:unk08 01 00 05}Ha menzionato il nome Axel?
+  sp: >-
+    {:unk13 DC 00 96 00}{:unk08 01 00 05}¿Mencionó el nombre de Axel?
+  en: >-
+    {:unk13 DC 00 96 00}{:unk08 01 00 05}Did he mention the name Axel?
+- id: 4506
+  fr: >-
+    {:unk13 54 01 64 00}{:unk06 02}{:unk08 03 00 05}Brusque ? Ça m'a
+
+    tout l'air d'être lui !
+  gr: >-
+    {:unk13 5E 01 34 00}{:unk06 02}{:unk08 03 00 05}Schroff?
+
+    Dann war das bestimmt Axel!
+  it: >-
+    {:unk13 54 01 64 00}{:unk06 02}{:unk08 03 00 05}Scortese?
+
+    Allora era Axel!!!
+  sp: >-
+    {:unk13 60 01 32 00}{:unk06 02}{:unk08 03 00 05}¿Maleducado?
+
+    ¡Entonces era Axel!
+  en: >-
+    {:unk13 8B 00 45 00}{:unk06 02}{:unk08 03 01 05}Rude?
+
+    Then it WAS Axel!
+- id: 4507
+  fr: >-
+    {:unk13 01 01 DC 00}{:unk08 01 01 06}Axel ferait partie de l'Organisation ?
+  gr: >-
+    {:unk13 1A 01 D6 00}{:unk08 01 01 06}Axel ist in der Organisation?
+  it: >-
+    {:unk13 01 01 DC 00}{:unk08 01 01 06}Axel è nell'Organizzazione?
+  sp: >-
+    {:unk13 01 01 DC 00}{:unk08 01 01 06}¿Axel pertenece a la Organización?
+  en: >-
+    {:unk13 01 01 DC 00}{:unk08 01 01 06}Axel´s in the Organization?
+- id: 4534
+  fr: >-
+    C'est forcément Axel !
+  gr: >-
+    Dann war es also Axel!
+  it: >-
+    Doveva essere Axel!
+  sp: >-
+    ¡Tiene que ser Axel!
+  en: >-
+    That´s gotta be Axel!
+- id: 16949
+  fr: >-
+    On dit que Shan Yu maîtrise parfaitement
+
+    l'art du sabre, mais toi aussi, Roxas.{:clear }Si tu parviens à parer ses assauts, tu
+
+    pourras certainement contre-attaquer.
+  gr: >-
+    Shan-Yu soll ein meisterlicher Schwert-
+
+    kämpfer sein, aber das bist du auch, Roxas.{:clear }Wenn du seinen Angriff parieren kannst,
+
+    findest du auch eine Lücke, zurückzuschlagen.
+  it: >-
+    Shan Yu è un maestro nell'arte
+
+    della spada, ma come d'altronde
+
+    lo sei anche tu, Roxas.{:clear }Se riesci a bloccare i suoi attacchi,
+
+    sono certa che riuscirai a sconfiggerlo.
+  sp: >-
+    Dicen que Shan Yu es un espadachín
+
+    experto, pero tú también lo eres, Roxas.{:clear }Si logras esquivar sus ataques,
+
+    tendrás oportunidad de contraatacar.
+  en: >-
+    Shan-Yu is supposed to be a
+
+    master swordsman, but so are you, Roxas.{:clear }If you can parry his attack, I´m sure
+
+    you´ll have a chance to strike back.
+- id: 17630
+  fr: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}Ajout de la commande Coopération.{:reset}
+
+    Appuie sur {:icon dynamic-dpad-left} pour afficher la liste des
+
+    techniques et les sélectionner.{:clear }{:unk0f 00 00 00 00 00}Les Coopérations sont des compétences exécutées
+
+    de concert avec les autres membres de l'équipe en
+
+    utilisant les MP de Roxas.
+  gr: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}Das Kommando "Limit" wurde hinzugefügt{:reset}. Drücke {:icon dynamic-dpad-left}, um das
+
+    Kommando-Menü umzuschalten, und wähle dann "Limit" aus.{:clear }{:unk0f 00 00 00 00 00}Limit-Moves sind Abilitys, die Soras MP verbrauchen und
+
+    zusammen mit Gefährten ausgeführt werden.
+  it: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}È stato aggiunto il comando Limite.{:reset}
+
+    Visualizza il Limite con {:icon dynamic-dpad-left}, poi selezionalo.{:clear }{:unk0f 00 00 00 00 00}I Limiti consumano solo gli MP di Roxas,
+
+    ma sono abilità che si eseguono in gruppo.
+  sp: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}Se ha agregado el comando Límite.{:reset}
+
+    Pulsa {:icon dynamic-dpad-left} para ver el Límite y luego selecciónalo.{:clear }{:unk0f 00 00 00 00 00}Los Límites son habilidades que consumen los PM
+
+    de Roxas y se ejecutan con miembros del grupo.
+  en: >-
+    {:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+
+    Press {:icon dynamic-dpad-left} to show the Limit, then select it.{:clear }{:unk0f 00 00 00 00 00}Limits are Abilities that consume Roxas´s MP
+
+    and are executed with Party Members.
+- id: 21516
+  fr: >-
+    {:delayandfade 07 B4} 
+
+    Vaincre Shan Yu serait un exploit
+
+    sans pareil...
+
+    La piste de cet ennemi a conduit Roxas et
+
+    ses amis jusque dans la grotte près
+
+    du village, mais Shan Yu n'y était pas.
+
+    Il s'agissait d'un piège tendu à Roxas
+
+    et Ping !
+  gr: >-
+    {:delayandfade 0A 78} 
+
+    Die Freunde stürmen in die Höhle. Ein Sieg
+
+    über Shan-Yu wird den Hauptmann
+
+    bestimmt beeindrucken!
+
+    Doch dort ist keine Spur von ihm. Roxas und
+
+    Ping sind in eine Falle getappt!    
+  it: >-
+    {:delayandfade 07 78} 
+
+    Roxas e i suoi amici entrano nella caverna.
+
+    Sconfiggere Shan Yu farà sicuramente
+
+    una bella impressione sul Capitano!
+
+    Ma Shan Yu non c'è. Sembra che sia
+
+    solo una trappola per Ping e Roxas.
+  sp: >-
+    {:delayandfade 0A 78} 
+
+    Derrotar al temible Shan Yu serviría
+
+    para granjearse las simpatías de
+
+    todos, así que Roxas y los demás
+
+    se adentran en una cueva tras él,
+
+    pero todo resulta ser una trampa
+
+    del malvado huno.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Roxas and his friends head inside the cave
+
+    to find the notorious warrior. Defeating
+
+    Shan-Yu will surely impress the captain! 
+
+    However, Shan-Yu is nowhere to be seen.
+
+    The whole thing was a trap laid out for
+
+    Ping and Roxas.
+- id: 21518
+  fr: >-
+    {:delayandfade 06 B4} 
+
+    Roxas et les autres ont repoussé les ennemis
+
+    envoyés par Xigbar et ont protégé l'Empereur
+
+    et le Capitaine. Ces derniers leur ont confié
+
+    qu'ils avaient rencontré un jeune homme vêtu
+
+    de noir... S'agissait-il de Axel ?
+
+    Avant que Roxas ne put le leur demander,
+
+    le palais tout entier s'est mis à trembler...
+  gr: >-
+    {:delayandfade 09 78} 
+
+    Es gelingt Roxas, Xigbars Herzlose zu besiegen
+
+    und so den Kaiser und Hauptmann Li
+
+    zu beschützen.
+
+    Die beiden erzählen von einem jungen Mann
+
+    in Schwarz ... Handelt es sich dabei etwa um
+
+    Axel?
+
+    Plötzlich bebt der Palast!
+  it: >-
+    {:delayandfade 07 78} 
+
+    Roxas e i suoi amici sconfiggono il nemico
+
+    scatenato da Xigbar e proteggono anche
+
+    l'Imperatore e il capitano Shang.
+
+    I due sostengono di aver visto un giovane
+
+    vestito di nero. Possibile che fosse Axel?
+
+    Prima che Roxas riesca a chiederglielo, il
+
+    palazzo comincia a tremare violentemente.
+  sp: >-
+    {:delayandfade 08 78} 
+
+    Roxas y sus amigos plantan cara
+
+    al monstruo de Xigbar y salvan
+
+    al capitán Shang y al Emperador.
+
+    Ambos aseguran a Roxas haber visto
+
+    a un joven vestido de negro...
+
+    ¡que podría ser Axel!
+
+    No hay tiempo para más, pues un
+
+    súbito estruendo sacude el palacio.
+  en: >-
+    {:delayandfade 07 B4} 
+
+    Roxas and his friends defeat the terror
+
+    unleashed by Xigbar, all the while protecting
+
+    the Emperor and Captain Shang.
+
+    The two claim they've come across a young
+
+    man in black. Could they be talking about
+
+    Axel?
+
+    Before Roxas can ask, the ground starts to
+
+    tremble.

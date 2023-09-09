@@ -1,0 +1,119 @@
+- id: 16191
+  fr: >-
+    Axel !
+  gr: >-
+    Axel!
+  it: >-
+    Axel!
+  sp: >-
+    ¡Axel!
+  en: >-
+    Axel!
+- id: 16193
+  fr: >-
+    Axel...
+  gr: >-
+    Axel ...
+  it: >-
+    Axel...
+  sp: >-
+    Axel...
+  en: >-
+    Axel...
+- id: 16195
+  fr: >-
+    Oui.{:delay 76 00}{:clear }L'autre côté...{:delay 8A 00}{:clear }Le royaume de lumière est
+
+    en sécurité maintenant.{:delay 9A 00}{:clear }Naminé, le Roi et les autres sont saufs.
+  gr: >-
+    Ja.{:delay 76 00}{:clear }Die andere Seite ...{:delay 8A 00}{:clear }... das Reich des Lichts ist jetzt sicher.{:delay 90 00}{:clear }Naminé, der König und die anderen sind dort.
+  it: >-
+    Già.{:delay 76 00}{:clear }L'altra parte...{:delay 8A 00}{:clear }Il regno della luce è al sicuro ora.{:delay 90 00}{:clear }Naminé, il Re e gli altri sono laggiù.
+  sp: >-
+    Sí. {:delay 76 00}{:clear }El otro lado... {:delay 8A 00}{:clear }El Reino de la Luz está a salvo. {:delay 90 00}{:clear }Naminé, el rey y los demás están allí.
+  en: >-
+    Yeah.{:delay 76 00}{:clear }The other side...{:delay 8A 00}{:clear }the realm of light is safe now.{:delay 90 00}{:clear }Naminé, the King, and the others are there.
+- id: 16196
+  fr: >-
+    C'est ce que je veux dire.{:delay 42 00}{:clear }{:delay 6C 00}{:clear }Hé, Roxas...{:delay A2 00}{:clear }Tu veux bien m'aider ? Je
+
+    voudrais aller près de l'eau.
+  gr: >-
+    Genau das mein ich.{:delay 53 00}{:clear }{:delay 64 00}{:clear }Hey, Roxas.{:delay 57 00}{:clear }{:delay 4B 00}{:clear }Hilfst du mir?{:delay 3E 00}{:clear }{:delay 2E 00}{:clear }Ich möchte runter zum Wasser.
+  it: >-
+    È quel che intendevo.{:delay 42 00}{:clear } {:delay 6C 00}{:clear }Ehi, Roxas...{:delay A2 00}{:clear }Puoi aiutarmi?
+
+    Voglio avvicinarmi all'acqua.
+  sp: >-
+    A eso me refiero. {:delay 4C 00}{:clear } {:delay 65 00}{:clear }Oye, Roxas... {:delay A3 00}{:clear }¿puedes ayudarme?{:delay 76 00}{:clear }Quiero ir hasta el agua.
+  en: >-
+    That´s what I mean.{:delay 42 00}{:clear } {:delay 6C 00}{:clear }Hey, Roxas...{:delay A2 00}{:clear }Could you help me?
+
+    I want to get down to the water.
+- id: 16200
+  fr: >-
+    Pour être franc, Roxas...{:delay D2 00}{:clear }j'étais jaloux de toi.
+  gr: >-
+    Um ehrlich zu sein, Roxas --
+
+    Ich war neidisch auf dich.
+  it: >-
+    A dire la verità, Roxas...{:delay D2 00}{:clear }... ero invidioso di te.
+  sp: >-
+    Para ser sincero, Roxas... {:delay D2 00}{:clear }te tenía envidia.
+  en: >-
+    To tell you the truth, Roxas...{:delay D2 00}{:clear }I was jealous of you.
+- id: 16210
+  fr: >-
+    Roxas ?
+  gr: >-
+    Roxas?
+  it: >-
+    Roxas?
+  sp: >-
+    ¿Roxas?
+  en: >-
+    Roxas?
+- id: 19636
+  fr: >-
+    Roxas ! Axel !
+  gr: >-
+    Roxas! Axel!
+  it: >-
+    Roxas! Axel!
+  sp: >-
+    ¡Roxas! ¡Axel!
+  en: >-
+    Roxas! Axel!
+- id: 19644
+  fr: >-
+    Hé, Axel, la porte de la lumière.
+
+    C'était quoi à ton avis ?
+  gr: >-
+    Sag, Axel. Was glaubst du, war es?
+
+    Die Tür zum Licht.
+  it: >-
+    Ehi, Axel. Cosa pensi che
+
+    fosse... la porta della luce?
+  sp: >-
+    Oye, Axel, ¿qué crees que era
+
+    la puerta a la luz?
+  en: >-
+    Hey Axel...what do you think it was--
+
+    the door to the light?
+- id: 19648
+  fr: >-
+    Roxas ! Axel !
+  gr: >-
+    Roxas! Axel!
+  it: >-
+    Roxas! Axel!
+  sp: >-
+    ¡Roxas! ¡Axel!
+  en: >-
+    Roxas! Axel!

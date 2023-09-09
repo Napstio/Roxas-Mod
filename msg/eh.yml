@@ -1,0 +1,2176 @@
+- id: 16214
+  fr: >-
+    Axel a dit que Naminé est dans le donjon.
+  gr: >-
+    Axel sagte, Naminé wäre im Schlosskerker.
+  it: >-
+    Axel ha detto che
+
+    Naminé è nelle segrete.
+  sp: >-
+    Según Axel, Naminé está
+
+    en las mazmorras.
+  en: >-
+    Axel said Naminé´s in the dungeon.
+- id: 16216
+  fr: >-
+    Roxas !
+  gr: >-
+    Roxas!
+  it: >-
+    Roxas!
+  sp: >-
+    ¡Roxas!
+  en: >-
+    Roxas!
+- id: 16222
+  fr: >-
+    Tu n'es pas Axel !
+  gr: >-
+    Bist du etwa ... Axel?
+  it: >-
+    Non sei Axel?
+  sp: >-
+    No puedes ser Axel.
+  en: >-
+    You can´t be Axel?
+- id: 16223
+  fr: >-
+    Axel ?{:delay 6C 00}{:clear }J'ai vaincu un garçon nommé Axel.
+  gr: >-
+    Axel?{:delay 64 00}{:clear }Ich hab einmal einen Axel besiegt.
+  it: >-
+    Axel?{:delay 6C 00}{:clear }Una volta ho sconfitto
+
+    un certo Axel.
+  sp: >-
+    ¿Axel?... {:delay 6C 00}{:clear }En una ocasión le derroté.
+  en: >-
+    Axel?{:delay 6C 00}{:clear }...I defeated a Axel once.
+- id: 16233
+  fr: >-
+    Il a dit...{:delay 64 00}{:clear }qu'il avait vaincu Axel.
+  gr: >-
+    Er sagte, er hätte Axel besiegt.
+  it: >-
+    Ha detto...{:delay 64 00}{:clear }... di aver sconfitto Axel...
+  sp: >-
+    Ha dicho... {:delay 64 00}{:clear }que derrotó a Axel.
+  en: >-
+    He said...{:delay 64 00}{:clear }he defeated Axel...
+- id: 16236
+  fr: >-
+    Mais personne ne peut vaincre Axel.
+  gr: >-
+    Glaubst du, jemand könnte Axel besiegen?
+  it: >-
+    Ma nessuno può
+
+    sconfiggere Axel.
+  sp: >-
+    ¡Pero si nadie puede vencer a Axel!
+  en: >-
+    But nobody could defeat Axel.
+- id: 16241
+  fr: >-
+    Tu dois être fatigué, Roxas.
+  gr: >-
+    Du bist bloß erschöpft, Roxas.
+  it: >-
+    Devi essere stanco, Roxas.
+  sp: >-
+    Estarás cansado, Roxas.
+  en: >-
+    You must be tired, Roxas.
+- id: 16243
+  fr: >-
+    Naminé, tu as été géniale !
+  gr: >-
+    Naminé, du warst klasse!
+  it: >-
+    Naminé, sei stata grande!
+  sp: >-
+    ¡Naminé, has estado genial!
+  en: >-
+    Naminé, you were great!
+- id: 16245
+  fr: >-
+    Tu as changé, Naminé.{:delay 5A 00}{:clear }Je suis si content de te revoir !
+  gr: >-
+    Du hast dich verändert, Naminé.{:delay 5A 00}{:clear }Aber bin ich froh, dich zu sehen!
+  it: >-
+    Sei diversa, Naminé...{:delay 5A 00}{:clear }... ma sono felice che tu sia qui!
+  sp: >-
+    Te veo cambiada, Naminé, {:delay 5A 00}{:clear }¡pero me alegra que estés aquí!
+  en: >-
+    You are different, Naminé,{:delay 5A 00}{:clear }but I´m just glad you´re here!
+- id: 16246
+  fr: >-
+    Axel et toi, vous n'êtes jamais rentrés,{:delay 6C 00}{:clear }alors je suis partie vous chercher.
+  gr: >-
+    Du und Axel seid nicht nach
+
+    Hause gekommen ...{:delay 7F 00}{:clear }... also hab ich euch gesucht.
+  it: >-
+    Tu e Axel non siete più tornati,
+
+    così sono venuta a cercarvi io.
+  sp: >-
+    Axel y tú nunca volvisteis a casa,
+
+    así que he venido a por vosotros.
+  en: >-
+    You and Axel never came home,
+
+    so I came looking for you.
+- id: 16251
+  fr: >-
+    Tu as sauvé Naminé, n'est-ce pas ?{:delay 5D 00}{:clear }  {:delay 3C 00}{:clear }Je t'en suis terriblement reconnaissant.{:delay 6B 00}{:clear }  {:delay 4A 00}{:clear }Merci.
+  gr: >-
+    Aber du hast Naminé gerettet, stimmt's?{:delay 78 00}{:clear }{:delay 28 00}{:clear }Dafür muss ich dir dankbar sein.{:delay 64 00}{:clear }{:delay 28 00}{:clear }Danke.
+  it: >-
+    Però hai salvato Naminé, giusto?{:delay 5D 00}{:clear } {:delay 3C 00}{:clear }Devo esserti grato per questo...{:delay 6B 00}{:clear } {:delay 4A 00}{:clear }Grazie.
+  sp: >-
+    Pero has salvado a Naminé, ¿no? {:delay 70 00}{:clear } {:delay 2B 00}{:clear }Eso te lo agradezco... {:delay 5E 00}{:clear } {:delay 50 00}{:clear }Gracias.
+  en: >-
+    But you saved Naminé, right?{:delay 5D 00}{:clear } {:delay 3C 00}{:clear }I have to be grateful for that...{:delay 6B 00}{:clear } {:delay 4A 00}{:clear }Thanks.
+- id: 16252
+  fr: >-
+    Axel, ne pars pas !
+  gr: >-
+    Axel, geh nicht!
+  it: >-
+    Axel, non andare!
+  sp: >-
+    ¡Axel, no te vayas!
+  en: >-
+    Axel, don´t go!
+- id: 16254
+  fr: >-
+    Naminé, qu'est-ce que tu viens de dire ?
+  gr: >-
+    Naminé, was hast du grade gesagt?
+  it: >-
+    Naminé, che cos'hai detto?
+  sp: >-
+    Naminé, ¿qué acabas de decir?
+  en: >-
+    Naminé, what did you just say?
+- id: 16255
+  fr: >-
+    Axel.
+  gr: >-
+    Axel.
+  it: >-
+    Axel.
+  sp: >-
+    Axel.
+  en: >-
+    Axel.
+- id: 16257
+  fr: >-
+    Roxas, approche. Dis-lui quelque chose.
+  gr: >-
+    Roxas, komm her. Sag bitte was zu ihm.
+  it: >-
+    Roxas, vieni qui.
+
+    Digli tu qualcosa.
+  sp: >-
+    Roxas, ven aquí.{:delay 5A 00}{:clear }{:delay 21 00}Dile algo tú.
+  en: >-
+    Roxas, come here. Say something to him.
+- id: 16260
+  fr: >-
+    Axel...
+  gr: >-
+    Axel ...!
+  it: >-
+    Axel...
+  sp: >-
+    Axel...
+  en: >-
+    Axel...
+- id: 16261
+  fr: >-
+    C'est Axel. Je le ressens.
+  gr: >-
+    Du bist es. Axel, du bist es ...
+  it: >-
+    È Axel. Axel è qui...
+  sp: >-
+    ¡Axel!{:delay 3C 00}{:clear }{:delay 1B 00}Eres tú...
+  en: >-
+    It´s Axel. Axel´s here...
+- id: 16263
+  fr: >-
+    Roxas, ressaisis-toi. Ah, quel pleurnichard...
+  gr: >-
+    Komm schon, Roxas. Reiß dich zusammen.
+  it: >-
+    Avanti, Roxas.
+
+    Cerca di riprenderti.
+  sp: >-
+    Vamos, Roxas... tienes que comportarte.
+  en: >-
+    C´mon, Roxas. You´ve got to pull it together.
+- id: 16268
+  fr: >-
+    Tous ces indices sur notre route...
+
+    C'était forcément Axel.
+  gr: >-
+    Na diese ganzen Hinweise --
+
+    die müssen doch von Axel stammen.
+  it: >-
+    Quegli indizi che trovavamo
+
+    di volta in volta...{:delay 78 00}{:clear }Dev'essere stato Axel!
+  sp: >-
+    Esas pistas que encontrábamos.
+
+    Debían de ser de Axel.
+  en: >-
+    Those clues we kept finding.
+
+    That musta been Axel.
+- id: 16269
+  fr: >-
+    Je commençais à me demander
+
+    si vous alliez comprendre un jour.{:delay 9C 00}{:clear }  {:delay 3C 00}{:clear }Faut dire, les amis de Roxas
+
+    n'ont jamais été très futés.
+  gr: >-
+    Ich war schon in Sorge, dass ihr's nicht kapiert.{:delay 96 00}{:clear }{:delay 2F 00}{:clear }Roxas hat sich noch nie die cleversten
+
+    Freunde ausgesucht.
+  it: >-
+    Iniziavo a temere che
+
+    non li avreste capiti.{:delay 9C 00}{:clear } {:delay 3C 00}{:clear }Roxas non si è mai scelto
+
+    amici particolarmente svegli.
+  sp: >-
+    Empezaba a temer que no
+
+    os ibais a enterar nunca. {:delay 9C 00}{:clear } {:delay 3C 00}{:clear }Roxas no solía tener amigos muy listos.
+  en: >-
+    I was starting to worry you guys weren´t
+
+    ever gonna catch on.{:delay 9C 00}{:clear } {:delay 3C 00}{:clear }Roxas never did pick the brightest friends.
+- id: 16267
+  gr: >-
+    Hä?
+  sp: >-
+    ¿Eh?
+  en: >-
+    You´re still Axel, no matter what!
+- id: 16291
+  fr: >-
+    Roxas ! Où es-tu ?
+  gr: >-
+    Roxas! Wo bist du?
+  it: >-
+    Roxas! Dove sei?
+  sp: >-
+    ¡Roxas! ¿Dónde estás?
+  en: >-
+    Roxas! Where are you?
+- id: 16292
+  fr: >-
+    Roxas, réponds-nous !
+  gr: >-
+    Roxas, antworte!
+  it: >-
+    Roxas, rispondimi!
+  sp: >-
+    ¡Roxas! ¡Contéstame!
+  en: >-
+    Roxas, answer me!
+- id: 16312
+  fr: >-
+    À l'intérieur, on ne pourra pas faire demi-tour.{:delay 87 00}{:clear }{:delay 36 00}C'est la victoire... ou l'anéantissement.{:delay 8E 00}{:clear }{:delay 46 00}Alors, Roxas... tu te sens d'attaque ?
+  gr: >-
+    Wenn wir da durchgehen, gibt es kein Zurück.{:delay 83 00}{:clear }{:delay 34 00}{:clear }Nur Sieg oder Untergang.{:delay A0 00}{:clear }{:delay 40 00}{:clear }Und, Roxas, bist du bereit?
+  it: >-
+    Una volta entrati,
+
+    non potremo più tornare indietro.{:delay 87 00}{:clear }{:delay 36 00}Sarà la vittoria... o l'oblio.{:delay 8E 00}{:clear }{:delay 46 00}Allora, Roxas, sei pronto?
+  sp: >-
+    Una vez que entremos,
+
+    no hay vuelta atrás. {:delay 78 00}{:clear }{:delay 3D 00}Es la victoria...{:delay 43 00}{:clear }{:delay 17 00}o el olvido. {:delay 32 00}{:clear }{:delay 46 00}Roxas...{:delay 26 00}{:clear }{:delay 36 00}¿estás listo?
+  en: >-
+    Once we go through, there´s
+
+    no turning back.{:delay 87 00}{:clear }{:delay 36 00}It´s victory...or oblivion.{:delay 8E 00}{:clear }{:delay 46 00}So, Roxas...are you ready?
+- id: 16325
+  fr: >-
+    Axel !
+  gr: >-
+    Axel!
+  it: >-
+    Axel!
+  sp: >-
+    ¡Axel!
+  en: >-
+    Axel!
+- id: 16330
+  fr: >-
+    C'est parce que tu n'appartiens
+
+    plus aux ténèbres, Axel.
+  gr: >-
+    Du gehörst nicht mehr ins Reich
+
+    der Dunkelheit, Axel.
+  it: >-
+    Non appartieni più
+
+    al regno dell'oscurità, Axel.
+  sp: >-
+    Tu sitio ya no está en el
+
+    Reino de la Oscuridad, Axel.
+  en: >-
+    You don´t belong in the dark
+
+    realm anymore, Axel.
+- id: 16337
+  fr: >-
+    Merci, Kairi.
+  gr: >-
+    Danke, Kairi.
+  it: >-
+    Grazie, Kairi.
+  sp: >-
+    Gracias, Kairi.
+  en: >-
+    Thank you, Kairi.
+- id: 16349
+  fr: >-
+    Oui.{:delay 46 00}{:clear }À chaque fois que Roxas et Naminé
+
+    seront ensemble.
+  gr: >-
+    Richtig.{:delay 3C 00}{:clear }Immer, wenn Roxas und Naminé zusammen sind.
+  it: >-
+    Esatto!{:delay 5C 00}{:clear }Ogni volta che Roxas
+
+    e Naminé sono insieme.
+  sp: >-
+    Sí.{:delay 5C 00}{:clear }Siempre que Roxas y Naminé lo estén.
+  en: >-
+    Right.{:delay 5C 00}{:clear }Anytime Roxas and Naminé are together.
+- id: 16350
+  fr: >-
+    On se verra tous les jours.{:delay 5A 00}{:clear }  {:delay 0C 00}{:clear }Pas vrai, Roxas ?
+  gr: >-
+    Das werden wir jeden Tag
+
+    sein, stimmt's, Roxas?
+  it: >-
+    Staremo insieme ogni giorno.
+
+    Vero, Roxas?
+  sp: >-
+    Estaremos juntos todos los días,
+
+    ¿verdad, Roxas?
+  en: >-
+    We´ll be together every day.
+
+    Right, Roxas?
+- id: 16355
+  fr: >-
+    Axel... Viens ?
+  gr: >-
+    Axel, auf geht's.
+  it: >-
+    Axel, dai.
+  sp: >-
+    Axel... vamos.
+  en: >-
+    Axel... C´mon.
+- id: 16357
+  fr: >-
+    Roxas ! Axel !
+  gr: >-
+    Roxas! Axel!
+  it: >-
+    Roxas! Axel!
+  sp: >-
+    ¡Roxas! ¡Axel!
+  en: >-
+    Roxas! Axel!
+- id: 16359
+  fr: >-
+    Axel !
+  gr: >-
+    Axel!
+  it: >-
+    Axel!
+  sp: >-
+    ¡Axel!
+  en: >-
+    Axel!
+- id: 16360
+  fr: >-
+    Roxas !
+  gr: >-
+    Roxas!
+  it: >-
+    Roxas!
+  sp: >-
+    ¡Roxas!
+  en: >-
+    Roxas!
+- id: 16367
+  fr: >-
+     {:delay 6D 00}{:clear }Roxas...{:delay 77 00}{:clear }J'abandonne.
+  gr: >-
+    {:delay 87 00}{:clear }Roxas ...{:delay 5A 00}{:clear }... ich kann nicht ...
+  it: >-
+     {:delay 6D 00}{:clear }Roxas...{:delay 77 00}{:clear }Non ce la faccio...
+  sp: >-
+    {:delay 6D 00}{:clear }Roxas... {:delay 77 00}{:clear }no puedo...
+  en: >-
+    {:delay 6D 00}{:clear }Roxas...{:delay 77 00}{:clear }I can´t...
+- id: 16370
+  fr: >-
+    Oh, allez, Axel.{:delay 6C 00}{:clear }T'as passé trop de temps
+
+    dans les ténèbres.{:delay 72 00}{:clear }  {:delay 45 00}{:clear }Essaie de voir le bon côté des choses.
+  gr: >-
+    Ach was, Axel.{:delay 5A 00}{:clear }Du warst einfach zu lange in der Dunkelheit.{:delay 78 00}{:clear }{:delay 2D 00}{:clear }Versuch doch, positiv zu denken!
+  it: >-
+    Oh, avanti, Axel!{:delay 6C 00}{:clear }Sei rimasto troppo a lungo
+
+    nell'oscurità.{:delay 72 00}{:clear } {:delay 45 00}{:clear }Devi cercare di essere ottimista!
+  sp: >-
+    Ah, vamos Axel. {:delay 6C 00}{:clear }Llevas demasiado tiempo
+
+    en la oscuridad. {:delay 72 00}{:clear } {:delay 45 00}{:clear }¡Tienes que ser más positivo!
+  en: >-
+    Aw, c´mon, Axel.{:delay 6C 00}{:clear }You´ve been hanging out
+
+    in darkness too long.{:delay 72 00}{:clear } {:delay 45 00}{:clear }You gotta try and think positive!
+- id: 16379
+  fr: >-
+    Axel... Regarde !{:delay 72 00}{:clear }C'est quoi cette lumière ?
+  gr: >-
+    Axel -- schau!{:delay 5F 00}{:clear }Was ist das für ein Licht?
+  it: >-
+    Axel, guarda...{:delay 72 00}{:clear }Cos'è quella luce?
+  sp: >-
+    Axel... mira.{:delay 72 00}{:clear }¿Qué es esa luz?
+  en: >-
+    Axel--look.{:delay 72 00}{:clear }What´s that light?
+- id: 16390
+  fr: >-
+    Roxas... Bien joué, petit.
+  gr: >-
+    Roxas, du hast dich wacker geschlagen.
+  it: >-
+    Roxas, hai fatto un buon lavoro.
+  sp: >-
+    Roxas... Lo has hecho bien.
+  en: >-
+    Roxas... You´ve done well.
+- id: 16391
+  fr: >-
+    Où est Naminé ?
+  gr: >-
+    Wo ist Naminé?
+  it: >-
+    Dov'è Naminé?
+  sp: >-
+    ¿Dónde está Naminé?
+  en: >-
+    Where´s Naminé?
+- id: 16401
+  fr: >-
+    Roxas !
+  gr: >-
+    Roxas!
+  it: >-
+    Roxas!
+  sp: >-
+    ¡Roxas!
+  en: >-
+    Roxas!
+- id: 16402
+  fr: >-
+    Roxas ! Te voilà enfin !
+  gr: >-
+    Roxas! Du bist es wirklich!
+  it: >-
+    Roxas!
+
+    Sei davvero tu!
+  sp: >-
+    ¡Roxas! ¡Eres tú de verdad!
+  en: >-
+    Roxas! It´s really you!
+- id: 16403
+  fr: >-
+    Naminé !
+  gr: >-
+    Naminé!
+  it: >-
+    Naminé!
+  sp: >-
+    ¡Naminé!
+  en: >-
+    Naminé!
+- id: 16404
+  fr: >-
+    Laissez-le tranquille !
+  gr: >-
+    Lasst Roxas in Frieden!
+  it: >-
+    Lasciate in pace Roxas!
+  sp: >-
+    ¡Dejad en paz a Roxas!
+  en: >-
+    You leave Roxas alone!
+- id: 16405
+  fr: >-
+    Roxas...
+  gr: >-
+    Roxas ...!
+  it: >-
+    Roxas!
+  sp: >-
+    ¡Roxas...!
+  en: >-
+    Roxas--!
+- id: 16408
+  fr: >-
+    Roxas ne s'en sortira pas sans nous.{:delay 8A 00}{:clear }  {:delay 12 00}{:clear }Axel, combats avec moi !
+  gr: >-
+    Du weißt ja, Roxas ist ohne uns aufgeschmissen!{:delay B6 00}{:clear }Komm schon, Axel!
+  it: >-
+    Roxas non ha speranze
+
+    senza di noi!{:delay A0 00}{:clear }{:delay 1E 00}{:clear }Forza, Axel!
+  sp: >-
+    Ya sabes que Roxas está
+
+    indefenso sin nosotros. {:delay A0 00}{:clear }{:delay 1E 00}{:clear }¡Vamos, Axel!
+  en: >-
+    You know Roxas´s completely
+
+    hopeless without us!{:delay A0 00}{:clear }{:delay 1E 00}{:clear }C´mon, Axel!
+- id: 16418
+  fr: >-
+    Roxas ! Sora !
+  gr: >-
+    Roxas! Sora!
+  it: >-
+    Roxas! Sora!
+  sp: >-
+    ¡Roxas! ¡Sora!
+  en: >-
+    Roxas! Sora!
+- id: 16419
+  fr: >-
+    Sora ?
+  gr: >-
+    Sora?
+  it: >-
+    Sora?
+  sp: >-
+    ¿Sora?
+  en: >-
+    Sora?
+- id: 16420
+  fr: >-
+    Est-ce qu'il vient de m'appeler Sora ?
+  gr: >-
+    Hey, hat der mich grade Sora genannt?
+  it: >-
+    Ehi, quello mi ha chiamato Sora?
+  sp: >-
+    ¡Eh! ¿Acaba de llamarme Sora?
+  en: >-
+    Hey, did he just call me Sora?
+- id: 16425
+  fr: >-
+    Pourquoi m'as-tu appelé Sora ?
+  gr: >-
+    Warum hast du mich Sora genannt?
+  it: >-
+    Perché mi hai chiamato Sora?
+  sp: >-
+    ¿Por qué me has llamado Sora?
+  en: >-
+    Why did you call me Sora?
+- id: 16428
+  fr: >-
+    Roxas ! C'est Naminé !
+  gr: >-
+    Roxas! Da, Naminé!
+  it: >-
+    Roxas! È Naminé!
+  sp: >-
+    ¡Roxas! ¡Es Naminé!
+  en: >-
+    Roxas! It´s Naminé!
+- id: 16430
+  fr: >-
+    Roxas et Axel sont de nouveau
+
+    ensemble. Nous leur sommes inutiles.
+  gr: >-
+    Roxas und Axel sind vereint.
+
+    Für uns gibt es hier nichts zu tun.
+  it: >-
+    Roxas e Axel sono insieme.
+
+    Non possiamo fare niente qui.
+  sp: >-
+    Roxas y Axel están juntos.
+
+    Nada podemos hacer ya aquí.
+  en: >-
+    Roxas and Axel are together.
+- id: 16431
+  fr: >-
+    Je me demande si Axel
+
+    redeviendra comme avant.
+  gr: >-
+    Ich frage mich, ob Axel je
+
+    wieder der Alte sein kann.
+  it: >-
+    Caspiterina, mi chiedo se Axel tornerà
+
+    mai a essere quello di prima...
+  sp: >-
+    ¡Vaya! Me pregunto si Axel
+
+    volverá a ser el de antes.
+  en: >-
+    Gee, I wonder if Axel will
+
+    ever change back...
+- id: 16432
+  fr: >-
+    Il a choisi cette forme pour utiliser
+
+    le pouvoir des ténèbres.{:delay F0 00}{:clear }  {:delay 1E 00}{:clear }C'est peut-être irréversible.
+  gr: >-
+    Axel hat diese Form gewählt, um die
+
+    Mächte der Dunkelheit zu nutzen.{:delay FB 00}{:clear }Leicht wird es nicht.
+  it: >-
+    Axel ha scelto quelle sembianze per
+
+    poter usare il potere dell'oscurità.{:delay F0 00}{:clear }{:delay 1E 00}{:clear }Non sarà facile.
+  sp: >-
+    Axel escogió esa forma para poder
+
+    usar el poder de la oscuridad. {:delay F0 00}{:clear }{:delay 1E 00}{:clear }No será fácil.
+  en: >-
+    Axel chose that form so he could
+
+    use the power of darkness. {:delay F0 00}{:clear }{:delay 1E 00}{:clear }It won´t be easy.
+- id: 16433
+  fr: >-
+    Naminé. On arrive tout de suite !
+  gr: >-
+    Naminé, bitte halte durch!
+  it: >-
+    Naminé, stiamo arrivando.
+  sp: >-
+    Naminé, ya vamos.
+  en: >-
+    Naminé, we´re on our way!
+- id: 16452
+  fr: >-
+    Comment as-tu pu... Sora...
+  gr: >-
+    Warum nur ... Sora ...
+  it: >-
+    Come hai potuto... Sora...
+  sp: >-
+    ¿Cómo has podido... Sora?
+  en: >-
+    How could you...Sora...
+- id: 16453
+  fr: >-
+    Je suis Roxas !
+  gr: >-
+    Ich bin Roxas!
+  it: >-
+    Io sono Roxas!
+  sp: >-
+    ¡Soy Roxas!
+  en: >-
+    That´s Roxas!
+- id: 16456
+  fr: >-
+    Roxas ! Axel !
+  gr: >-
+    Roxas! Axel!
+  it: >-
+    Roxas! Axel!
+  sp: >-
+    ¡Roxas! ¡Axel!
+  en: >-
+    Roxas! Axel!
+- id: 16467
+  fr: >-
+    Roxas, "Votre Majesté", n'oubliez pas...{:delay C6 00}{:clear }Une fois que je les aurais tous détruits,{:delay 8A 00}{:clear }ce château sera à moi !
+  gr: >-
+    Roxas! "Eure Majestät"!{:delay 93 00}{:clear }Wenn ich sie alle ausgemerzt habe,
+
+    soll als Dank dieses Schloss mein sein!
+  it: >-
+    Roxas, "Vostra Maestà"!
+
+    Non dimenticate che...{:delay CC 00}{:clear }... quando li avrò distrutti tutti,
+
+    questo castello sarà mio!
+  sp: >-
+    ¡Roxas! ¡Majestad! No lo olvidéis: {:delay CC 00}{:clear }cuando los haya destruido a todos,
+
+    ¡este castillo será mío!
+  en: >-
+    Roxas! "Your Majesty"! Do not forget--{:delay CC 00}{:clear }when I´ve destroyed them all,
+
+    this castle shall be mine!
+- id: 16488
+  fr: >-
+    Axel ?
+  gr: >-
+    Axel?!
+  it: >-
+    Axel?
+  sp: >-
+    ¿Axel?
+  en: >-
+    Axel?
+- id: 16491
+  fr: >-
+    Axel !
+  gr: >-
+    Axel!
+  it: >-
+    Axel!
+  sp: >-
+    ¡Axel!
+  en: >-
+    Axel!
+- id: 16494
+  fr: >-
+    Axel, tu gardes ce bandeau ?
+  gr: >-
+    Axel, willst du das nicht abnehmen?
+  it: >-
+    Axel, cosa aspetti a togliertela?
+  sp: >-
+    Axel, ¿no te quitas eso?
+  en: >-
+    Axel, you gonna take that off?
+- id: 16501
+  fr: >-
+    Axel...
+  gr: >-
+    Axel ...
+  it: >-
+    Axel...
+  sp: >-
+    Axel...
+  en: >-
+    Axel...
+- id: 16506
+  fr: >-
+    Qu'est-ce qu'on doit faire, Axel ?
+  gr: >-
+    Was machen wir jetzt, Axel?
+  it: >-
+    Che cosa dobbiamo fare,
+
+    Axel?
+  sp: >-
+    ¿Qué hacemos, Axel?
+  en: >-
+    What should we do, Axel?
+- id: 16522
+  fr: >-
+    Je sais.{:delay 3C 00}{:clear }  {:delay 36 00}{:clear }Axel me l'a dit des centaines de fois.
+  gr: >-
+    Ich weiß ...{:delay 4C 00}{:clear }{:delay 28 00}{:clear }Das hat mir Axel auch tausende Male gesagt.
+  it: >-
+    Lo so.{:delay 3C 00}{:clear }{:delay 36 00}{:clear }Axel me l'ha detto migliaia di volte.
+  sp: >-
+    Lo sé. {:delay 3C 00}{:clear }{:delay 36 00}{:clear }Axel me lo ha dicho miles de veces.
+  en: >-
+    I know.{:delay 3C 00}{:clear }{:delay 36 00}{:clear }Axel's told me a thousand times.
+- id: 16524
+  fr: >-
+    Il doit avoir retrouvé ses
+
+    amis maintenant.{:delay 96 00}{:clear }  {:delay 2A 00}{:clear }Ce garçon m'a été
+
+    d'une grande aide.{:delay 8A 00}{:clear }Je l'ai découvert errant
+
+    dans les ténèbres,{:delay AA 00}{:clear }après que vous avez perdu
+
+    la trace l'un de l'autre.
+  gr: >-
+    Sicherlich bei seinen Freunden.{:delay 90 00}{:clear }Axel war mir eine große Hilfe.{:delay 8A 00}{:clear }Ich fand ihn in der Dunkelheit
+
+    umherirrend, nachdem er und Ihr ...{:delay C8 00}{:clear }... Euch aus den Augen verloren hattet.
+  it: >-
+    Dovrebbe essere con
+
+    i suoi amici ormai.{:delay 96 00}{:clear }{:delay 2A 00}{:clear }Axel mi è stato di grande aiuto.{:delay 8A 00}{:clear }L'ho trovato che vagava nell'oscurità...{:delay 84 00}{:clear }... dopo che vi siete persi di vista.
+  sp: >-
+    Ahora ya debe de estar con sus amigos.{:delay 96 00}{:clear }{:delay 2A 00}{:clear }Axel me ha sido de gran ayuda. {:delay 8A 00}{:clear }Le encontré vagando por la oscuridad,
+
+    después de que os perdiérais.
+  en: >-
+    He must be with his friends by now.{:delay 96 00}{:clear }{:delay 2A 00}{:clear }Axel was a great help to me.{:delay 8A 00}{:clear }I found him wandering the darkness,
+
+    after you and he lost track of each other.
+- id: 16525
+  fr: >-
+    En fait, nous n'avons pas été
+
+    séparés. Axel est parti...{:delay E4 00}{:clear }parce que, malgré notre victoire,{:delay 7E 00}{:clear }le Sans-cæur de Xehanort
+
+    était toujours présent en lui.{:delay BA 00}{:clear }  {:delay 0C 00}{:clear }Je pense qu'il en souffrait.{:delay 6C 00}{:clear }Mais je ne comprends pas pourquoi
+
+    il a cette apparence...{:delay AE 00}{:clear }si son âme est celle de Axel ?
+  gr: >-
+    Nun, wir verloren uns nicht
+
+    aus den Augen. Axel ging ...{:delay F0 00}{:clear }... da Xehanorts Herzloser noch immer
+
+    in seinem Herzen war und ihn plagte.{:delay F0 00}{:clear }Er hat sicher sehr gelitten ...{:delay 78 00}{:clear }... aber ich verstehe nicht,
+
+    warum er jetzt so aussieht ...{:delay C8 00}{:clear }... wo er im Grunde seines
+
+    Herzens doch Axel ist.
+  it: >-
+    Caspita, non ci eravamo persi
+
+    di vista! Axel se n'era andato...{:delay F0 00}{:clear }... perché l'Heartless di Xehanort era
+
+    ancora nel suo cuore, lo turbava...{:delay 08 01}{:clear }{:delay 1B 00}{:clear }... e di certo doveva farlo soffrire.{:delay 90 00}{:clear }Ma non capisco perché
+
+    ora abbia quell'aspetto...{:delay C3 00}{:clear }... visto che è ancora Axel nel cuore.
+  sp: >-
+    ¡Bueno! No nos habíamos
+
+    perdido exactamente. Axel se fue... {:delay F0 00}{:clear }Es que el sincorazón de Xehanort
+
+    estaba dentro de él, confundiéndole.{:delay 08 01}{:clear }{:delay 1B 00}{:clear }Y eso le hacía sufrir... {:delay 90 00}{:clear }Pero no entiendo por qué sigue así;
+
+    en el fondo de su corazón, siempre será Axel.
+  en: >-
+    Gosh, we didn't lose each other exactly.
+
+    Axel left...{:delay F0 00}{:clear }well, 'cause Xehanort's Heartless was
+
+    still inside his heart, troubling him.{:delay 08 01}{:clear }{:delay 1B 00}{:clear }And he sure must've been suffering.{:delay 90 00}{:clear }But what I don't understand is why he looks
+
+    like that now, when he's still Axel at heart...
+- id: 16526
+  fr: >-
+    C'est ma faute.{:delay 54 00}{:clear }  {:delay 78 00}{:clear }Lorsque j'ai rencontré Axel...{:delay 72 00}{:clear }  {:delay 38 00}{:clear }il était encore un adolescent.{:delay 9C 00}{:clear }  {:delay 54 00}{:clear }Sans doute à cause de son cæur si puissant.
+  gr: >-
+    Das ist meine Schuld.{:delay 77 00}{:clear }{:delay 63 00}Als ich Axel damals traf ...{:delay 8F 00}{:clear }{:delay 23 00}{:clear }... hatte er noch die Erscheinung eines Jungen.{:delay 7D 00}{:clear }{:delay 46 00}{:clear }Wahrscheinlich, weil er so ein starkes Herz besaß.
+  it: >-
+    La colpa è mia.{:delay 54 00}{:clear }{:delay 78 00}{:clear }Quando ho conosciuto Axel...{:delay 72 00}{:clear }{:delay 38 00}{:clear }... aveva ancora l'aspetto di un ragazzo.{:delay 9C 00}{:clear }{:delay 54 00}{:clear }Forse perché aveva un cuore tanto forte.
+  sp: >-
+    Yo tengo la culpa. {:delay 54 00}{:clear }{:delay 78 00}{:clear }Cuando vi a Axel por primera vez{:delay 72 00}{:clear }{:delay 38 00}{:clear }seguía teniendo el aspecto de un niño. {:delay 9C 00}{:clear }{:delay 54 00}{:clear }Probablemente porque tenía
+
+    un corazón muy fuerte.
+  en: >-
+    I am to blame.{:delay 54 00}{:clear }{:delay 78 00}{:clear }When I met Axel the first time{:delay 72 00}{:clear }{:delay 38 00}{:clear }he still had the appearance of a boy.{:delay 9C 00}{:clear }{:delay 54 00}{:clear }Probably because he had such a strong heart.
+- id: 16527
+  fr: >-
+    Je lui ai demandé de trouver
+
+    un dénommé Sora,{:delay D2 00}{:clear }membre de l'Organisation XIII,{:delay 8C 00}{:clear }et de me le ramener.{:delay 52 00}{:clear }  {:delay 40 00}{:clear }Quand je lui ai dit que cela aiderait
+
+    Roxas à s'éveiller plus rapidement,{:delay BE 00}{:clear }il m'a obéi sans discuter.
+  gr: >-
+    Ich bat ihn, einen Jungen namens Sora
+
+    von der Organisation {XIII} zu finden ...{:delay 1A 01}{:clear }... und zu mir zu bringen.{:delay 4E 00}{:clear }{:delay 37 00}{:clear }Als ich ihm sagte, es würde Roxas helfen,
+
+    aus seinem Schlaf zu erwachen ...{:delay CD 00}{:clear }... ging Axel, ohne es zu hinterfragen.
+  it: >-
+    Gli ho chiesto di trovare un giovane
+
+    di nome Sora dell'Organizzazione {XIII}...{:delay 0E 01}{:clear }... e di portarmelo.{:delay 48 00}{:clear }{:delay 54 00}{:clear }Quando gli ho detto che avrebbe aiutato
+
+    Roxas a risvegliarsi dal suo sonno...{:delay 02 01}{:clear }... Axel se n'è andato
+
+    senza dire una parola.
+  sp: >-
+    Le pedí que buscara a un joven llamado
+
+    Sora, de la Organización {XIII}, {:delay 0E 01}{:clear }y me lo trajera. {:delay 48 00}{:clear }{:delay 54 00}{:clear }Cuando le dije que eso ayudaría
+
+    a que Roxas despertara de su letargo,{:delay F0 00}{:clear }Axel se marchó sin mediar palabra.
+  en: >-
+    I asked him to find a young man
+
+    named Sora from Organization {XIII},{:delay 0E 01}{:clear }and bring him to me.{:delay 48 00}{:clear }{:delay 54 00}{:clear }When I told him it would help Roxas awaken
+
+    from his slumber, Axel left without a word.
+- id: 16528
+  fr: >-
+    Axel a affronté Sora. Mais
+
+    j'imagine qu'il a perdu ce combat.
+  gr: >-
+    Er kämpfte gegen Sora. Und es
+
+    scheint, Axel hat den Kampf verloren.
+  it: >-
+    Ha combattuto contro Sora.
+
+    E posso solo dedurre che abbia perso.
+  sp: >-
+    Se enfrentó a Sora, pero me temo
+
+    que Axel perdió aquel combate.
+  en: >-
+    He fought Sora. And I can only surmise
+
+    Axel lost that fight.
+- id: 16529
+  fr: >-
+    Il a alors sans doute compris que{:delay 78 00}{:clear }pour se battre dans le domaine
+
+    des ténèbres,{:delay B4 00}{:clear }il était nécessaire de s'y plonger.{:delay 8C 00}{:clear }  {:delay 1C 00}{:clear }C'est ce qu'il a fait...{:delay 46 00}{:clear }  {:delay 1A 00}{:clear }Tu as vu toi-même ce qu'il est devenu.
+  gr: >-
+    Damals wurde ihm sicher klar:{:delay 7D 00}{:clear }Um im Reich der Dunkelheit zu kämpfen,
+
+    müsse er sich selbst eben jener ...{:delay D7 00}{:clear }... Dunkelheit hingeben.{:delay 50 00}{:clear }Und als er das tat -- Ihr habt gesehen,
+
+    was aus ihm geworden ist.
+  it: >-
+    Axel deve aver capito che per
+
+    combattere nel regno dell'oscurità...{:delay E4 00}{:clear }... avrebbe dovuto immergersi
+
+    in quella stessa oscurità.{:delay D2 00}{:clear }{:delay 12 00}{:clear }E quando lo ha fatto...{:delay 3C 00}{:clear }{:delay 24 00}{:clear }... hai visto cosa è diventato.
+  sp: >-
+    Axel debió de comprender que para
+
+    luchar en el Reino de la Oscuridad {:delay E4 00}{:clear }debía sumergirse en
+
+    esa misma oscuridad. {:delay D2 00}{:clear }{:delay 12 00}{:clear }Y así lo hizo... {:delay 3C 00}{:clear }{:delay 24 00}{:clear }Ya has visto lo que ha sido de él.
+  en: >-
+    Axel must have realized then:
+
+    to fight in the realm of darkness,{:delay E4 00}{:clear }he would have to immerse himself
+
+    in that same darkness.{:delay D2 00}{:clear }{:delay 12 00}{:clear }And when he did...{:delay 3C 00}{:clear }{:delay 24 00}{:clear }you saw what became of him.
+- id: 16530
+  fr: >-
+    Quand Axel m'a finalement ramené Sora,{:delay 91 00}{:clear }il s'est présenté sous l'identité d'Ansem.
+  gr: >-
+    Als Axel Sora schließlich zu mir
+
+    brachte, stellte er sich mir vor als ...{:delay 14 01}{:clear }... Ansem.
+  it: >-
+    Quando Axel ha portato qui Sora,
+
+    si è presentato come Ansem.
+  sp: >-
+    Cuando Axel me trajo a Sora,
+
+    se presentó a sí mismo como... Ansem.
+  en: >-
+    When Axel brought Sora back to me,
+- id: 16532
+  fr: >-
+    Axel a été victime de ma vengeance.
+  gr: >-
+    Axel ist das Opfer meiner Rache.
+  it: >-
+    Axel è stato vittima
+
+    della mia vendetta.
+  sp: >-
+    Axel fue la víctima de mi venganza.
+  en: >-
+    Axel was the victim of my revenge.
+- id: 16534
+  fr: >-
+    J'ai dû rencontrer Axel peu de
+
+    temps après cette métamorphose.{:delay CC 00}{:clear }Il m'a dit qu'il souhaitait aider Roxas.{:delay 72 00}{:clear }Mais il m'a fait promettre de
+
+    faire tout mon possible{:delay 9C 00}{:clear }pour que son ami ne découvre
+
+    jamais ce qui lui était arrivé,{:delay BA 00}{:clear }lorsqu'il errait dans les ténèbres.
+  gr: >-
+    Ich glaube, Axel ist mir danach begegnet.{:delay AC 00}{:clear }{:delay 1C 00}{:clear }Er sagte, er wolle Roxas helfen, aber
+
+    ich musste ihm versprechen, dass ...{:delay F0 00}{:clear }... Roxas nie die Wahrheit über das, was
+
+    ihm in der Dunkelheit widerfahren war ...{:delay F0 00}{:clear }... erfahren würde.
+  it: >-
+    Credo che sia stato dopo
+
+    di allora che ho rivisto Axel.{:delay CC 00}{:clear }Mi ha detto che voleva aiutare Roxas...{:delay 78 00}{:clear }... ma mi ha fatto promettere che...{:delay 72 00}{:clear }... il suo amico non avrebbe mai saputo
+
+    la verità su tutto ciò che gli era...{:delay C6 00}{:clear }... accaduto mentre era nell'oscurità.
+  sp: >-
+    Debió de ser después de aquello
+
+    cuando volví a ver a Axel. {:delay DB 00}{:clear }Dijo que quería ayudar a Roxas... {:delay 83 00}{:clear }pero me hizo prometer{:delay 6D 00}{:clear }que nunca le diría todo
+
+    lo que le había ocurrido a él {:delay B3 00}{:clear }mientras estaba en la oscuridad.
+  en: >-
+    I guess it musta been after that
+
+    when I saw Axel again.{:delay CC 00}{:clear }He said he wanted to help Roxas...{:delay 78 00}{:clear }but he made me promise--{:delay 72 00}{:clear }Promise that Roxas wouldn't ever find out
+
+    about what happened to him{:delay C6 00}{:clear }while he was out in the darkness.
+- id: 16536
+  fr: >-
+    Te voilà. Toi seul pouvais
+
+    arriver ici vivant, Sora.
+  gr: >-
+    Es unbeschadet bis hierher geschafft
+
+    zu haben, spricht für dich, Sora.
+  it: >-
+    Solo tu potevi arrivare
+
+    fin qui tutto intero, Sora.
+  sp: >-
+    Solo tú podías llegar tan lejos
+
+    de una sola pieza... Sora.
+  en: >-
+    Only you could have made it
+
+    this far in one piece...Sora.
+- id: 16538
+  fr: >-
+    Oui ! Lui, c'est Roxas !
+  gr: >-
+    Ja! Er ist Roxas!
+  it: >-
+    Già! Lui è Roxas!
+  sp: >-
+    ¡Sí! ¡Él es Roxas!
+  en: >-
+    Yeah! He's Roxas!
+- id: 16541
+  fr: >-
+    Je comprends pas. Pourquoi tout le
+
+    monde s'obstine à m'appeler Sora ?
+  gr: >-
+    Ich versteh das nicht. Warum nennen
+
+    die mich denn alle Sora?
+  it: >-
+    Non capisco.
+
+    Perché tutti mi chiamano Sora?
+  sp: >-
+    No lo entiendo.{:delay 3C 00}{:clear }{:delay 1E 00}¿Por qué me llaman todos Sora?
+  en: >-
+    I don't get it.
+
+    Why's everybody been calling me Sora?
+- id: 16542
+  fr: >-
+    Parce que, Roxas...{:delay 3C 00}{:clear }{:delay 60 00}Sora est ton Simili.
+  gr: >-
+    Ganz einfach, Roxas.{:delay 55 00}{:clear }{:delay 2A 00}{:clear }Sora ist dein Niemand.
+  it: >-
+    Perché, Roxas...{:delay 3C 00}{:clear }{:delay 60 00}... Sora è il tuo Nessuno.
+  sp: >-
+    Porque Sora...{:delay 3C 00}{:clear }{:delay 60 00}es tu incorpóreo, Roxas.
+  en: >-
+    Because, Roxas.{:delay 3C 00}{:clear }{:delay 60 00}Sora is your Nobody.
+- id: 16545
+  fr: >-
+    C'est Xemnas qui a découvert Sora.{:delay 7A 00}{:clear }{:delay 28 00}Il pouvait se servir de la Keyblade
+
+    parce qu'il était ton Simili.
+  gr: >-
+    Xemnas hat Sora gefunden.{:delay 78 00}{:clear }{:delay 27 00}{:clear }Er konnte das Schlüsselschwert
+
+    einsetzen, weil er dein Niemand war.
+  it: >-
+    È stato Xemnas a trovare Sora.{:delay 84 00}{:clear }{:delay 3C 00}Lui poteva usare il Keyblade
+
+    perché era il tuo Nessuno.
+  sp: >-
+    Xemnas fue el que encontró a Sora.{:delay 84 00}{:clear }{:delay 3C 00}Podía usar la llave espada
+
+    porque era tu incorpóreo.
+  en: >-
+    Xemnas was the one who found Sora.{:delay 84 00}{:clear }{:delay 3C 00}He could use the Keyblade
+- id: 16546
+  fr: >-
+    Grâce à ça, il a pu intégrer l'Organisation.{:delay 96 00}{:clear }{:delay 30 00}Mais Sora les a trahis.{:delay 5A 00}{:clear }{:delay 36 00}Je l'ai affronté car je pensais que
+
+    ça t'aiderait à te réveiller.{:delay AD 00}{:clear }  {:delay 22 00}{:clear }J'ai perdu...{:delay 4E 00}{:clear }Mais lors du combat suivant,
+
+    j'avais acquis la force nécessaire.
+  gr: >-
+    Deshalb hat ihn Xemnas in die
+
+    Organisation aufgenommen ...{:delay CC 00}{:clear }Aber Sora hat sie verraten.{:delay 60 00}{:clear }{:delay 28 00}{:clear }Danach hab ich ihn bekämpft, im Glauben,
+
+    du würdest dadurch erwachen.{:delay BE 00}{:clear }Ich verlor ...{:delay 41 00}{:clear }Aber als wir uns wieder trafen, stellte
+
+    ich sicher, dass ich der Stärkere war.
+  it: >-
+    Per questo Xemnas lo ha
+
+    accolto nell'Organizzazione...{:delay 96 00}{:clear }{:delay 30 00}... ma Sora li ha traditi.{:delay 5A 00}{:clear }{:delay 36 00}Poi ho combattuto contro di lui perché
+
+    pensavo che sarebbe servito a risvegliarti.{:delay B4 00}{:clear }{:delay 22 00}{:clear }Ho perso...{:delay 4E 00}{:clear }... ma quando ci siamo rivisti
+
+    ero diventato io il più forte.
+  sp: >-
+    Por eso Xemnas le llevó
+
+    a la Organización.{:delay 96 00}{:clear }{:delay 30 00}Pero Sora les traicionó. {:delay 5A 00}{:clear }{:delay 36 00}Luché contra él porque pensé que
+
+    eso te ayudaría a despertar. {:delay AD 00}{:clear }{:delay 22 00}{:clear }Perdí.{:delay 4E 00}{:clear }Pero en nuestro siguiente encuentro,
+
+    yo ya era más fuerte.
+  en: >-
+    That's why Xemnas brought him
+
+    into the Organization--{:delay 96 00}{:clear }{:delay 30 00}But Sora betrayed them. {:delay 5A 00}{:clear }{:delay 36 00}After that I fought him because I thought
+
+    it would help you wake up.{:delay AD 00}{:clear }{:delay 22 00}{:clear }I lost,{:delay 4E 00}{:clear }but the next time we met
+
+    I made sure I was the stronger one.
+- id: 16548
+  fr: >-
+    Sora...{:delay 42 00}{:clear }{:delay 3E 00}J'aimerais le voir, moi aussi.
+  gr: >-
+    Sora ... {:delay 78 00}{:clear }Ich wünschte, ich könnte ihn treffen.
+  it: >-
+    Sora...{:delay 42 00}{:clear }{:delay 3E 00}Avrei voluto incontrarlo anch'io.
+  sp: >-
+    Sora... {:delay 42 00}{:clear }{:delay 3E 00}También me habría gustado conocerle.
+  en: >-
+    Sora...{:delay 42 00}{:clear }{:delay 3E 00}I wish I could meet him, too.
+- id: 16560
+  fr: >-
+    Roxas, tout est entre tes mains.{:delay 96 00}{:clear }  {:delay 3C 00}{:clear }Et Sora, je doute que tu
+
+    puisses m'entendre, mais...{:delay E6 00}{:clear }  {:delay 18 00}{:clear }je suis désolé.
+  gr: >-
+    Roxas, jetzt hast du es in der Hand.{:delay AB 00}{:clear }{:delay 34 00}{:clear }Und Sora, auch wenn du mich
+
+    nicht hörst, es ... es tut mir Leid.
+  it: >-
+    Roxas, il resto dipende da te.{:delay 96 00}{:clear }{:delay 3C 00}{:clear }E Sora, dubito che tu possa
+
+    sentirmi, ma...{:delay E6 00}{:clear }{:delay 18 00}{:clear }... mi dispiace.
+  sp: >-
+    Roxas, el resto depende de ti... {:delay A8 00}{:clear }{:delay 29 00}y de Sora.{:delay 37 00}{:clear }{:delay 21 00}Dudo que pueda oírme, pero, de verdad...{:delay BF 00}{:clear }{:delay 11 00}lo siento.
+  en: >-
+    Roxas, the rest is up to you...{:delay 96 00}{:clear }{:delay 3C 00}{:clear }And Sora--
+
+    I doubt you can hear me--but...{:delay E6 00}{:clear }{:delay 18 00}{:clear }I am sorry.
+- id: 16564
+  fr: >-
+    Axel !
+  gr: >-
+    Axel!
+  it: >-
+    Axel!
+  sp: >-
+    ¡Axel!
+  en: >-
+    Axel!
+- id: 16573
+  fr: >-
+    J'en ai assez dit !{:delay 5A 00}{:clear }  {:delay 23 00}{:clear }Axel, tu sais quoi faire.{:delay AA 00}{:clear }  {:delay 28 00}{:clear }Roi Mickey, mon ami, pardonne-moi.{:delay E6 00}{:clear }  {:delay 28 00}{:clear }Adieu.
+  gr: >-
+    Genug der Rede!{:delay 57 00}{:clear }{:delay 2F 00}{:clear }Axel, du weißt, was zu tun ist!{:delay 83 00}{:clear }{:delay 3E 00}{:clear }König Micky, mein Freund, vergebt mir!{:delay DC 00}{:clear }{:delay 1E 00}{:clear }Lebt wohl!
+  it: >-
+    Abbiamo parlato abbastanza!{:delay 5A 00}{:clear }{:delay 23 00}{:clear }Axel, tu sai cosa fare!{:delay AA 00}{:clear }{:delay 28 00}{:clear }Re Topolino, amico mio, perdonami!{:delay E6 00}{:clear }{:delay 28 00}{:clear }Addio!
+  sp: >-
+    ¡Ya hemos dicho suficiente! {:delay 5A 00}{:clear }{:delay 3A 00}{:clear }¡Axel, ya sabes qué hacer! {:delay 61 00}{:clear }{:delay 63 00}{:clear }Rey Mickey, amigo mío, lo siento.{:delay C8 00}{:clear }{:delay 34 00}{:clear }¡Adiós!
+  en: >-
+    We've said enough!{:delay 5A 00}{:clear }{:delay 23 00}{:clear }Axel, you know what to do!{:delay AA 00}{:clear }{:delay 28 00}{:clear }King Mickey, my friend, forgive me!{:delay E6 00}{:clear }{:delay 28 00}{:clear }Farewell!
+- id: 16674
+  fr: >-
+    Tu es celle qui nourrit la colère de Roxas.
+  gr: >-
+    Du sollst dazu dienen, Roxas' Wut zu nähren.
+  it: >-
+    Tu sei il fuoco che alimenta
+
+    la rabbia di Roxas.
+  sp: >-
+    Tú eres el fuego que
+
+    alimenta la furia de Roxas.
+  en: >-
+    You´re the fire that feeds Roxas´s anger.
+- id: 16675
+  fr: >-
+    Non...{:delay 2A 00}{:clear }  {:delay 3C 00}{:clear }Roxas est en danger à cause de moi.
+  gr: >-
+    Nein ...{:delay 64 00}{:clear }Roxas ist in Gefahr, nur wegen mir!
+  it: >-
+    No...{:delay 26 00}{:clear }{:delay 32 00}{:clear }Roxas è in pericolo
+
+    per colpa mia...
+  sp: >-
+    No... {:delay 26 00}{:clear }{:delay 32 00}Roxas está en peligro por mi culpa...
+  en: >-
+    No...{:delay 26 00}{:clear }{:delay 32 00}Roxas´s in danger because of me...
+- id: 16679
+  fr: >-
+    Naminé... On arrive !
+  gr: >-
+    Naminé ... Nicht mehr lange!
+  it: >-
+    Naminé... Ci siamo quasi.
+  sp: >-
+    Naminé... Ya vamos.
+  en: >-
+    Naminé... We´re almost there.
+- id: 16680
+  fr: >-
+    Naminé ! Où es-tu ?
+  gr: >-
+    Naminé! Wo bist du?
+  it: >-
+    Naminé! Dove sei?
+  sp: >-
+    ¡Naminé! ¿Dónde estás?
+  en: >-
+    Naminé! Where are you?
+- id: 16684
+  fr: >-
+    Ah, Kairi... Te voilà.
+  gr: >-
+    Kairi. Da bist du ja.
+  it: >-
+    Kairi, eccoti qua.
+  sp: >-
+    Kairi... Estás aquí.
+  en: >-
+    Kairi... There you are.
+- id: 16685
+  fr: >-
+    Kairi ?
+  gr: >-
+    Kairi ...?
+  it: >-
+    Kairi...?
+  sp: >-
+    ¿Kairi...?
+  en: >-
+    Kairi...?
+- id: 16686
+  fr: >-
+    Naminé. Désolé, mais je ne
+
+    peux pas te laisser partir.
+  gr: >-
+    Naminé. Dir ist klar, dass ich dich
+
+    nicht gehen lassen kann?
+  it: >-
+    Naminé, temo che tu
+
+    non possa andartene.
+  sp: >-
+    Naminé. Me temo que no
+
+    puedo dejarte ir.
+  en: >-
+    Naminé. I´m afraid leaving is not an option.
+- id: 16687
+  fr: >-
+    Je vais t'emmener voir Roxas.
+  gr: >-
+    Ich bringe dich zu Roxas.
+  it: >-
+    Ti porterò da Roxas.
+  sp: >-
+    Te llevaré a ver a Roxas.
+  en: >-
+    I´ll take you to see Roxas.
+- id: 16691
+  fr: >-
+    Toi...{:delay 41 00}{:clear }  {:delay 32 00}{:clear }Sora ne t'a pas éliminé ?
+  gr: >-
+    Du ...{:delay 3C 00}{:clear }{:delay 28 00}{:clear }Hat Sora dich nicht erledigt?
+  it: >-
+    Tu...{:delay 41 00}{:clear } {:delay 32 00}{:clear }Sora non ti aveva eliminato?
+  sp: >-
+    Tú... {:delay 41 00}{:clear } {:delay 32 00}{:clear }¿No se había librado Sora de ti?
+  en: >-
+    You...{:delay 41 00}{:clear } {:delay 32 00}{:clear }Didn´t Sora take care of you?
+- id: 16692
+  fr: >-
+    Tu dois la protéger,{:delay 60 00}{:clear }Axel.
+  gr: >-
+    Wir zählen auf dich, Axel.
+  it: >-
+    Ora tocca a te...{:delay 60 00}{:clear }... Axel.
+  sp: >-
+    Ocúpate tú de esto, {:delay 60 00}{:clear }Axel.
+  en: >-
+    You can take it from here,{:delay 60 00}{:clear }Axel.
+- id: 16693
+  fr: >-
+    Axel ?
+  gr: >-
+    Axel?!
+  it: >-
+    Axel?!
+  sp: >-
+    ¿Axel?
+  en: >-
+    Axel!?
+- id: 16700
+  fr: >-
+    Axel... C'est vraiment toi ?
+  gr: >-
+    Axel ... Du bist wirklich hier?
+  it: >-
+    Axel, sei davvero qui...
+  sp: >-
+    Axel... ¿de verdad eres tú?
+  en: >-
+    Axel...you´re really here...
+- id: 18438
+  fr: >-
+    Alors c'est dans cette ville toute
+
+    lugubre que vivent les Simili ?{:clear }Trouvons vite un moyen d'aller au
+
+    {:theme 0A}château{:reset} où est retenue Naminé.
+  gr: >-
+    Hier ist es vielleicht dunkel.
+
+    Hier leben also die Niemande, oder?{:clear }Kommt, lasst uns versuchen, einen
+
+    Weg zu dem {:theme 0A}Schloss{:reset} zu finden, in
+
+    dem Naminé gefangen gehalten wird.
+  it: >-
+    Com'è buia questa città...
+
+    Vivono qui i Nessuno, vero?{:clear }Su, cerchiamo la via che conduce al
+
+    {:theme 0A}castello{:reset} dove tengono prigioniera Naminé.
+  sp: >-
+    Esta ciudad es muy oscura. Aquí viven
+
+    los incorpóreos, ¿no?{:clear }Vamos. Hay que encontrar un camino
+
+    hasta el {:theme 0A}castillo{:reset} donde tienen a Naminé.
+  en: >-
+    This town sure is dark. This is where
+
+    the Nobodies live, right?{:clear }C´mon. Let´s try to find a path to
+
+    the {:theme 0A}castle{:reset} Naminé´s being held at.
+- id: 18440
+  fr: >-
+    Ce monde est vraiment surprenant.
+
+    La lune est en forme de cæur !{:clear }Maintenant qu'on a ouvert l'accès
+
+    au {:theme 0A}château{:reset}, allons sauver Naminé !
+  gr: >-
+    Wirklich eine seltsame Welt.
+
+    Selbst der Mond sieht aus wie ein Herz.{:clear }Kommt, jetzt, wo der Weg zum {:theme 0A}Schloss{:reset}
+
+    frei ist, lasst uns Naminé retten!
+  it: >-
+    Che mondo strano...
+
+    E la luna poi, sembra un cuore!{:clear }Avanti, facciamoci strada verso
+
+    il {:theme 0A}castello{:reset}. Dobbiamo salvare Naminé!
+  sp: >-
+    Este mundo es muy extraño.
+
+    La luna parece un corazón.{:clear }¡Vamos! El camino al {:theme 0A}castillo{:reset}
+
+    está abierto, ¡rescatemos a Naminé!
+  en: >-
+    This sure is a strange world.
+
+    The moon even looks like a heart.{:clear }C´mon, now that we´ve opened the path
+
+    to the {:theme 0A}castle{:reset}, let´s go rescue Naminé!
+- id: 18444
+  fr: >-
+    Ansem combat aux côtés de Naminé ?
+
+    Qu'est-ce que ça veut dire ?{:clear }En tout cas, elle est en danger !
+
+    Allons la secourir !
+  gr: >-
+    Was hat das zu bedeuten?
+
+    Ansem hat zusammen mit Naminé gekämpft!{:clear }Wie auch immer, Naminé wird angegriffen.
+
+    Wir müssen zu ihr und ihr helfen!
+  it: >-
+    Che diavolo succede? Perché Naminé
+
+    combatteva al fianco di Ansem?{:clear }In ogni caso, Naminé è in pericolo.
+
+    Dobbiamo andare a salvarla!
+  sp: >-
+    ¿Qué es lo que pasa?
+
+    ¡Ansem estaba luchando junto a Naminé!{:clear }¡Pero ahora Naminé tiene problemas!
+
+    ¡Tenemos que ayudarla!
+  en: >-
+    What´s going on?
+
+    Ansem was fighting alongside Naminé!{:clear }Anyway, Naminé´s under attack.
+
+    We have to go help her!
+- id: 18445
+  fr: >-
+    Impossible de rejoindre
+
+    directement Naminé d'ici.{:clear }Pas de panique,
+
+    suivons ce chemin.
+  gr: >-
+    Sieht nicht so aus, als könnten
+
+    wir direkt von hier zu Naminé.{:clear }Ich weiß, es sollte schnell gehen, aber
+
+    wir müssen wohl den Weg da nehmen.
+  it: >-
+    Non credo che riusciremo a raggiungere
+
+    Naminé direttamente da qui.{:clear }So che hai fretta, ma dobbiamo
+
+    andare da quella parte.
+  sp: >-
+    No creo que desde aquí podamos llegar
+
+    directamente hasta donde está Naminé.{:clear }Sé que tienes prisa, pero necesitamos
+
+    seguir este camino.
+  en: >-
+    It doesn´t look like we can get to Naminé
+
+    directly from here.{:clear }I know you´re in a hurry, but we need to
+
+    take that path over there.
+- id: 18446
+  fr: >-
+    Je n'aime pas cet endroit.
+
+    On dirait un cimetière...{:clear }Tout est en ruine...
+
+    Tu sais ce que ça signifie, Roxas?
+  gr: >-
+    Irgendetwas gefällt mir an diesem Ort nicht.
+
+    Es ist hier fast wie ... auf einem Friedhof.{:clear }So gut wie alles liegt in Trümmern.
+
+    Weißt du, was das alles zu bedeuten hat, Roxas?
+  it: >-
+    Non mi piace l'atmosfera di questo
+
+    posto... Sembra un cimitero.{:clear }E poi... è tutto in rovina...
+
+    Sai che cosa può significare, Roxas?
+  sp: >-
+    Este sitio me da mala espina.
+
+    Es como... un cementerio.{:clear }Casi todo parece estar en ruinas.
+
+    ¿Por qué será, Roxas?
+  en: >-
+    I don´t like the feel of this place.
+
+    It´s almost like...a graveyard.{:clear }Just about everything is in ruins.
+
+    Do you know what it all means, Roxas?
+- id: 18447
+  fr: >-
+    Regarde !
+
+    L'entrée brille.{:clear }Tu crois que ça a un rapport
+
+    avec tes ennemis, Roxas ?
+  gr: >-
+    Seht! Der Eingang strahlt auf einmal.{:clear }Könnte das etwas mit euren
+
+    Feinden zu tun haben, Roxas?
+  it: >-
+    Guarda!
+
+    Ora l'entrata sta brillando!{:clear }Potrebbe avere qualcosa a che
+
+    fare con i tuoi nemici, Roxas?
+  sp: >-
+    ¡Mira!
+
+    Ahora hay una luz en esa entrada.{:clear }¿Tendrá algo que ver
+
+    con tus enemigos, Roxas?
+  en: >-
+    Look!
+
+    Now this entrance is glowing.{:clear }Could this have something to do with
+
+    your enemies, Roxas?
+- id: 18448
+  fr: >-
+    Si seulement je savais me battre
+
+    comme toi et Axel...{:clear }Pourquoi est-ce que vous êtes tout le
+
+    temps les seuls à prendre des risques ?
+  gr: >-
+    Ich wünschte, ich könnte so
+
+    kämpfen wie du und Axel.{:clear }Ich weiß, wie ihr fühlt, aber ihr solltet
+
+    nicht die Einzigen sein, die verletzt werden.
+  it: >-
+    Vorrei essere brava a combattere
+
+    come te e Axel...{:clear }So cosa pensi, ma non
+
+    dovreste essere solo voi
+
+    ragazzi a rischiare la pelle.
+  sp: >-
+    Quisiera luchar como Axel y tú...{:clear }Sé lo que pensáis, pero no deberíais
+
+    ser los únicos que os arriesgarais.
+  en: >-
+    I wish I could fight like you and Axel...{:clear }I know what you´re thinking, but you guys
+
+    shouldn´t be the only ones getting hurt./
+- id: 18451
+  fr: >-
+    La voie est ouverte.
+
+    Xemnas doit nous attendre.{:clear }Il dirige l'Organisation {XIII}.
+
+    Tâche de ne pas me ralentir, Roxas.
+  gr: >-
+    Der Pfad ist offen.
+
+    Xemnas wartet bereits auf uns.{:clear }Er ist der Anführer der Organisation {XIII}.
+
+    Sei mir kein Klotz am Bein, Roxas.
+  it: >-
+    Il passaggio è aperto. Xemnas
+
+    ci sta aspettando di là.{:clear }Lui è il capo dell'Organizzazione {XIII}. Cerca
+
+    di non essermi troppo d'intralcio, Roxas.
+  sp: >-
+    El camino está abierto. Allá
+
+    nos espera Xemnas.{:clear }Es el líder de la Organización {XIII}.
+
+    Démonos prisa, Roxas.
+  en: >-
+    The path is open. Xemnas is waiting up
+
+    ahead.{:clear }He´s the leader of Organization {XIII}.
+
+    Try not to slow me down, Roxas.
+- id: 18452
+  fr: >-
+    Sora... Je connais ce garçon.
+
+    Je lui ai parlé une fois.{:clear }J'ai trouvé qu'il te ressemblait beaucoup.
+
+    Qui peut-il bien être ?
+  gr: >-
+    Sora ... Ich kenne diesen Namen.
+
+    Ich habe einmal mit ihm gesprochen.{:clear }Er hat mich an dich erinnert, Roxas.
+
+    Wer ist er?
+  it: >-
+    Sora... Io lo conosco.
+
+    Ci ho parlato una volta.{:clear }Mi ricordava molto te, Roxas.
+
+    Sai chi è?
+  sp: >-
+    Sora... Conozco ese nombre.
+
+    Una vez hablé con él.{:clear }Me recordaba a ti, Roxas.
+
+    ¿Le conoces?
+  en: >-
+    Sora...I know that name.
+
+    Once I spoke with him.{:clear }He reminded me of you, Roxas.
+
+    Who is he?
+- id: 18459
+  fr: >-
+    J'ai rencontré Sora par l'intermédiaire
+
+    d'un type nommé DiZ.{:clear }Au début, je ne lui faisais pas confiance,
+
+    mais on avait besoin l'un de l'autre.
+  gr: >-
+    Ich habe Sora durch einen
+
+    Mann namens DiZ getroffen.{:clear }Zuerst habe ich DiZ nicht getraut,
+
+    aber wir brauchten beide jeweils
+
+    die Hilfe des anderen.
+  it: >-
+    Ho incontrato Sora
+
+    tramite un tipo di nome DiZ.{:clear }Non mi fidavo assolutamente di DiZ,
+
+    ma io avevo bisogno di lui e lui di me.
+  sp: >-
+    Encontré a Sora gracias a un tipo
+
+    llamado DiZ.{:clear }Al principio no confiaba en él, pero
+
+    nos necesitábamos el uno al otro.
+  en: >-
+    I met Sora because of a guy
+
+    named DiZ.{:clear }I didn´t trust DiZ at first, but we both
+
+    needed each other´s help.
+- id: 18462
+  fr: >-
+    Pas mal, Roxas.
+
+    Tu as fait des progrès.{:clear }Apparemment, tu n'as pas encore besoin
+
+    d'Âme-nivore ni du pouvoir des ténèbres.
+  gr: >-
+    Hmpf. Nicht schlecht, Roxas.
+
+    Du bist stärker geworden.{:clear }Du brauchst meine Waffe, den Seelenfänger,
+
+    oder die Kraft der Dunkelheit noch nicht.
+  it: >-
+    Hmf. Niente male, Roxas.
+
+    Sei diventato più forte.{:clear }Non hai bisogno della mia arma,
+
+    l'Animofago, e nemmeno
+
+    del potere dell'oscurità.
+  sp: >-
+    Mmm. No está mal, Roxas.
+
+    Te has vuelto más fuerte.{:clear }No necesitas de mi arma ni
+
+    del poder de la oscuridad.
+  en: >-
+    Hmph. Not bad, Roxas.
+
+     You´ve grown stronger.{:clear }You don´t need my weapon, Soul Eater,
+
+    or the power of the dark yet.
+- id: 18936
+  fr: >-
+    Je l'ai vu quand les routes de Naminé
+
+    et Sora se sont croisées.{:delay F0 00}{:clear }{:delay 21 00}Je l'ai compris.{:delay 39 00}{:clear }{:delay 1E 00}Mais j'étais trop entêté pour l'accepter.
+  gr: >-
+    Ich merkte es, als sich Sora'
+
+    und Kairis Wege kreuzten.{:delay EF 00}{:clear }{:delay 26 00}{:clear }Ich begriff.{:delay 46 00}{:clear }Aber ich war zu stur,
+
+    um es zu akzeptieren.
+  it: >-
+    L'ho notato quando Sora
+
+    e Naminé si sono incontrati.{:delay F0 00}{:clear }{:delay 21 00}Lo sapevo.{:delay 39 00}{:clear }{:delay 1E 00}Ma ero troppo testardo
+
+    per ammetterlo.
+  sp: >-
+    Lo vi cuando Sora y Naminé se cruzaron. {:delay E2 00}{:clear }{:delay 37 00}Lo supe. {:delay 2C 00}{:clear }{:delay 1E 00}Pero era demasiado cabezota
+
+    para aceptarlo.
+  en: >-
+    I saw it when Sora and Naminé crossed paths.{:delay F0 00}{:clear }{:delay 21 00}I knew. {:delay 39 00}{:clear }{:delay 1E 00}But I was too stubborn to accept it.
+- id: 18938
+  fr: >-
+    Lorsque je tentais de provoquer
+
+    le réveil de Roxas,{:delay C8 00}{:clear }j'avais une multitude de projets.
+
+    Mais ils furent réduits à néant{:delay F0 00}{:clear }lorsqu'il commença à agir
+
+    de son propre chef.
+  gr: >-
+    Während ich dabei war ...{:delay 64 00}{:clear }... Roxas zurückzubringen, hatte
+
+    ich so viele Pläne im Hinterkopf.{:delay 09 01}{:clear }Doch kaum war Roxas eine aktive
+
+    Person, war alles dahin.
+  it: >-
+    Mentre cercavo di riportare qui
+
+    Roxas, avevo molti piani in mente.{:delay 2C 01}{:clear }{:delay 12 00}Ma quando Roxas è entrato in azione,
+
+    i miei progetti si sono rivelati inutili.
+  sp: >-
+    Cuando quise recuperar a Roxas,
+
+    tenía muchos planes para él. {:delay 2C 01}{:clear }{:delay 12 00}{:clear }Pero en cuanto pudo actuar,
+
+    se vinieron abajo.
+  en: >-
+    While I was trying to bring Roxas back,
+
+    I had so many plans in store.{:delay 2C 01}{:clear }{:delay 12 00}But once Roxas was an acting force,
+
+    they fell apart.
+- id: 19121
+  fr: >-
+    Cette amulette que tu gardais, elle a marché
+
+    et nous nous sommes retrouvés !{:clear }Comme je suis contente de te revoir.
+
+    Tu m'as tant manqué, Roxas !
+  gr: >-
+    Du hast ihn tatsächlich behalten. Der Talisman
+
+    des Wiedersehens hat wirklich funktioniert!{:clear }Ich habe dich so vermisst, Roxas.
+
+    Ich habe dich ja so vermisst!
+  it: >-
+    Ce l'hai fatta! Il portafortuna
+
+    ci ha fatto incontrare di nuovo!{:clear }Non sai che voglia avevo di vederti,
+
+    Roxas. Mi sei mancato tanto!
+  sp: >-
+    ¡El amuleto nos ha traído suerte!
+
+    ¡Por fin nos encontramos!{:clear }Tenía muchas ganas de verte, Roxas.
+
+    ¡Te echaba tanto de menos!
+  en: >-
+    You held onto that charm. That talisman
+
+    of reunion really worked!{:clear }I wanted to see you so badly, Roxas.
+
+    I missed you so much!
+- id: 19122
+  fr: >-
+    Il y a un an, les ténèbres ont pris le dessus
+
+    et je t'ai trahi. Regarde ce que je suis devenu.{:clear }À vrai dire, je n'étais pas très à l'aise à l'idée
+
+    de te revoir, mais Naminé m'a convaincu.
+  gr: >-
+    Vor einem Jahr hat mich die Dunkelheit
+
+    übermannt, und ich habe dich hintergangen.
+
+    Sieh nur, was aus mir geworden ist.{:clear }Ich war mir nicht sicher, ob ich dich sehen
+
+    wollte ... aber Naminé hat darauf bestanden.
+  it: >-
+    In passato sono stato inghiottito
+
+    dall'oscurità e ti ho tradito.
+
+    Ed eccomi qui ora.{:clear }Io... non ero sicuro di volerti vedere,
+
+    ma Naminé ha insistito tanto...
+  sp: >-
+    En el pasado, la oscuridad me venció,
+
+    y te traicioné. ¡En qué me he convertido!{:clear }No estaba seguro de querer
+
+    verte, pero Naminé insistió.
+  en: >-
+    In the past, I was overcome by the dark and
+
+    betrayed you. Look what´s become of me.{:clear }I wasn´t sure I wanted to
+
+    see you...but Naminé insisted
+- id: 19123
+  fr: >-
+    Je sais pas comment Naminé et toi
+
+    avez pu reconnaître Axel.{:clear }Il ressemble tellement à Ansem que je
+
+    n'aurais jamais deviné que c'était lui !
+  gr: >-
+    Erstaunlich, dass Naminé und
+
+    du Axel wiedererkannt habt.{:clear }Er sieht aus wie Ansem. Ich konnte meinen
+
+    Augen kaum trauen, als ich ihn gesehen habe.
+  it: >-
+    È incredibile che tu e Naminé
+
+    abbiate riconosciuto Axel!{:clear }Assomiglia così tanto ad Ansem...
+
+    Non credevo ai miei occhi quando
+
+    l'ho visto la prima volta...
+  sp: >-
+    Es asombroso que Naminé y tú
+
+    hayáis reconocido a Axel.{:clear }Es idéntico a Ansem. La primera
+
+    vez que le vi, no podía creerlo.
+  en: >-
+    It´s amazing Naminé and you recognized
+
+    Axel.{:clear }He looks just like Ansem. I couldn´t
+
+    believe my eyes when I first saw him.
+- id: 19124
+  fr: >-
+    Alors c'est Axel qui nous
+
+    a aidés depuis le départ.{:clear }Vous devez être très amis s'il a été
+
+    jusqu'à changer d'apparence pour t'aider !
+  gr: >-
+    Dann war es also Axel, der uns
+
+    die ganze Zeit über geholfen hat.{:clear }Ihr müsst wirklich beste Freunde sein,
+
+    wenn er sein Aussehen so verändert,
+
+    um dir zu helfen!
+  it: >-
+    E così era Axel quello che ci ha
+
+    aiutati per tutto questo tempo...{:clear }Voi due dovete essere proprio
+
+    grandi amici se è arrivato a
+
+    trasformarsi così per aiutarti!
+  sp: >-
+    Entonces el que nos ayudaba
+
+    todo el tiempo era Axel.{:clear }Vosotros sois sus mejores amigos.
+
+    ¡Hasta cambió su aspecto para ayudaros!
+  en: >-
+    So Axel was the one who´s been
+- id: 19149
+  fr: >-
+    On a retrouvé le Roi et Naminé, et maintenant
+
+    que Axel est avec nous, on est invincibles !{:clear }Après tout, Axel aussi est
+
+    un élu de la Keyblade !
+  gr: >-
+    Wir haben den König und Naminé getroffen, und
+
+    Axel ist jetzt auch dabei! Wir sind unschlagbar!{:clear }Axel wurde immerhin auch vom
+
+    Schlüsselschwert auserwählt.
+  it: >-
+    Ci siamo ricongiunti con il Re e Naminé e
+
+    ora anche con Axel. Siamo imbattibili!{:clear }E poi, anche Axel è
+
+    stato scelto dal Keyblade!
+  sp: >-
+    ¡Nos reunimos con el rey y Naminé!
+
+    ¡Y ahora con Axel! ¡Somos invencibles!{:clear }Después de todo, Axel también
+
+    fue elegido por la llave espada.
+  en: >-
+    We met up with the King and Naminé, and
+
+    now Axel is with us! We´re unbeatable!{:clear }After all, Axel was chosen by the
+
+    Keyblade, too.
+- id: 19150
+  fr: >-
+    La dernière fois, quand on a été séparés
+
+    de toi, on a fait équipe avec Axel.{:clear }Il était très distant à cette époque-là,
+
+    mais il a l'air plus sympa cette fois.
+  gr: >-
+    Letztes Jahr wurden wir von dir getrennt
+
+    und haben uns mit Axel zusammengetan.{:clear }Er war damals ziemlich kühl, aber jetzt
+
+    merkt man, ihr seid beste Freunde.
+  it: >-
+    L'anno scorso ci siamo separati
+
+    da te e ci siamo uniti a Axel.{:clear }Lui era molto freddo allora, ma adesso
+
+    sembra che sia tuo amico per davvero.
+  sp: >-
+    El año pasado nos separamos de
+
+    ti y estuvimos con Axel.{:clear }Entonces, él se mostró frío, pero
+
+    ahora se nota que es tu amigo.
+  en: >-
+    Last year we got separated from you
+
+    and joined up with Axel.{:clear }He was really cold back then, but now
+
+    he seems more like your friend.
+- id: 19571
+  fr: >-
+    Vite ! Roxas a besoin de ton aide !
+  gr: >-
+    Schnell! Jetzt bloß nicht unterkriegen lassen!
+  it: >-
+    Svelto! Roxas sarà spacciato senza il tuo aiuto!
+  sp: >-
+    ¡Deprisa! ¡Sin tu ayuda, Roxas está perdido!
+  en: >-
+    Hurry! Without your help, Roxas is doomed!
+- id: 19950
+  fr: >-
+    J'ai transmis le message,
+
+    comme vous me l'aviez demandé.{:delay A5 00}{:clear }J'ai dit au petit Roxas de continuer
+
+    à s'occuper des Sans-cæur.
+  gr: >-
+    Die Nachricht ist überbracht.
+
+    Wie du es gewünscht hast.{:delay 5A 00}{:clear } {:delay 73 00}{:clear }Ich habe Roxas gesagt,
+
+    er solle weiter die Herzlosen besiegen.
+  it: >-
+    Ho consegnato il messaggio
+
+    come desideravi ardentemente.{:delay A5 00}{:clear }Ho detto al giovane Roxas di
+
+    continuare a eliminare gli Heartless.
+  sp: >-
+    Ya le he transmitido el mensaje.{:delay A5 00}{:clear }Roxas sabe que tiene que seguir combatiendo
+
+    a los sincorazón.
+  en: >-
+    I passed on the message
+
+    as you so desired.{:delay A5 00}{:clear }I told the young Roxas to keep
+
+    defeating the Heartless.
+- id: 19952
+  fr: >-
+    Roxas doutera bientôt de lui-même.{:delay D2 00}{:clear } {:delay 28 00}{:clear }Il commencera par hésiter, et cette hésitation
+
+    se changera en colère.{:delay 9A 01}{:clear }{:delay 1E 00}{:clear }C'est cette colère qui le libérera
+
+    de ses appréhensions{:delay 0E 01}{:clear }et qui lui permettra d'aller de l'avant.{:delay 96 00}{:clear } {:delay 28 00}{:clear }Il nous mènera vers cet avenir
+
+    dont nous rêvons.
+  gr: >-
+    Nicht lange, bis Roxas verunsichert ist.{:delay BE 00}{:clear }{:delay 1E 00}{:clear }Seine Bedenken werden ihn zögern
+
+    lassen, und schon bald ...{:delay 8C 00}{:clear }{:delay 14 00}{:clear }... wird er sich für seine
+
+    Unentschlossenheit selbst verachten.{:delay C8 00}{:clear }Dieser Selbsthass wird ihn dazu bringen ...{:delay 96 00}{:clear }{:delay 0A 00}{:clear }... jegliche Vernunft über Bord
+
+    zu werfen und voranzuschreiten.{:delay 96 00}{:clear } {:delay 28 00}{:clear }Und dann wird dieser Junge den Weg
+
+    ebnen für die Zukunft, die wir begehren.
+  it: >-
+    Presto Roxas dubiterà di se stesso.{:delay DC 00}{:clear } {:delay 0F 00}{:clear }Quel dubbio lo farà esitare e
+
+    quell'esitazione diventerà rabbia.{:delay 9F 01}{:clear }Quella rabbia lo spingerà a liberarsi delle
+
+    sue preoccupazioni e ad andare avanti.{:delay CC 01}{:clear } {:delay 28 00}{:clear }Ci spianerà la strada verso
+
+    il futuro che desideriamo.
+  sp: >-
+    Dentro de poco, Roxas empezará a dudar de sí mismo.{:delay DC 00}{:clear } {:delay 0F 00}{:clear }La duda lo llevará a la incertidumbre
+
+    y esta desembocará en ira. {:delay 9F 01}{:clear }Eso es lo que le hará liberarse de las ataduras
+
+    que le refrenan y así podrá seguir adelante.{:delay CC 01}{:clear } {:delay 28 00}{:clear }Ese jovencito irá allanando el camino
+
+    para el futuro que tanto anhelamos.
+  en: >-
+    Roxas will soon begin to doubt himself.{:delay DC 00}{:clear } {:delay 0F 00}{:clear }It will cause him to hesitate, and
+
+    that hesitation will turn to anger.{:delay 9F 01}{:clear }That anger will fuel him to get rid
+
+    of his apprehension and move forward.{:delay CC 01}{:clear } {:delay 28 00}{:clear }He will pave the way for
+
+    the future we desire.
+- id: 19957
+  fr: >-
+    Roxas connaît désormais toute la vérité.{:delay 93 00}{:clear } {:delay 62 00}{:clear }Plus il anéantira de Sans-cæur,{:delay 78 00}{:clear }plus il servira nos desseins.
+  gr: >-
+    Roxas kennt nun die Wahrheit.{:delay 93 00}{:clear } {:delay 62 00}{:clear }Je mehr Herzlose er besiegt,{:delay B1 00}{:clear }desto mehr wird er zur perfekten Puppe,
+
+    die die Organisation manipulieren kann.
+  it: >-
+    Roxas ora sa la verità.{:delay 93 00}{:clear } {:delay 62 00}{:clear }Se continua a eliminare gli Heartless,{:delay 78 00}{:clear }diventerà la nostra marionetta perfetta.
+  sp: >-
+    Roxas ya sabe la verdad. {:delay 93 00}{:clear } {:delay 62 00}{:clear }Con cada sincorazón que abate, {:delay 78 00}{:clear }se va convirtiendo más y más en la marioneta
+
+    perfecta para los intereses de la Organización.
+  en: >-
+    Roxas knows the truth now.{:delay 93 00}{:clear } {:delay 62 00}{:clear }The more Heartless that he defeats,{:delay 78 00}{:clear }the closer he is to becoming
+
+    our perfect puppet.
+- id: 19958
+  fr: >-
+    Qu'est-ce que ça peut faire ?{:delay 92 00}{:clear }Quoi qu'il arrive,{:delay 8B 00}{:clear }Roxas n'a jamais pu s'empêcher de sauver
+
+    les autres des griffes des Sans-cæur.{:delay 18 01}{:clear }{:delay 2D 00}{:clear }C'est ce que lui dicte son petit cæur pur.
+  gr: >-
+    Macht es einen Unterschied?{:delay 92 00}{:clear }Egal, wie die Umstände sind ...{:delay 8B 00}{:clear }Roxas kann nicht anders,
+
+    als Leute vor den Herzlosen zu retten.{:delay A9 00}{:clear }Er war schon immer so.{:delay CE 00}{:clear }Sein reines Herz will es so.
+  it: >-
+    E allora?{:delay 92 00}{:clear }Quali che siano le circostanze,{:delay 8B 00}{:clear }Roxas non ha mai potuto fare a meno di
+
+    eliminare gli Heartless per salvare gli altri.{:delay 18 01}{:clear } {:delay 2D 00}{:clear }È ciò che desidera il suo cuoricino puro.
+  sp: >-
+    ¿Y qué importa eso?{:delay 92 00}{:clear }Sea como fuere,{:delay 8B 00}{:clear }Roxas no puede evitar salvar 
+
+    a la gente de los sincorazón.{:delay 18 01}{:clear } {:delay 2D 00}{:clear }Siempre ha sido así. 
+
+    Eso es lo que su puro corazoncito desea.
+  en: >-
+    What does it matter really?{:delay 92 00}{:clear }Whatever his circumstances,{:delay 8B 00}{:clear }Roxas has never been able to help himself
+
+    from saving people from the Heartless.{:delay 18 01}{:clear } {:delay 2D 00}{:clear }It's what his pure little heart wants.
+- id: 19972
+  fr: >-
+    Cela semble évident que par toutes ses actions,
+
+    aussi extravagante furent-elles,{:delay EA 01}{:clear }Axel a fait vibrer le cæur de Roxas.{:delay F0 00}{:clear }Peut-être qu'{:unk0e 0A}il{:unk0e 00} s'éveillera bientôt.
+  gr: >-
+    Ich sehe es deutlich vor mir.{:delay 64 00}{:clear }Durch sein Handeln, so närrisch es auch war ...{:delay 8C 00}{:clear }... hat Axel es geschafft,
+
+    Soras Herz zu berühren.{:delay 64 00}{:clear }Vielleicht dauert es nicht mehr
+
+    lange, bis ER in Roxas erwacht.
+  it: >-
+    È chiaro che con le sue azioni,
+
+    per quanto sciocche fossero,{:delay EA 01}{:clear }Axel ha toccato il cuore di Roxas.{:delay F0 00}{:clear }Forse presto sarà LUI a risvegliarsi.
+  sp: >-
+    Lo veo más que claro. 
+
+    Por absurdos que puedan haber sido sus actos, {:delay EA 01}{:clear }Axel ha llegado hasta el corazón de Roxas. {:delay F0 00}{:clear }Es posible que él despierte en el interior de Roxas.
+  en: >-
+    Is it clear that through his actions,
+
+    however foolish they may have been,{:delay EA 01}{:clear }Axel has touched Roxas's heart.{:delay F0 00}{:clear }Perhaps HE will soon awaken.
+- id: 19974
+  fr: >-
+    Allez, Roxas.{:delay 6A 00}{:clear }Je te croyais plus fort que ça.
+  gr: >-
+    Komm schon, Roxas.{:delay 6A 00}{:clear }Ich dachte, du bist stärker.{:delay 6A 00}{:clear }Wach auf.
+  it: >-
+    Forza, Roxas.{:delay 6A 00}{:clear }Pensavo che fossi più forte di così.
+  sp: >-
+    Vamos, Roxas. {:delay 6A 00}{:clear }Creía que eras más fuerte.
+  en: >-
+    Come on, Roxas.{:delay 6A 00}{:clear }I thought you were stronger than that.
+- id: 19984
+  fr: >-
+    DiZ... Il pouvait sentir Roxas.
+  gr: >-
+    DiZ ... Er konnte Roxas spüren.
+  it: >-
+    DiZ... Sentiva Roxas.
+  sp: >-
+    DiZ... Él podía sentir a Roxas.
+  en: >-
+    DiZ... He could feel Roxas.
+- id: 20542
+  fr: >-
+    Un nouvel ennemi est apparu.
+
+    Il attend Roxas dans
+
+    l'un des mondes.
+  gr: >-
+    In einer der Welten ist ein neuer
+
+    Gegner erschienen und erwartet Roxas.
+  it: >-
+    Si è materializzato un nuovo nemico
+
+    che aspetta Roxas in uno dei mondi.
+  sp: >-
+    Un nuevo rival ha aparecido
+
+    y aguarda a Roxas en alguno
+
+    de los mundos.
+  en: >-
+    A new enemy has materialized,
+
+    and awaits Roxas in one of the worlds.
+- id: 21432
+  fr: >-
+    Hé, Axel ?
+  gr: >-
+    Hey, Axel?
+  it: >-
+    Ehi, Axel?
+  sp: >-
+    ¿Axel?
+  en: >-
+    Hey, Axel?
+- id: 21439
+  fr: >-
+    S'il avait rencontré Roxas,{:delay 74 00}{:clear }les choses auraient
+
+    peut-être été différentes.
+  gr: >-
+    Hätte er Roxas getroffen, wäre die Sache
+
+    vielleicht anders verlaufen.
+  it: >-
+    Se avesse incontrato Roxas,{:delay 74 00}{:clear }forse le cose sarebbero
+
+    andate diversamente.
+  sp: >-
+    Si hubiera conocido a Roxas, {:delay 74 00}{:clear }quizá las cosas habrían sido distintas.
+  en: >-
+    If he had met Roxas,{:delay 74 00}{:clear }things might have been different.
