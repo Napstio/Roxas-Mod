@@ -4981,27 +4981,6 @@ assets:
   multi: 
   source:
   - name: remastered\menu\fm\title.2ld\US_title_2ld8.png
-- name: remastered\menu\fm\title.2ld\US_title_2ld9.png
-  method: copy
-  platform: pc
-  package: kh2_first
-  multi: 
-  source:
-  - name: remastered\menu\fm\title.2ld\US_title_2ld9.png
-- name: remastered\menu\fm\title.2ld\US_title_2ld10.png
-  method: copy
-  platform: pc
-  package: kh2_first
-  multi: 
-  source:
-  - name: remastered\menu\fm\title.2ld\US_title_2ld10.png
-- name: remastered\menu\fm\title.2ld\US_title_2ld11.png
-  method: copy
-  platform: pc
-  package: kh2_first
-  multi: 
-  source:
-  - name: remastered\menu\fm\title.2ld\US_title_2ld11.png
 - name: remastered\menu\fr\ab_010_o.bar\FR_ab_010_o_bar0.png
   method: copy
   platform: pc
