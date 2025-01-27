@@ -4722,6 +4722,286 @@ assets:
   multi: 
   source:
   - name: remastered\menu\fm\sw_010_s.bar\US_sw_010_s_bar0.dds
+- name: remastered\menu\fm\title.2ld\FR_title_2ld0.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\FR_title_2ld0.png
+- name: remastered\menu\fm\title.2ld\FR_title_2ld2.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\FR_title_2ld2.png
+- name: remastered\menu\fm\title.2ld\FR_title_2ld3.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\FR_title_2ld3.png
+- name: remastered\menu\fm\title.2ld\FR_title_2ld4.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\FR_title_2ld4.png
+- name: remastered\menu\fm\title.2ld\FR_title_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\FR_title_2ld5.png
+- name: remastered\menu\fm\title.2ld\FR_title_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\FR_title_2ld6.png
+- name: remastered\menu\fm\title.2ld\FR_title_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\FR_title_2ld7.png
+- name: remastered\menu\fm\title.2ld\GR_title_2ld0.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\GR_title_2ld0.png
+- name: remastered\menu\fm\title.2ld\GR_title_2ld2.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\GR_title_2ld2.png
+- name: remastered\menu\fm\title.2ld\GR_title_2ld3.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\GR_title_2ld3.png
+- name: remastered\menu\fm\title.2ld\GR_title_2ld4.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\GR_title_2ld4.png
+- name: remastered\menu\fm\title.2ld\GR_title_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\GR_title_2ld5.png
+- name: remastered\menu\fm\title.2ld\GR_title_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\GR_title_2ld6.png
+- name: remastered\menu\fm\title.2ld\GR_title_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\GR_title_2ld7.png
+- name: remastered\menu\fm\title.2ld\IT_title_2ld0.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\IT_title_2ld0.png
+- name: remastered\menu\fm\title.2ld\IT_title_2ld2.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\IT_title_2ld2.png
+- name: remastered\menu\fm\title.2ld\IT_title_2ld3.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\IT_title_2ld3.png
+- name: remastered\menu\fm\title.2ld\IT_title_2ld4.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\IT_title_2ld4.png
+- name: remastered\menu\fm\title.2ld\IT_title_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\IT_title_2ld5.png
+- name: remastered\menu\fm\title.2ld\IT_title_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\IT_title_2ld6.png
+- name: remastered\menu\fm\title.2ld\IT_title_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\IT_title_2ld7.png
+- name: remastered\menu\fm\title.2ld\SP_title_2ld0.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\SP_title_2ld0.png
+- name: remastered\menu\fm\title.2ld\SP_title_2ld2.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\SP_title_2ld2.png
+- name: remastered\menu\fm\title.2ld\SP_title_2ld3.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\SP_title_2ld3.png
+- name: remastered\menu\fm\title.2ld\SP_title_2ld4.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\SP_title_2ld4.png
+- name: remastered\menu\fm\title.2ld\SP_title_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\SP_title_2ld5.png
+- name: remastered\menu\fm\title.2ld\SP_title_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\SP_title_2ld6.png
+- name: remastered\menu\fm\title.2ld\SP_title_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\SP_title_2ld7.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld0.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld0.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld1.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld1.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld2.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld2.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld3.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld3.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld4.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld4.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld5.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld6.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld7.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld8.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld8.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld9.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld9.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld10.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld10.png
+- name: remastered\menu\fm\title.2ld\US_title_2ld11.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fm\title.2ld\US_title_2ld11.png
 - name: remastered\menu\fr\ab_010_o.bar\FR_ab_010_o_bar0.png
   method: copy
   platform: pc
@@ -11964,7 +12244,6 @@ assets:
   method: copy
   platform: pc
   package: kh2_first
-  multi: 
   source:
   - name: menu\us\title.2ld
 #start new
@@ -12728,41 +13007,314 @@ assets:
   multi: 
   source:
   - name: remastered\menu\fm\save.2ld\US_save_2ld1.png
-- name: remastered\menu\fm\title.2ld\FR_title_2ld2.png
+- name: remastered\menu\fr\title.2ld\FR_title_2ld0.png
   method: copy
   platform: pc
   package: kh2_first
   multi: 
   source:
-  - name: remastered\menu\fm\title.2ld\FR_title_2ld2.png
-- name: remastered\menu\fm\title.2ld\GR_title_2ld2.png
+  - name: remastered\menu\fr\title.2ld\FR_title_2ld0.png
+- name: remastered\menu\fr\title.2ld\FR_title_2ld1.png
   method: copy
   platform: pc
   package: kh2_first
   multi: 
   source:
-  - name: remastered\menu\fm\title.2ld\GR_title_2ld2.png
-- name: remastered\menu\fm\title.2ld\IT_title_2ld2.png
+  - name: remastered\menu\fr\title.2ld\FR_title_2ld1.png
+- name: remastered\menu\fr\title.2ld\FR_title_2ld2.png
   method: copy
   platform: pc
   package: kh2_first
   multi: 
   source:
-  - name: remastered\menu\fm\title.2ld\IT_title_2ld2.png
-- name: remastered\menu\fm\title.2ld\SP_title_2ld2.png
+  - name: remastered\menu\fr\title.2ld\FR_title_2ld2.png
+- name: remastered\menu\fr\title.2ld\FR_title_2ld3.png
   method: copy
   platform: pc
   package: kh2_first
   multi: 
   source:
-  - name: remastered\menu\fm\title.2ld\SP_title_2ld2.png
-- name: remastered\menu\fm\title.2ld\US_title_2ld2.png
+  - name: remastered\menu\fr\title.2ld\FR_title_2ld3.png
+- name: remastered\menu\fr\title.2ld\FR_title_2ld4.png
   method: copy
   platform: pc
   package: kh2_first
   multi: 
   source:
-  - name: remastered\menu\fm\title.2ld\US_title_2ld2.png
+  - name: remastered\menu\fr\title.2ld\FR_title_2ld4.png
+- name: remastered\menu\fr\title.2ld\FR_title_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fr\title.2ld\FR_title_2ld5.png
+- name: remastered\menu\fr\title.2ld\FR_title_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fr\title.2ld\FR_title_2ld6.png
+- name: remastered\menu\fr\title.2ld\FR_title_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\fr\title.2ld\FR_title_2ld7.png
+- name: remastered\menu\gr\title.2ld\GR_title_2ld0.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\gr\title.2ld\GR_title_2ld0.png
+- name: remastered\menu\gr\title.2ld\GR_title_2ld1.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\gr\title.2ld\GR_title_2ld1.png
+- name: remastered\menu\gr\title.2ld\GR_title_2ld2.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\gr\title.2ld\GR_title_2ld2.png
+- name: remastered\menu\gr\title.2ld\GR_title_2ld3.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\gr\title.2ld\GR_title_2ld3.png
+- name: remastered\menu\gr\title.2ld\GR_title_2ld4.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\gr\title.2ld\GR_title_2ld4.png
+- name: remastered\menu\gr\title.2ld\GR_title_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\gr\title.2ld\GR_title_2ld5.png
+- name: remastered\menu\gr\title.2ld\GR_title_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\gr\title.2ld\GR_title_2ld6.png
+- name: remastered\menu\gr\title.2ld\GR_title_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\gr\title.2ld\GR_title_2ld7.png
+- name: remastered\menu\it\title.2ld\IT_title_2ld0.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\it\title.2ld\IT_title_2ld0.png
+- name: remastered\menu\it\title.2ld\IT_title_2ld1.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\it\title.2ld\IT_title_2ld1.png
+- name: remastered\menu\it\title.2ld\IT_title_2ld2.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\it\title.2ld\IT_title_2ld2.png
+- name: remastered\menu\it\title.2ld\IT_title_2ld3.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\it\title.2ld\IT_title_2ld3.png
+- name: remastered\menu\it\title.2ld\IT_title_2ld4.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\it\title.2ld\IT_title_2ld4.png
+- name: remastered\menu\it\title.2ld\IT_title_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\it\title.2ld\IT_title_2ld5.png
+- name: remastered\menu\it\title.2ld\IT_title_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\it\title.2ld\IT_title_2ld6.png
+- name: remastered\menu\it\title.2ld\IT_title_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\it\title.2ld\IT_title_2ld7.png
+- name: remastered\menu\sp\title.2ld\SP_title_2ld0.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\sp\title.2ld\SP_title_2ld0.png
+- name: remastered\menu\sp\title.2ld\SP_title_2ld1.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\sp\title.2ld\SP_title_2ld1.png
+- name: remastered\menu\sp\title.2ld\SP_title_2ld2.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\sp\title.2ld\SP_title_2ld2.png
+- name: remastered\menu\sp\title.2ld\SP_title_2ld3.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\sp\title.2ld\SP_title_2ld3.png
+- name: remastered\menu\sp\title.2ld\SP_title_2ld4.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\sp\title.2ld\SP_title_2ld4.png
+- name: remastered\menu\sp\title.2ld\SP_title_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\sp\title.2ld\SP_title_2ld5.png
+- name: remastered\menu\sp\title.2ld\SP_title_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\sp\title.2ld\SP_title_2ld6.png
+- name: remastered\menu\sp\title.2ld\SP_title_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\sp\title.2ld\SP_title_2ld7.png
+- name: remastered\menu\us\title.2ld\US_title_2ld0.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld0.png
+- name: remastered\menu\us\title.2ld\US_title_2ld1.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld1.png
+- name: remastered\menu\us\title.2ld\US_title_2ld2.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld2.png
+- name: remastered\menu\us\title.2ld\US_title_2ld3.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld3.png
+- name: remastered\menu\us\title.2ld\US_title_2ld4.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld4.png
+- name: remastered\menu\us\title.2ld\US_title_2ld5.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld5.png
+- name: remastered\menu\us\title.2ld\US_title_2ld6.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld6.png
+- name: remastered\menu\us\title.2ld\US_title_2ld7.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld7.png
+- name: remastered\menu\us\title.2ld\US_title_2ld8.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld8.png
+- name: remastered\menu\us\title.2ld\US_title_2ld9.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld9.png
+- name: remastered\menu\us\title.2ld\US_title_2ld10.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld10.png
+  - name: remastered\menu\us\title.2ld\US_title_2ld11.png
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\menu\us\title.2ld\US_title_2ld11.png
 - name: remastered\menu\fr\eventviewer.2ld\-0.png
   method: copy
   platform: pc
