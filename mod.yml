@@ -13273,27 +13273,6 @@ assets:
   multi: 
   source:
   - name: remastered\menu\us\title.2ld\US_title_2ld8.png
-- name: remastered\menu\us\title.2ld\US_title_2ld9.png
-  method: copy
-  platform: pc
-  package: kh2_first
-  multi: 
-  source:
-  - name: remastered\menu\us\title.2ld\US_title_2ld9.png
-- name: remastered\menu\us\title.2ld\US_title_2ld10.png
-  method: copy
-  platform: pc
-  package: kh2_first
-  multi: 
-  source:
-  - name: remastered\menu\us\title.2ld\US_title_2ld10.png
-  - name: remastered\menu\us\title.2ld\US_title_2ld11.png
-  method: copy
-  platform: pc
-  package: kh2_first
-  multi: 
-  source:
-  - name: remastered\menu\us\title.2ld\US_title_2ld11.png
 - name: remastered\menu\fr\eventviewer.2ld\-0.png
   method: copy
   platform: pc
