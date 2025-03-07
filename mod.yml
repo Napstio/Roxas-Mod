@@ -1475,12 +1475,18 @@ assets:
   source:
   - name: obj\N_EX830.mdlx
 - name: obj\N_EX940_BTL.mdlx
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  multi: 
+  method: binarc
   source:
-  - name: obj\N_EX940_BTL.mdlx
+  - name: srko
+    type: model
+    method: copy
+    source:
+    - name: obj\N_EX940_BTL.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj\N_EX940_BTL.texture
 - name: obj\N_EX950.mdlx
   method: copy
   platform: pc
