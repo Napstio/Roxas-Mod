@@ -1,7 +1,0 @@
-(remastered, all mdlxs)
-AL14_PLAYER.mdlx (ROXAS)
-N_EX550, 560, 560_RTN (NAMINE)
-N_EX620_RTN, 621,  (KAIRI)
-N_EX950 (AXEL)
-P_EH000, LAST, RTN, SIDECAR (AXEL)
-P_EX100 (all variants, except LAST, WI variants, most HTLF variants due to already matching texture order)
