@@ -241,7 +241,7 @@
 
     während eines Kampfes auszuwechseln.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 1E 00 84 01}{:color #00F0F080}Das Kommando "Limit" wurde hinzugefügt.{:reset} Drücke {:icon dynamic-dpad-left}, um das
 
-    Kommando-Menü umzuschalten, und wähle dann "Limit" aus.{:clear }{:unk0f 00 00 00 00 00}Limit-Moves sind Abilitys, die Soras MP verbrauchen
+    Kommando-Menü umzuschalten, und wähle dann "Limit" aus.{:clear }{:unk0f 00 00 00 00 00}Limit-Moves sind Abilitys, die Roxas MP verbrauchen
 
     und zusammen mit Gefährten ausgeführt werden.
   it: >-
@@ -288,7 +288,7 @@
   gr: >-
     {:unk0f 03 1E 00 84 01}{:color #00F0F080}Das Kommando "Limit" wurde hinzugefügt.{:reset} Drücke {:icon dynamic-dpad-left}, um das
 
-    Kommando-Menü umzuschalten, und wähle dann "Limit" aus.{:clear }{:unk0f 00 00 00 00 00}Limit-Moves sind Abilitys, die Soras MP verbrauchen
+    Kommando-Menü umzuschalten, und wähle dann "Limit" aus.{:clear }{:unk0f 00 00 00 00 00}Limit-Moves sind Abilitys, die Roxas MP verbrauchen
 
     und zusammen mit Gefährten ausgeführt werden.
   it: >-
